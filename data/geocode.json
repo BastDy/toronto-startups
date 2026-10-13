@@ -3,6 +3,10 @@
   43.774175,
   -79.504749
  ],
+ "1 University Ave, 3rd Floor, Toronto, ON M5J 2P1": [
+  43.645814,
+  -79.383191
+ ],
  "10 Dundas St E, 6th Floor, Toronto, ON M5B 2G9": [
   43.657035,
   -79.38046
@@ -31,6 +35,26 @@
   43.80413,
   -79.33506
  ],
+ "105-155 Gordon Baker Rd, Toronto, ON M2H 3N5": [
+  43.795665,
+  -79.341269
+ ],
+ "108 College St, Toronto, ON": [
+  43.660424,
+  -79.389344
+ ],
+ "108 College St, Toronto, ON M5G 0C6": [
+  43.660424,
+  -79.389344
+ ],
+ "110 Bond St, Toronto, ON M5B 1X8": [
+  43.656746,
+  -79.378847
+ ],
+ "120 Jevlan Dr, Unit 2A, Vaughan, ON L4L 8G3": [
+  43.798693,
+  -79.547707
+ ],
  "123 Edward St, 2nd Floor, Toronto, ON": [
   43.655641,
   -79.386769
@@ -46,6 +70,14 @@
  "130 Queens Quay E, Suite 613, Toronto, ON M5A 0P6": [
   43.644523,
   -79.368554
+ ],
+ "1300 Yonge St, Suite 701, Toronto, ON": [
+  43.685179,
+  -79.393242
+ ],
+ "151 Bloor St W, Suite 800, Toronto, ON M5S 1S4": [
+  43.66861,
+  -79.393141
  ],
  "155 Queens Quay E, Suite 200, Toronto, ON M5A 0W4": [
   43.644225,
@@ -67,6 +99,10 @@
   43.650743,
   -79.39107
  ],
+ "175 Bloor St E, Suite 1080, Toronto, ON": [
+  43.670896,
+  -79.382463
+ ],
  "175 Bloor St E, Suite 200, North Building, Toronto, ON M4W 3R8": [
   43.670896,
   -79.382463
@@ -79,13 +115,33 @@
   43.671102,
   -79.382455
  ],
+ "18 King St E, Suite 1100, Toronto, ON M5C 1C4": [
+  43.649622,
+  -79.377131
+ ],
  "18 King St E, Toronto, ON": [
   43.649622,
   -79.377131
  ],
+ "180 John St, Toronto, ON M5T 1X5": [
+  43.650662,
+  -79.392129
+ ],
+ "181 Bay St, Toronto, ON M5J 0A5": [
+  43.647176,
+  -79.378298
+ ],
+ "192 Spadina Ave, Suite 428, Toronto, ON": [
+  43.649932,
+  -79.397532
+ ],
  "199 Bay St, Suite 4000, Toronto, ON M5L 1A9": [
   43.648203,
   -79.379539
+ ],
+ "2 Bloor St E, Suite 3500, Toronto, ON M4W 1A8": [
+  43.670816,
+  -79.386573
  ],
  "2 Carlton St, Suite 1811, Toronto, ON M5B 1J3": [
   43.661458,
@@ -98,6 +154,10 @@
  "2 Carlton St, Unit 1510, Toronto, ON M5B 1J3": [
   43.661458,
   -79.383008
+ ],
+ "2 Fraser Ave, Toronto, ON": [
+  43.635617,
+  -79.423918
  ],
  "202-1200 Bay Street, Toronto, ON": null,
  "209 Victoria St, Rm 774, Toronto, ON M5B 1T8": null,
@@ -125,9 +185,18 @@
   43.717248,
   -79.317724
  ],
+ "29 Howard Park Ave, Toronto, ON": [
+  43.6516,
+  -79.44972
+ ],
  "295 Adelaide St W, Unit 703, Toronto, ON M5V 0L4": [
   43.64759,
   -79.39076
+ ],
+ "3-6705 Millcreek Dr, Mississauga, ON L5N 5M4": null,
+ "30 Adelaide St E, 12th Floor, Toronto, ON": [
+  43.650799,
+  -79.377138
  ],
  "30 Adelaide St E, 12th Floor, Toronto, ON M5C 2C5": [
   43.650799,
@@ -142,6 +211,10 @@
   -79.380992
  ],
  "325 Front St W, 4th Floor, Toronto, ON M5V 2Y1": [
+  43.643272,
+  -79.389907
+ ],
+ "325 Front St W, 4th Floor, Toronto, ON M5V 3S9": [
   43.643272,
   -79.389907
  ],
@@ -173,6 +246,14 @@
   43.653569,
   -79.387029
  ],
+ "383 Adelaide St W, Toronto, ON M5V 1S4": [
+  43.64634,
+  -79.39656
+ ],
+ "401 Richmond St W, Suite 365, Toronto, ON M5V 3A8": [
+  43.647827,
+  -79.394689
+ ],
  "4044 Sheppard Ave E, Toronto, ON M1S 1S6": [
   43.783914,
   -79.286001
@@ -194,9 +275,17 @@
   43.643512,
   -79.398367
  ],
+ "49 Spadina Ave, Toronto, ON": [
+  43.643447,
+  -79.393802
+ ],
  "4950 Yonge St, Suite 2308, North York, ON M2N 6K1": [
   43.764812,
   -79.412768
+ ],
+ "5-1050 King St W, Toronto, ON M6K 0C7": [
+  43.639841,
+  -79.42291
  ],
  "50 Carroll St, Toronto, ON M4M 3G3": [
   43.660665,
@@ -206,13 +295,25 @@
   43.653841,
   -79.431433
  ],
+ "503 Queen St E, Toronto, ON M5A 1V1": [
+  43.656949,
+  -79.357917
+ ],
  "51 Wolseley St, Toronto, ON M5T 1A4": [
   43.648171,
   -79.402392
  ],
+ "559 College St, Toronto, ON": [
+  43.655233,
+  -79.412216
+ ],
  "582 St Clair Ave W, Suite 410, Toronto, ON": [
   43.682508,
   -79.422414
+ ],
+ "6688 Kitimat Rd, Mississauga, ON": [
+  43.604797,
+  -79.73758
  ],
  "67 Mowat Ave, Suite 444, Toronto, ON": [
   43.638259,
@@ -226,6 +327,14 @@
   43.647899,
   -79.381998
  ],
+ "777 Bay St, Suite 2400, Toronto, ON": [
+  43.660561,
+  -79.384599
+ ],
+ "786 King St W, Toronto, ON": [
+  43.64342,
+  -79.40642
+ ],
  "786 King St W, Toronto, ON M5V 1N6": [
   43.64342,
   -79.40642
@@ -233,6 +342,10 @@
  "793 Pharmacy Ave, Toronto, ON M1L 3K2": [
   43.719894,
   -79.294987
+ ],
+ "80 Spadina Ave, Toronto, ON": [
+  43.646226,
+  -79.395756
  ],
  "82 Peter St, Toronto, ON": [
   43.646773,

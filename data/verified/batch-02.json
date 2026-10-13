@@ -51,7 +51,7 @@
     "verified": true,
     "notes": "Toronto per DMZ alumni listing; HQ address not confirmed on own site.",
     "address": null,
-    "id": "arblabs.com",
+    "id": "name:arb",
     "found_in": [
       "dmz"
     ]
@@ -279,7 +279,7 @@
     "verified": true,
     "notes": "Old domain attentivevision.com redirects to attentivevision.ca. Based out of York University.",
     "address": "0002B Lassonde Building, York University, Toronto, ON M3J 1P3",
-    "id": "attentivevision.ca",
+    "id": "attentivevision.com",
     "found_in": [
       "next-canada"
     ]
@@ -393,7 +393,7 @@
     "verified": true,
     "notes": "Founded 2017 per Starter Story (directory says 2018). bagsaway.ca no longer resolves; bagsaway.com is live. HQ street address not published.",
     "address": null,
-    "id": "bagsaway.com",
+    "id": "bagsaway.ca",
     "found_in": [
       "dmz"
     ]
@@ -451,7 +451,7 @@
     "verified": true,
     "notes": "Merged two entries (beaconsoftware.com redirects to beaconholdings.com). Toronto and San Francisco offices; The Logic calls it Toronto-headquartered. Series B USD 250M in Nov 2025. 49 open roles on careers page. Founded 2024 per press (launch year).",
     "address": null,
-    "id": "beaconholdings.com",
+    "id": "name:beacon",
     "found_in": [
       "betakit",
       "seed-freelance"
@@ -569,5 +569,11 @@
     "name": "Assetflo",
     "drop": true,
     "notes": "site lists Kitchener, ON (verifier report, added by orchestrator)"
+  },
+  {
+    "id": "beaconsoftware.com",
+    "name": "Beacon",
+    "drop": true,
+    "notes": "duplicate of name:beacon (verifier merged them, id fixed by orchestrator)"
   }
 ]

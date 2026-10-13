@@ -931,6 +931,34 @@
     "lng": -79.504749
   },
   {
+    "name": "Autumn",
+    "website": null,
+    "domain": null,
+    "description": "Employee well-being measurement platform that assesses team wellness without traditional surveys (formerly Animo AI).",
+    "sector": "HR/Future of work",
+    "city": "Toronto",
+    "founded": 2019,
+    "stage": "Pre-seed",
+    "employees": null,
+    "last_round": "Pre-seed",
+    "last_round_date": "2020-07-01",
+    "last_round_amount": "USD 100K",
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://golden.ventures/portfolio",
+      "https://www.cbinsights.com/company/autumn-2"
+    ],
+    "status": "unknown",
+    "verified": true,
+    "notes": "Only aggregator data (CB Insights, unclaimed profile); no website found, current status unconfirmed. Toronto per CB Insights. Amount currency as reported by CB Insights.",
+    "address": null,
+    "id": "name:autumn",
+    "found_in": [
+      "vc-golden-radical-inovia"
+    ]
+  },
+  {
     "name": "Aviron Interactive",
     "website": "https://www.avironactive.com/",
     "domain": "avironactive.com",
@@ -1132,6 +1160,36 @@
     ]
   },
   {
+    "name": "BenchSci",
+    "website": "https://www.benchsci.com",
+    "domain": "benchsci.com",
+    "description": "AI-powered research platform (EMET) for drug discovery and pharmaceutical R&D.",
+    "sector": "AI/ML",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Growth",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": "https://www.linkedin.com/company/benchsci/",
+    "hiring": null,
+    "sources": [
+      "https://golden.ventures/portfolio",
+      "https://www.benchsci.com"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Stage Growth inferred from known Series D funding, not re-sourced this pass. Toronto HQ address from CB Insights/Datanyze.",
+    "address": "559 College St, Toronto, ON",
+    "id": "name:benchsci",
+    "found_in": [
+      "vc-golden-radical-inovia"
+    ],
+    "lat": 43.655233,
+    "lng": -79.412216
+  },
+  {
     "name": "BestAuction",
     "website": "https://www.bestauction.com/",
     "domain": "bestauction.com",
@@ -1175,21 +1233,26 @@
     "last_round": null,
     "last_round_date": null,
     "last_round_amount": null,
-    "linkedin": null,
+    "linkedin": "https://www.linkedin.com/company/biorender",
     "hiring": true,
     "sources": [
       "https://www.ycombinator.com/companies/biorender",
       "https://www.biorender.com/about",
-      "https://www.biorender.com/careers"
+      "https://www.biorender.com/careers",
+      "https://www.seedtable.com/best-startups-in-toronto",
+      "https://www.biorender.com"
     ],
     "status": "active",
     "verified": true,
     "notes": "YC Winter 2018. Remote-first; Toronto HQ per YC listing; no street address published.",
-    "address": null,
+    "address": "49 Spadina Ave, Toronto, ON",
     "id": "biorender.com",
     "found_in": [
-      "yc"
-    ]
+      "yc",
+      "rankings"
+    ],
+    "lat": 43.643447,
+    "lng": -79.393802
   },
   {
     "name": "Biossil",
@@ -1352,11 +1415,13 @@
     "last_round": "Series D",
     "last_round_date": "2025-08-05",
     "last_round_amount": "CAD 167.4M",
-    "linkedin": null,
+    "linkedin": "https://www.linkedin.com/company/bluejlegal",
     "hiring": null,
     "sources": [
       "https://betakit.com/blue-j-series-d-after-doubling-revenue/",
-      "https://www.bluej.com/ca/about-us"
+      "https://www.bluej.com/ca/about-us",
+      "https://www.seedtable.com/best-startups-in-toronto",
+      "https://www.bluej.com"
     ],
     "status": "active",
     "verified": true,
@@ -1364,10 +1429,39 @@
     "address": "225 King St W, Suite 1405, Toronto, ON M5V 3M2",
     "id": "name:bluej",
     "found_in": [
-      "betakit"
+      "betakit",
+      "rankings"
     ],
     "lat": 43.646658,
     "lng": -79.388189
+  },
+  {
+    "name": "BlueDot",
+    "website": "https://bluedot.global",
+    "domain": "bluedot.global",
+    "description": "Infectious disease intelligence company combining AI and public health experts to monitor outbreaks and forecast risk.",
+    "sector": "Healthtech",
+    "city": "Toronto",
+    "founded": 2013,
+    "stage": "Unknown",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": "https://www.linkedin.com/company/bluedotinc/",
+    "hiring": null,
+    "sources": [
+      "https://golden.ventures/portfolio",
+      "https://bluedot.global"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Toronto HQ per Wikipedia (earlier sourcing); site gives no address.",
+    "address": null,
+    "id": "name:bluedot",
+    "found_in": [
+      "vc-golden-radical-inovia"
+    ]
   },
   {
     "name": "Blueprint",
@@ -1460,6 +1554,36 @@
     "lng": -79.41821
   },
   {
+    "name": "Brodie Sports Group",
+    "website": "https://www.brodierec.com",
+    "domain": "brodierec.com",
+    "description": "Operator of Brodie Rec League, a recreational sports league with 50,000+ athletes across 35+ locations.",
+    "sector": "Consumer",
+    "city": "Toronto",
+    "founded": 2019,
+    "stage": "Unknown",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://golden.ventures/portfolio",
+      "https://www.brodierec.com/"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Site lists Toronto WHQ. Founded 2019 per Built In. brodiesports.com redirects to brodierec.com.",
+    "address": "5-1050 King St W, Toronto, ON M6K 0C7",
+    "id": "name:brodiesportsgroup",
+    "found_in": [
+      "vc-golden-radical-inovia"
+    ],
+    "lat": 43.639841,
+    "lng": -79.42291
+  },
+  {
     "name": "Buildify",
     "website": "https://www.getbuildify.com/",
     "domain": "getbuildify.com",
@@ -1483,6 +1607,35 @@
     "notes": "Toronto per DMZ alumni listing only; site shows 'Proudly Canadian' with no city or address (HQ weakly confirmed).",
     "address": null,
     "id": "getbuildify.com",
+    "found_in": [
+      "dmz"
+    ]
+  },
+  {
+    "name": "BuyProperly",
+    "website": "https://buyproperly.ai",
+    "domain": "buyproperly.ai",
+    "description": "AI-powered online platform for fractional investments in real estate and other private assets.",
+    "sector": "Fintech",
+    "city": "Toronto",
+    "founded": 2019,
+    "stage": "Pre-seed",
+    "employees": null,
+    "last_round": "Pre-seed",
+    "last_round_date": "2021-05-01",
+    "last_round_amount": "CAD 2M",
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://dmz.torontomu.ca/startup-directory?542e3ac2_page=2",
+      "https://builtintoronto.com/company/buyproperly",
+      "https://buyproperly.ai/us/"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Toronto-based per BetaKit 2021 and Built In (DMZ alumni), but the current US site page lists a San Jose, CA address; Toronto HQ not re-confirmed recently.",
+    "address": null,
+    "id": "name:buyproperly",
     "found_in": [
       "dmz"
     ]
@@ -2528,6 +2681,35 @@
     ]
   },
   {
+    "name": "e-Zinc",
+    "website": "https://e-zinc.ca",
+    "domain": "e-zinc.ca",
+    "description": "Zinc-based long-duration energy storage developer.",
+    "sector": "Climate/Energy",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Series A",
+    "employees": null,
+    "last_round": "Series A2",
+    "last_round_date": "2024-06-27",
+    "last_round_amount": "USD 31M",
+    "linkedin": "https://www.linkedin.com/company/e-zinc/",
+    "hiring": null,
+    "sources": [
+      "https://www.seedtable.com/best-startups-in-toronto",
+      "https://e-zinc.ca",
+      "https://betakit.com/e-zinc-powers-up-with-42-million-cad-to-validate-energy-storage-solution-in-the-field/"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Toronto HQ per BetaKit; pilot plant in Mississauga. Street address not confirmed from site.",
+    "address": null,
+    "id": "name:ez",
+    "found_in": [
+      "rankings"
+    ]
+  },
+  {
     "name": "EatSleepRIDE",
     "website": "https://eatsleepride.com",
     "domain": "eatsleepride.com",
@@ -2557,6 +2739,36 @@
     ]
   },
   {
+    "name": "Electrovaya",
+    "website": "https://electrovaya.com/",
+    "domain": "electrovaya.com",
+    "description": "Lithium-ion battery maker with a proprietary ceramic separator, serving material handling, energy storage, defense and robotics.",
+    "sector": "Climate/Energy",
+    "city": "Mississauga",
+    "founded": null,
+    "stage": "Late stage",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": "https://www.linkedin.com/company/electrovaya",
+    "hiring": null,
+    "sources": [
+      "https://www.marsdd.com/connect/",
+      "https://electrovaya.com/"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "HQ Mississauga per SEC annual info form (6688 Kitimat Rd). Long-established public company (about 30 years), borderline startup; kept as late stage.",
+    "address": "6688 Kitimat Rd, Mississauga, ON",
+    "id": "electrovaya.com",
+    "found_in": [
+      "mars"
+    ],
+    "lat": 43.604797,
+    "lng": -79.73758
+  },
+  {
     "name": "Embodia",
     "website": "https://embodiaapp.com",
     "domain": "embodiaapp.com",
@@ -2583,6 +2795,35 @@
     "id": "name:embodia",
     "found_in": [
       "dmz"
+    ]
+  },
+  {
+    "name": "Enertel AI",
+    "website": "https://enertel.ai",
+    "domain": "enertel.ai",
+    "description": "AI-driven probabilistic power price forecasting and bidding tools for North American wholesale electricity markets.",
+    "sector": "AI/ML",
+    "city": "Toronto",
+    "founded": 2021,
+    "stage": "Acquired",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://directory.nextcanada.com/directory/ventures/",
+      "https://enertel.ai",
+      "https://press.spglobal.com/2026-03-18-S-P-Global-Acquires-Enertel-AI-Corporation-to-Enhance-Power-Market-Offering"
+    ],
+    "status": "acquired",
+    "verified": true,
+    "notes": "Acquired by S&P Global (announced 2026-03-18). Toronto HQ per earlier sourcing (Built In, grant record).",
+    "address": null,
+    "id": "enertel.ai",
+    "found_in": [
+      "next-canada"
     ]
   },
   {
@@ -4223,6 +4464,64 @@
     ]
   },
   {
+    "name": "hungerhub",
+    "website": "https://www.hungerhub.com",
+    "domain": "hungerhub.com",
+    "description": "Office meal delivery and catering service in Canada.",
+    "sector": "Marketplace",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Acquired",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://www.marsdd.com/our-story/how-bootstrapping-helped-this-startup-build-a-stronger-business/",
+      "https://www.hungerhub.com"
+    ],
+    "status": "acquired",
+    "verified": true,
+    "notes": "Acquired by HUNGRY (site: 'hungerhub is now part of HUNGRY'; Feb 2026 per earlier sourcing).",
+    "address": "180 John St, Toronto, ON M5T 1X5",
+    "id": "name:hungerhub",
+    "found_in": [
+      "mars"
+    ],
+    "lat": 43.650662,
+    "lng": -79.392129
+  },
+  {
+    "name": "HyperComply",
+    "website": "https://www.hypercomply.com",
+    "domain": "hypercomply.com",
+    "description": "AI platform for completing security questionnaires and sharing security evidence via trust pages and data rooms.",
+    "sector": "Cybersecurity",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Acquired",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://golden.ventures/portfolio",
+      "https://www.hypercomply.com"
+    ],
+    "status": "acquired",
+    "verified": true,
+    "notes": "Acquired by SecurityScorecard (announced on company site). Toronto HQ per CB Insights/Built In/Dealroom; one source says NY.",
+    "address": null,
+    "id": "name:hypercomply",
+    "found_in": [
+      "vc-golden-radical-inovia"
+    ]
+  },
+  {
     "name": "Hyre",
     "website": "https://www.hyrestaff.com/",
     "domain": "hyrestaff.com",
@@ -5248,6 +5547,35 @@
     ]
   },
   {
+    "name": "Madlipz",
+    "website": "https://www.madlipz.com",
+    "domain": "madlipz.com",
+    "description": "Dubbing and singing app for creating short parody videos, with tens of millions of users worldwide.",
+    "sector": "Media/Entertainment",
+    "city": "Toronto",
+    "founded": 2015,
+    "stage": "Pre-seed",
+    "employees": "1-10",
+    "last_round": "Pre-seed",
+    "last_round_date": "2019-01-01",
+    "last_round_amount": "CAD 671K",
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://brainstation.io/magazine/a-deep-look-into-the-2019-techstars-toronto-class",
+      "https://betakit.com/techstars-toronto-cohort-company-madlipz-raises-671000-cad/",
+      "https://jobs.techstars.com/companies/madlipz"
+    ],
+    "status": "unknown",
+    "verified": true,
+    "notes": "Toronto-based per BetaKit. Website returned HTTP 402 so activity not confirmed; round date approximate (2019, exact date not found, day set to 01 as placeholder). Founded 2015 per Techstars board (BetaKit says 2016 launch).",
+    "address": null,
+    "id": "name:madlipz",
+    "found_in": [
+      "techstars"
+    ]
+  },
+  {
     "name": "ManagingLife",
     "website": "https://www.managinglife.com/",
     "domain": "managinglife.com",
@@ -5289,11 +5617,13 @@
     "last_round": null,
     "last_round_date": null,
     "last_round_amount": null,
-    "linkedin": null,
+    "linkedin": "https://www.linkedin.com/company/manifesttech",
     "hiring": null,
     "sources": [
       "https://omersventures.com/companies",
-      "https://manifestclimate.com"
+      "https://manifestclimate.com",
+      "https://golden.ventures/portfolio",
+      "https://www.manifestclimate.com"
     ],
     "status": "active",
     "verified": true,
@@ -5301,7 +5631,8 @@
     "address": "33 Bloor St E, Suite 604, Toronto, ON M4W 3H1",
     "id": "manifestclimate.com",
     "found_in": [
-      "vc-omers-georgian-other"
+      "vc-omers-georgian-other",
+      "vc-golden-radical-inovia"
     ],
     "lat": 43.670027,
     "lng": -79.385474
@@ -5490,34 +5821,6 @@
   },
   {
     "name": "Modem",
-    "website": "https://modem.ai/",
-    "domain": "modem.ai",
-    "description": "Shared record of customer concerns that links feedback from support and sales to bugs and fixes for developers.",
-    "sector": "B2B SaaS",
-    "city": "Toronto",
-    "founded": 2025,
-    "stage": "Pre-seed",
-    "employees": null,
-    "last_round": "Pre-seed",
-    "last_round_date": "2026-02-10",
-    "last_round_amount": "USD 4.4M",
-    "linkedin": null,
-    "hiring": null,
-    "sources": [
-      "https://betakit.com/modem-closes-4-4-million-usd-pre-seed-round-to-help-developers-ship-faster/",
-      "https://modem.ai/"
-    ],
-    "status": "active",
-    "verified": true,
-    "notes": "Toronto-based per BetaKit; founder Ben Vinegar. Previously modem.dev (redirects to modem.ai). Site does not state location.",
-    "address": null,
-    "id": "name:modem",
-    "found_in": [
-      "betakit"
-    ]
-  },
-  {
-    "name": "Modem",
     "website": "https://modem.ai",
     "domain": "modem.ai",
     "description": "Platform that gathers customer feedback from support tickets, sales calls and chat and groups it into topics for product and engineering teams.",
@@ -5541,7 +5844,8 @@
     "address": null,
     "id": "modem.dev",
     "found_in": [
-      "seed-freelance"
+      "seed-freelance",
+      "betakit"
     ]
   },
   {
@@ -5661,6 +5965,36 @@
     ]
   },
   {
+    "name": "Mutuo Health Solutions",
+    "website": "https://mutuohealth.com",
+    "domain": "mutuohealth.com",
+    "description": "Maker of AutoScribe, an AI medical scribe that transcribes clinician-patient conversations and generates medical notes.",
+    "sector": "Healthtech",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Unknown",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": "https://ca.linkedin.com/company/mutuo-health",
+    "hiring": null,
+    "sources": [
+      "https://directory.nextcanada.com/directory/ventures/",
+      "https://mutuohealth.com"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Site says it is a WELLSTAR company (possible parent; not confirmed as acquisition). Toronto address from CB Insights.",
+    "address": "29 Howard Park Ave, Toronto, ON",
+    "id": "mutuohealth.com",
+    "found_in": [
+      "next-canada"
+    ],
+    "lat": 43.6516,
+    "lng": -79.44972
+  },
+  {
     "name": "Naborly",
     "website": "https://naborly.com",
     "domain": "naborly.com",
@@ -5717,6 +6051,35 @@
     "id": "nimbuslearning.com",
     "found_in": [
       "dmz"
+    ]
+  },
+  {
+    "name": "Notch",
+    "website": null,
+    "domain": null,
+    "description": "Software and payments platform for restaurant supply chains (formerly ChefHero), digitizing invoicing and ordering between restaurants and distributors.",
+    "sector": "Fintech",
+    "city": "Toronto",
+    "founded": 2015,
+    "stage": "Series A",
+    "employees": "11-50",
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": "CAD 13.7M",
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://golden.ventures/portfolio",
+      "https://betakit.com/after-navigating-major-changes-to-restaurant-industry-notch-closes-13-7-million-cad-to-fuel-pivot-to-fintech/",
+      "https://robotics.press/companies/notch/"
+    ],
+    "status": "unknown",
+    "verified": true,
+    "notes": "Official website not found (notchfinancial.com is parked/for sale; notch.ca unreachable). Round of CAD 13.7M closed January 2023 (exact date/round name not confirmed). Stage and headcount (~40) from an aggregator, no 2025-2026 news found. Toronto lead office per Osler.",
+    "address": null,
+    "id": "name:notch",
+    "found_in": [
+      "vc-golden-radical-inovia"
     ]
   },
   {
@@ -6772,6 +7135,35 @@
     ]
   },
   {
+    "name": "Powered By People",
+    "website": "https://www.poweredbypeople.com",
+    "domain": "poweredbypeople.com",
+    "description": "Commerce platform that connects independent and sustainable brands to retailers and AI shopping agents through dropship, catalog and verification tools.",
+    "sector": "Marketplace",
+    "city": "Toronto",
+    "founded": 2021,
+    "stage": "Series A",
+    "employees": null,
+    "last_round": "Series A",
+    "last_round_date": "2022-10-14",
+    "last_round_amount": "USD 8M",
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://golden.ventures/portfolio",
+      "https://www.poweredbypeople.com",
+      "https://www.osler.com/en/about-us/representative-work/powered-by-people/"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "HQ not stated on company site (distributed team); Toronto per The Logic and Osler lead office, so GTA only moderately confirmed. A newer financing led by BESTSELLER Foundation was reported in Aug 2026 (amount undisclosed). Series A date per Osler (a French page gives 2023-03-10). poweredbypeople.ca redirects to an unrelated company (peoplecorporation.com).",
+    "address": null,
+    "id": "name:poweredbypeople",
+    "found_in": [
+      "vc-golden-radical-inovia"
+    ]
+  },
+  {
     "name": "Premise",
     "website": "https://premisesaas.com/",
     "domain": "premisesaas.com",
@@ -6799,6 +7191,37 @@
     "found_in": [
       "dmz"
     ]
+  },
+  {
+    "name": "Private AI",
+    "website": "https://www.private-ai.ca",
+    "domain": "private-ai.ca",
+    "description": "Software that detects, redacts and replaces PII in text, documents, images and audio (now branded Limina).",
+    "sector": "AI/ML",
+    "city": "Toronto",
+    "founded": 2019,
+    "stage": "Series A",
+    "employees": null,
+    "last_round": "Series A",
+    "last_round_date": "2022-11-01",
+    "last_round_amount": "USD 8M",
+    "linkedin": null,
+    "hiring": false,
+    "sources": [
+      "https://directory.nextcanada.com/directory/ventures/",
+      "https://www.getlimina.ai/",
+      "https://www.thesaasnews.com/news/private-ai-raises-8-million-in-series-a/"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "private-ai.com now redirects to getlimina.ai (product renamed Limina); careers page had no open roles listed. Series A led by BDC Capital.",
+    "address": "192 Spadina Ave, Suite 428, Toronto, ON",
+    "id": "private-ai.ca",
+    "found_in": [
+      "next-canada"
+    ],
+    "lat": 43.649932,
+    "lng": -79.397532
   },
   {
     "name": "Promise Robotics",
@@ -6860,6 +7283,64 @@
     "found_in": [
       "dmz"
     ]
+  },
+  {
+    "name": "Properly",
+    "website": "https://www.properly.ca",
+    "domain": "properly.ca",
+    "description": "Toronto real estate technology company offering home search and buy-before-you-sell services.",
+    "sector": "Proptech",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Acquired",
+    "employees": null,
+    "last_round": "Series B",
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://golden.ventures/portfolio",
+      "https://betakit.com/pine-acquires-properly-to-capture-more-of-the-canadian-home-buying-process"
+    ],
+    "status": "acquired",
+    "verified": true,
+    "notes": "Acquired by Pine (announced 2023-10-05); Sales Assurance IP sold separately to Compass. properly.ca now redirects to pine.ca.",
+    "address": null,
+    "id": "name:properly",
+    "found_in": [
+      "vc-golden-radical-inovia"
+    ]
+  },
+  {
+    "name": "ProteinQure",
+    "website": "https://www.proteinqure.com",
+    "domain": "proteinqure.com",
+    "description": "Clinical-stage biotech designing peptide therapeutics, with a lead program in Phase 1 for advanced solid tumors.",
+    "sector": "Biotech",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Unknown",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": "https://www.linkedin.com/company/proteinqure/",
+    "hiring": null,
+    "sources": [
+      "https://golden.ventures/portfolio",
+      "https://www.proteinqure.com"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Toronto HQ per Built In/Datanyze; one outlier source says Cambridge. Address from directories, not company site.",
+    "address": "108 College St, Toronto, ON",
+    "id": "name:proteinqure",
+    "found_in": [
+      "vc-golden-radical-inovia"
+    ],
+    "lat": 43.660424,
+    "lng": -79.389344
   },
   {
     "name": "Provision",
@@ -6987,6 +7468,91 @@
     ]
   },
   {
+    "name": "Rebelstork",
+    "website": "https://fromrebel.com",
+    "domain": "fromrebel.com",
+    "description": "Online retailer of discounted baby, home and kitchen products.",
+    "sector": "E-commerce/Retail",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Unknown",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://www.seedtable.com/best-startups-in-toronto",
+      "https://fromrebel.com/"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "rebelstork.com redirects to fromrebel.com (REBEL), taken as the same company via redirect. Toronto per Retail Insider (CEO); no address on site.",
+    "address": null,
+    "id": "name:rebelstork",
+    "found_in": [
+      "rankings"
+    ]
+  },
+  {
+    "name": "ReBlink",
+    "website": "https://www.reblink.com",
+    "domain": "reblink.com",
+    "description": "Applied AI research and development team building multi-agent systems, multimodal models and generative tools for games.",
+    "sector": "AI/ML",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Unknown",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://golden.ventures/portfolio",
+      "https://www.reblink.com"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Site lists HQ as Toronto, Canada (no street address).",
+    "address": null,
+    "id": "name:reblink",
+    "found_in": [
+      "vc-golden-radical-inovia"
+    ]
+  },
+  {
+    "name": "Reeple.ai",
+    "website": "https://reeple.ai",
+    "domain": "reeple.ai",
+    "description": "Financial services platform helping African immigrants in the diaspora access banking and financial services.",
+    "sector": "Fintech",
+    "city": "Brampton",
+    "founded": 2022,
+    "stage": "Seed",
+    "employees": "1-10",
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://techpoint.africa/2023/09/29/3-nigerian-startups-makes-up-techstars-toronto-cohort-as-it-makes-its-100th-investment-in-6-years/",
+      "https://jobs.techstars.com/companies/reeple-ai",
+      "https://www.cbinsights.com/company/reeple"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "HQ Brampton per CB Insights; Techstars board lists Toronto, Brampton and Lagos. Seed stage per Techstars board; CB Insights reports about USD 270K raised. Techstars Toronto 2023 cohort.",
+    "address": null,
+    "id": "name:reeple",
+    "found_in": [
+      "techstars"
+    ]
+  },
+  {
     "name": "Relay",
     "website": "https://relayfi.com",
     "domain": "relayfi.com",
@@ -7072,6 +7638,64 @@
     "id": "repable.com",
     "found_in": [
       "dmz"
+    ]
+  },
+  {
+    "name": "ResQ",
+    "website": "https://getresq.com",
+    "domain": "getresq.com",
+    "description": "Commercial repair and maintenance provider and SaaS-enabled marketplace connecting operators with on-demand service providers.",
+    "sector": "Marketplace",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Unknown",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": "https://www.linkedin.com/company/getresq-restaurant-repair",
+    "hiring": null,
+    "sources": [
+      "https://golden.ventures/portfolio",
+      "https://getresq.com"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Site lists offices in Miami, New York, Toronto and London without naming a HQ; Datanyze, ZoomInfo and Built In give Toronto HQ.",
+    "address": "18 King St E, Suite 1100, Toronto, ON M5C 1C4",
+    "id": "name:resq",
+    "found_in": [
+      "vc-golden-radical-inovia"
+    ],
+    "lat": 43.649622,
+    "lng": -79.377131
+  },
+  {
+    "name": "RetiSpec",
+    "website": "https://www.retispec.com",
+    "domain": "retispec.com",
+    "description": "Developer of AI-driven early detection of Alzheimer's disease through a simple eye exam (research use only).",
+    "sector": "Healthtech",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Unknown",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": "https://www.linkedin.com/company/retispec/",
+    "hiring": null,
+    "sources": [
+      "https://www.marsdd.com/research-and-insights/how-retispec-wrote-its-own-success-story/",
+      "https://www.retispec.com"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Toronto per site title and CB Insights/The Logic; no street address on site.",
+    "address": null,
+    "id": "name:retispec",
+    "found_in": [
+      "mars"
     ]
   },
   {
@@ -7312,6 +7936,2557 @@
     "id": "savvyy.ai",
     "found_in": [
       "dmz"
+    ]
+  },
+  {
+    "name": "Science&Humans",
+    "website": "https://www.scienceandhumans.com/",
+    "domain": "scienceandhumans.com",
+    "description": "Toronto telemedicine platform for hormone health, including testosterone, menopause and weight management.",
+    "sector": "Healthtech",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Series A",
+    "employees": null,
+    "last_round": "Series A",
+    "last_round_date": "2026-01-15",
+    "last_round_amount": "CAD 10M (7M equity + 3M venture debt)",
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://betakit.com/sciencehumans-raises-10-million-as-hormone-health-enters-the-mainstream/",
+      "https://www.scienceandhumans.com/"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "BetaKit: Toronto-based, Series A led by Pender Ventures, announced 2026-01-15, in CAD.",
+    "address": null,
+    "id": "name:sciencehumans",
+    "found_in": [
+      "betakit"
+    ]
+  },
+  {
+    "name": "Secoda",
+    "website": "https://secoda.co",
+    "domain": "secoda.co",
+    "description": "Data governance and catalog platform, acquired by Atlassian.",
+    "sector": "B2B SaaS",
+    "city": "Toronto",
+    "founded": 2021,
+    "stage": "Acquired",
+    "employees": "11-50",
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://golden.ventures/portfolio",
+      "https://www.ycombinator.com/companies/secoda",
+      "https://secoda.co",
+      "https://www.secoda.co/blog/atlassian-acquires-secoda",
+      "https://www.marketscreener.com/news/atlassian-corporation-acquired-secoda-inc-ce7d51dfd181ff22"
+    ],
+    "status": "acquired",
+    "verified": true,
+    "notes": "Acquired by Atlassian (closed 2025-12-04). YC S21. Toronto per Datanyze (170 Sudbury St).",
+    "address": null,
+    "id": "name:secoda",
+    "found_in": [
+      "vc-golden-radical-inovia"
+    ]
+  },
+  {
+    "name": "Sensibill",
+    "website": "https://getsensibill.com/",
+    "domain": "getsensibill.com",
+    "description": "Customer data platform for banks that turns receipt and invoice data into SKU-level spend insights.",
+    "sector": "Fintech",
+    "city": "Toronto",
+    "founded": 2013,
+    "stage": "Acquired",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://dmz.torontomu.ca/startup-directory?542e3ac2_page=11",
+      "https://getsensibill.com/",
+      "https://betakit.com/sensibill-acquired-by-austin-based-q2-holdings/"
+    ],
+    "status": "acquired",
+    "verified": true,
+    "notes": "Acquired by Q2 Holdings (Austin) in October 2022; was Toronto-based.",
+    "address": null,
+    "id": "getsensibill.com",
+    "found_in": [
+      "dmz"
+    ]
+  },
+  {
+    "name": "Senso",
+    "website": "https://www.senso.ai/",
+    "domain": "senso.ai",
+    "description": "AI engineering company building a verified-context layer so AI answers reflect brands' accurate information.",
+    "sector": "AI/ML",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Unknown",
+    "employees": "1-10",
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": false,
+    "sources": [
+      "https://directory.nextcanada.com/directory/ventures/",
+      "https://brainstation.io/magazine/techstars-toronto-first-cohort-spans-five-countries-and-six-industries",
+      "https://betakit.com/techstars-announces-first-cohort-for-toronto-accelerator/",
+      "https://www.ycombinator.com/companies/senso",
+      "https://www.senso.ai/",
+      "https://betakit.com/?p=410687"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "BetaKit: Toronto-based. Zeta Global announced a definitive agreement to acquire Senso on 2026-10-05 (not closed at announcement). YC W24.",
+    "address": null,
+    "id": "senso.ai",
+    "found_in": [
+      "next-canada",
+      "techstars",
+      "yc"
+    ]
+  },
+  {
+    "name": "SensorSuite",
+    "website": "https://sensorsuite.com/",
+    "domain": "sensorsuite.com",
+    "description": "Building performance technology combining smart sensors, cloud software and controls to cut energy use and GHG emissions.",
+    "sector": "Climate/Energy",
+    "city": "Vaughan",
+    "founded": null,
+    "stage": "Unknown",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": true,
+    "sources": [
+      "https://dmz.torontomu.ca/startup-directory?542e3ac2_page=11",
+      "https://sensorsuite.com/"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "HQ per company site. Project Manager role posted. BDC growth capital announced (amount undisclosed).",
+    "address": "120 Jevlan Dr, Unit 2A, Vaughan, ON L4L 8G3",
+    "id": "sensorsuite.com",
+    "found_in": [
+      "dmz"
+    ],
+    "lat": 43.798693,
+    "lng": -79.547707
+  },
+  {
+    "name": "Sequence Markets",
+    "website": "https://sequencemkts.com/",
+    "domain": "sequencemkts.com",
+    "description": "Low-latency order routing and execution infrastructure for crypto, prediction markets and tokenized assets.",
+    "sector": "Fintech",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Unknown",
+    "employees": "1-10",
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": false,
+    "sources": [
+      "https://www.ycombinator.com/companies/sequence-markets",
+      "https://sequencemkts.com/",
+      "https://yespress.io/peter-bai.md"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "YC W26. Toronto base supported only by YC listing and a founder profile (CEO Peter Bai); company site gives no address. GTA weakly confirmed.",
+    "address": null,
+    "id": "sequencemkts.com",
+    "found_in": [
+      "yc"
+    ]
+  },
+  {
+    "name": "Serenity Power",
+    "website": "https://serenitypower.ca",
+    "domain": "serenitypower.ca",
+    "description": "Developer of compact solid oxide fuel cell generators to replace diesel and combustion generators.",
+    "sector": "Climate/Energy",
+    "city": "Toronto",
+    "founded": 2023,
+    "stage": "Pre-seed",
+    "employees": null,
+    "last_round": "Pre-Seed",
+    "last_round_date": "2026-04-27",
+    "last_round_amount": "CAD 1.16M",
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://betakit.com/serenity-power-announces-1-million-pre-seed-investment/",
+      "https://www.fasken.com/en/experience/2026/05/serenity-power-secures-c116-million-preseed-financing"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Operates in Toronto and Calgary; U of T spinout; round led by Avatar Ventures. Founding year 2023 per one source, 2024 per another. Toronto HQ not confirmed by the company site.",
+    "address": null,
+    "id": "serenitypower.ca",
+    "found_in": [
+      "seed-freelance"
+    ]
+  },
+  {
+    "name": "Set Scouter",
+    "website": "https://www.setscouter.com/",
+    "domain": "setscouter.com",
+    "description": "Marketplace connecting film and content producers with homeowners and property owners offering spaces to shoot.",
+    "sector": "Marketplace",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Unknown",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://dmz.torontomu.ca/startup-directory?542e3ac2_page=11",
+      "https://www.setscouter.com/"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Site live; no HQ address on site; Toronto per DMZ listing only.",
+    "address": null,
+    "id": "setscouter.com",
+    "found_in": [
+      "dmz"
+    ]
+  },
+  {
+    "name": "Shakudo",
+    "website": "https://www.shakudo.io/",
+    "domain": "shakudo.io",
+    "description": "AI infrastructure platform ('operating system for AI') that orchestrates AI tools inside a customer's own environment.",
+    "sector": "AI/ML",
+    "city": "Toronto",
+    "founded": 2021,
+    "stage": "Series A",
+    "employees": null,
+    "last_round": "Series A",
+    "last_round_date": "2026-02-17",
+    "last_round_amount": "USD 7M",
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://betakit.com/from-client-to-cap-table-shakudo-converts-customers-to-investors-with-7-million-usd-raise/",
+      "https://golden.ventures/portfolio",
+      "https://www.shakudo.io/",
+      "https://thelogic.co/briefing/torontos-shakudo-raises-us7m-for-ai-enabling-software/"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Site lists Toronto, Canada. Round led by Wittington Ventures; also opening a San Francisco office. Round label uncertain (reports vary).",
+    "address": null,
+    "id": "name:shakudo",
+    "found_in": [
+      "betakit",
+      "vc-golden-radical-inovia"
+    ]
+  },
+  {
+    "name": "SharpestMinds",
+    "website": "http://sharpestminds.com",
+    "domain": "sharpestminds.com",
+    "description": "Mentorship program for data scientists funded through income-share agreements.",
+    "sector": "Edtech",
+    "city": "Toronto",
+    "founded": 2016,
+    "stage": "Acquired",
+    "employees": "1-10",
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": false,
+    "sources": [
+      "https://www.ycombinator.com/companies/sharpestminds",
+      "https://jobs.entrepreneurs.utoronto.ca/companies/sharpestminds"
+    ],
+    "status": "acquired",
+    "verified": true,
+    "notes": "YC lists it as Acquired; acquirer not found. Website returned no content. Founded 2016 per U of T listing. YC W18.",
+    "address": null,
+    "id": "sharpestminds.com",
+    "found_in": [
+      "yc"
+    ]
+  },
+  {
+    "name": "Sherpa",
+    "website": "https://www.joinsherpa.com/",
+    "domain": "joinsherpa.com",
+    "description": "Real-time travel entry requirements and eVisa application tools for airlines and travel operators.",
+    "sector": "Other",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Series A",
+    "employees": null,
+    "last_round": "Series A",
+    "last_round_date": null,
+    "last_round_amount": "USD 8.5M",
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://golden.ventures/portfolio",
+      "https://relay.vc/portfolio",
+      "https://www.joinsherpa.com/",
+      "https://www.phocuswire.com/sherpa-raises-8-5-million-to-meet-demand-for-its-travel-rules-platform"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Legal entity Visa Run Inc, Toronto (340 King St E in a 2022 listing; not confirmed current, so address left null). USD 8.5M round (2021) led by Narrative Fund and True Ventures with Golden Ventures; exact date and series label not verified.",
+    "address": null,
+    "id": "name:sherpa",
+    "found_in": [
+      "vc-golden-radical-inovia"
+    ]
+  },
+  {
+    "name": "Shomigo",
+    "website": "https://shomigomarkets.com/",
+    "domain": "shomigomarkets.com",
+    "description": "Curated pop-up shopping markets with local vendors in Toronto.",
+    "sector": "Marketplace",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Unknown",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://directory.nextcanada.com/directory/ventures/?program=next-36",
+      "https://shomigomarkets.com/",
+      "https://curiocity.com/shomigo-summer-market-toronto-roy-thomson-hall/"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Events/market operator, borderline startup. Toronto events (Roy Thomson Hall); no HQ address on site. shomigo.com redirects to shomigomarkets.com.",
+    "address": null,
+    "id": "shomigo.com",
+    "found_in": [
+      "next-canada"
+    ]
+  },
+  {
+    "name": "Shufflespace",
+    "website": "https://www.shufflespace.ca/",
+    "domain": "shufflespace.ca",
+    "description": "Storage solution services for businesses.",
+    "sector": "Other",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Pre-seed",
+    "employees": null,
+    "last_round": "Pre-Seed",
+    "last_round_date": "2022-06-01",
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://dmz.torontomu.ca/startup-directory?542e3ac2_page=11",
+      "https://www.vcbacked.co/company/shufflespace"
+    ],
+    "status": "unknown",
+    "verified": true,
+    "notes": "VCBacked: HQ Etobicoke (Toronto), $1.2M total, pre-seed June 2022 (Loyal VC, DMZ, BDC). Input domain s2creativespacesolutions.com failed to load; shufflespace.ca not checked; current status unconfirmed. Round date approximate (month only).",
+    "address": null,
+    "id": "s2creativespacesolutions.com",
+    "found_in": [
+      "dmz"
+    ]
+  },
+  {
+    "name": "SingleKey",
+    "website": "https://www.singlekey.com/en-ca/",
+    "domain": "singlekey.com",
+    "description": "Rental platform offering tenant screening, rent guarantee, rent collection and rent reporting for landlords and renters.",
+    "sector": "Proptech",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Unknown",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://dmz.torontomu.ca/startup-directory?542e3ac2_page=11",
+      "https://www.singlekey.com/en-ca/"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Site live; HQ address not on page; Toronto per DMZ listing. No open roles shown on homepage.",
+    "address": null,
+    "id": "singlekey.com",
+    "found_in": [
+      "dmz"
+    ]
+  },
+  {
+    "name": "SkyPrep",
+    "website": "https://skyprep.com/",
+    "domain": "skyprep.com",
+    "description": "Corporate e-learning (LMS) platform for online training and knowledge sharing.",
+    "sector": "Edtech",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Unknown",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://dmz.torontomu.ca/startup-directory?542e3ac2_page=11",
+      "https://skyprep.com/"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Address from company site; careers page exists but postings not seen.",
+    "address": "503 Queen St E, Toronto, ON M5A 1V1",
+    "id": "skyprep.com",
+    "found_in": [
+      "dmz"
+    ],
+    "lat": 43.656949,
+    "lng": -79.357917
+  },
+  {
+    "name": "Sleek",
+    "website": "https://www.onsleek.com/",
+    "domain": "onsleek.com",
+    "description": "AI shopping agent that finds deals and applies coupons; team has joined ZeroClick.",
+    "sector": "AI/ML",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Acquired",
+    "employees": "1-10",
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": false,
+    "sources": [
+      "https://www.ycombinator.com/companies/sleek",
+      "https://www.onsleek.com/"
+    ],
+    "status": "acquired",
+    "verified": true,
+    "notes": "Acquired by ZeroClick (per company site). YC S21. Toronto HQ not re-confirmed (site gives no location).",
+    "address": null,
+    "id": "onsleek.com",
+    "found_in": [
+      "yc"
+    ]
+  },
+  {
+    "name": "smartARM",
+    "website": "https://smartARM.ca",
+    "domain": "smartarm.ca",
+    "description": "Develops an AI-vision prosthetic arm that recognizes objects and adjusts its grip automatically.",
+    "sector": "Hardware/Robotics",
+    "city": "Toronto",
+    "founded": 2019,
+    "stage": "Pre-seed",
+    "employees": "2-10",
+    "last_round": "Pre-seed",
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": "https://linkedin.com/company/smartarm",
+    "hiring": null,
+    "sources": [
+      "https://directory.nextcanada.com/directory/ventures/?program=next-36",
+      "https://smartARM.ca",
+      "https://www.cbinsights.com/company/smartarm/",
+      "https://about.fb.com/news/2026/09/canadian-start-up-smartarm-uses-ai-to-create-intuitive-bionic-prosthetics/"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Founding year 2018/2019 depending on source. Site says 'Designed in Toronto'; a 2020 profile listed Oshawa but recent sources (Meta, Sept 2026) say Toronto-based. No careers page.",
+    "address": null,
+    "id": "smartarm.ca",
+    "found_in": [
+      "next-canada"
+    ]
+  },
+  {
+    "name": "SmartConcil",
+    "website": "https://www.smartconcil.com/",
+    "domain": "smartconcil.com",
+    "description": "Software that automates financial reconciliation for financial institutions and insurers.",
+    "sector": "Fintech",
+    "city": "Toronto",
+    "founded": 2018,
+    "stage": "Unknown",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://dmz.torontomu.ca/startup-directory?542e3ac2_page=11",
+      "https://www.smartconcil.com/",
+      "https://www.sourcefromontario.com/en/page/delegate/137406/smartconcil"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "HQ Toronto per Source From Ontario and G2 (Dealroom says Mississauga, also GTA); offices in Mexico and Colombia.",
+    "address": null,
+    "id": "smartconcil.com",
+    "found_in": [
+      "dmz"
+    ]
+  },
+  {
+    "name": "SmartTerm",
+    "website": "https://smartterm.io/",
+    "domain": "smartterm.io",
+    "description": "Student information system, LMS and education data platform for schools and governments.",
+    "sector": "Edtech",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Unknown",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://dmz.torontomu.ca/startup-directory?542e3ac2_page=11",
+      "https://smartterm.io/"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Site live (2026). Toronto only per DMZ listing; site gives no address and customers are mostly outside Canada, so GTA HQ weakly confirmed.",
+    "address": null,
+    "id": "smartterm.io",
+    "found_in": [
+      "dmz"
+    ]
+  },
+  {
+    "name": "SnapWrite AI",
+    "website": "https://snapwrite.ai",
+    "domain": "snapwrite.ai",
+    "description": "AI merchandising platform that structures product data and publishes it to ecommerce sales channels.",
+    "sector": "B2B SaaS",
+    "city": "Toronto",
+    "founded": 2022,
+    "stage": "Pre-seed",
+    "employees": null,
+    "last_round": "Grant",
+    "last_round_date": "2024-09-01",
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": false,
+    "sources": [
+      "https://directory.nextcanada.com/directory/ventures/?program=next-36",
+      "https://snapwrite.ai/",
+      "https://www.caplight.com/company/snapwrite",
+      "https://pitchbook.com/profiles/company/503681-14"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "snapwrite.ca redirects to snapwrite.ai. Founded 2022 per Globe and Mail (PitchBook says 2020). Funding mostly grants and competitions.",
+    "address": "175 Bloor St E, Suite 1080, Toronto, ON",
+    "id": "snapwrite.ca",
+    "found_in": [
+      "next-canada"
+    ],
+    "lat": 43.670896,
+    "lng": -79.382463
+  },
+  {
+    "name": "SoJo",
+    "website": "https://mysojo.co/",
+    "domain": "mysojo.co",
+    "description": "Designs and delivers entrepreneurship and innovation training programs and an online platform for social entrepreneurs.",
+    "sector": "Edtech",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Unknown",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://dmz.torontomu.ca/startup-directory?542e3ac2_page=12",
+      "https://mysojo.co/"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Address from company site.",
+    "address": "401 Richmond St W, Suite 365, Toronto, ON M5V 3A8",
+    "id": "mysojo.co",
+    "found_in": [
+      "dmz"
+    ],
+    "lat": 43.647827,
+    "lng": -79.394689
+  },
+  {
+    "name": "Soundpays",
+    "website": "https://www.soundpays.com/",
+    "domain": "soundpays.com",
+    "description": "Toronto company operating TAP, the Thought-to-Action Protocol, connecting user intent to near-instant actions.",
+    "sector": "Other",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Unknown",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": false,
+    "sources": [
+      "https://dmz.torontomu.ca/startup-directory?542e3ac2_page=12",
+      "https://www.soundpays.com/"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "DMZ Alumni. HQ address from company site.",
+    "address": "383 Adelaide St W, Toronto, ON M5V 1S4",
+    "id": "soundpays.com",
+    "found_in": [
+      "dmz"
+    ],
+    "lat": 43.64634,
+    "lng": -79.39656
+  },
+  {
+    "name": "Souqh",
+    "website": "https://souqh.ca/",
+    "domain": "souqh.ca",
+    "description": "Real estate and home services marketplace connecting homeowners with service providers.",
+    "sector": "Proptech",
+    "city": "Toronto",
+    "founded": 2020,
+    "stage": "Unknown",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://dmz.torontomu.ca/startup-directory?542e3ac2_page=12",
+      "https://souqh.ca/",
+      "https://dmz.torontomu.ca/startup_profiles/souqh",
+      "https://www.cbinsights.com/company/souqh"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "DMZ Alumni. Toronto-based per DMZ/CB Insights; founded year from CB Insights/Village.ai.",
+    "address": null,
+    "id": "souqh.ca",
+    "found_in": [
+      "dmz"
+    ]
+  },
+  {
+    "name": "Speedy Labs",
+    "website": "https://speedylabs.ai/",
+    "domain": "speedylabs.ai",
+    "description": "AI agents that reconcile rebates and surface short pays for foodservice distributors.",
+    "sector": "B2B SaaS",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Seed",
+    "employees": "1-10",
+    "last_round": "Seed",
+    "last_round_date": "2023-07-01",
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": true,
+    "sources": [
+      "https://www.ycombinator.com/companies/speedy-labs",
+      "https://speedylabs.ai/",
+      "https://seedtable.com/companies/speedy-labs/funding-rounds/seed-2023-07"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "YC W23. HQ ambiguous: site footer lists San Francisco / Toronto; YC lists Toronto. Seed round data from Seedtable may be mixed with SpeedyBrand, treat with caution. Hiring flag carried from YC listing.",
+    "address": null,
+    "id": "speedylabs.ai",
+    "found_in": [
+      "yc"
+    ]
+  },
+  {
+    "name": "Spellbook",
+    "website": "https://spellbook.com/",
+    "domain": "spellbook.com",
+    "description": "AI contract drafting, review and redlining platform for legal teams and law firms.",
+    "sector": "AI/ML",
+    "city": "Toronto",
+    "founded": 2018,
+    "stage": "Series B",
+    "employees": "51-200",
+    "last_round": "Series B",
+    "last_round_date": "2025-10-09",
+    "last_round_amount": "USD 50M",
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://betakit.com/spellbook-raises-50-million-usd-series-b-led-by-khosla-ventures/",
+      "https://spellbook.com/",
+      "https://builtintoronto.com/company/spellbook"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Formerly Rally, rebranded 2023. Site has a /careers link. Founded year and headcount vary by directory.",
+    "address": null,
+    "id": "spellbook.legal",
+    "found_in": [
+      "seed-freelance"
+    ]
+  },
+  {
+    "name": "Spiffy",
+    "website": "https://www.withspiffy.com/",
+    "domain": "withspiffy.com",
+    "description": "Microlearning training platform and employee app for brands, retailers and employers.",
+    "sector": "B2B SaaS",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Unknown",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": false,
+    "sources": [
+      "https://dmz.torontomu.ca/startup-directory?542e3ac2_page=12",
+      "https://www.withspiffy.com/"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "DMZ Alumni. Address from company site; no careers page found.",
+    "address": "151 Bloor St W, Suite 800, Toronto, ON M5S 1S4",
+    "id": "withspiffy.com",
+    "found_in": [
+      "dmz"
+    ],
+    "lat": 43.66861,
+    "lng": -79.393141
+  },
+  {
+    "name": "SPOTWORK",
+    "website": "https://spotwork.co/",
+    "domain": "spotwork.co",
+    "description": "On-demand hourly staffing marketplace for industrial labour in warehousing, logistics and manufacturing.",
+    "sector": "HR/Future of work",
+    "city": "Toronto",
+    "founded": 2019,
+    "stage": "Unknown",
+    "employees": "21-50",
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://dmz.torontomu.ca/startup-directory?542e3ac2_page=12",
+      "https://spotwork.co/",
+      "https://www.newswire.ca/news-releases/spotwork-s-ai-flexible-staffing-solution-shapes-the-future-of-work-and-hiring-845600108.html",
+      "https://zoominfo.com/c/spotwork/1316199770"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "HQ conflict: website footer shows a Dallas, TX address (US operations, 35+ US markets); directories (ZoomInfo etc.) and press release list Toronto (33 Bloor St E, not confirmed on company site). Kept as Toronto, low confidence. Address left null.",
+    "address": null,
+    "id": "spotwork.co",
+    "found_in": [
+      "dmz"
+    ]
+  },
+  {
+    "name": "Sprintlio",
+    "website": "https://sprintlio.com/",
+    "domain": "sprintlio.com",
+    "description": "Agile sprint retrospective tool for remote teams with Jira and Slack integrations.",
+    "sector": "B2B SaaS",
+    "city": "Toronto",
+    "founded": 2018,
+    "stage": "Unknown",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": false,
+    "sources": [
+      "https://dmz.torontomu.ca/startup-directory?542e3ac2_page=12",
+      "https://sprintlio.com/",
+      "https://www.g2.com/sellers/sprintlio"
+    ],
+    "status": "unknown",
+    "verified": true,
+    "notes": "Toronto per G2/DMZ; founded 2018 per Capterra. Site is live (copyright 2023) but one comparison page claims the tool has been unavailable since April 2023; status unresolved. No careers page.",
+    "address": null,
+    "id": "sprintlio.com",
+    "found_in": [
+      "dmz"
+    ]
+  },
+  {
+    "name": "Sprout Family",
+    "website": "https://www.sproutfamily.ca",
+    "domain": "sproutfamily.ca",
+    "description": "Digital health and benefits platform for fertility, surrogacy, adoption and family building, sold through employers.",
+    "sector": "Healthtech",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Pre-seed",
+    "employees": null,
+    "last_round": "Pre-seed",
+    "last_round_date": null,
+    "last_round_amount": "CAD 1.7M",
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://www.marsdd.com/research-and-insights/how-strategic-public-relations-support-helped-sprout-family-grow-its-business/",
+      "https://www.sproutfamily.ca",
+      "https://www.osler.com/en/about-us/representative-work/sprout-family/"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Pre-seed CAD 1.7M closed March 2025, led by StandUp Ventures (Osler; exact date not given). Toronto per Osler lead office and Techjobs; no address on site. The sproutfamily.ca domain was assumed from site content matching the fertility benefits description; sprout.family is a parked domain.",
+    "address": null,
+    "id": "name:sproutfamily",
+    "found_in": [
+      "mars"
+    ]
+  },
+  {
+    "name": "Stempad",
+    "website": "https://www.stempad.com",
+    "domain": "stempad.com",
+    "description": "Collaborative online platform for writing and publishing science, with AI copilot.",
+    "sector": "B2B SaaS",
+    "city": "Toronto",
+    "founded": 2024,
+    "stage": "Pre-seed",
+    "employees": "1-10",
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": false,
+    "sources": [
+      "https://www.ycombinator.com/companies/stempad",
+      "https://www.stempad.com",
+      "https://www.yorkschool.com/news-detail?pk=1360615"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "YC S24. HQ low confidence: YC lists Toronto, but founder Ralph Rouhana was a University of Waterloo student; no address on site. Stage Pre-seed is an assumption from YC-only funding; no round data found. Site has a Careers link but no listed roles.",
+    "address": null,
+    "id": "stempad.com",
+    "found_in": [
+      "yc"
+    ]
+  },
+  {
+    "name": "StratumAI",
+    "website": "https://stratum.gs/",
+    "domain": "stratum.gs",
+    "description": "Deep-tech AI for mining resource modelling and decision-making.",
+    "sector": "AI/ML",
+    "city": "Toronto",
+    "founded": 2019,
+    "stage": "Unknown",
+    "employees": "1-10",
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": false,
+    "sources": [
+      "https://www.ycombinator.com/companies/stratumai",
+      "https://stratum.gs/",
+      "https://www.cbinsights.com/company/stratum-ai"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "YC W20. stratum.ai redirects to stratum.gs (new domain). Toronto per YC/CB Insights; no address on site. Careers page exists but lists no specific roles.",
+    "address": null,
+    "id": "stratum.ai",
+    "found_in": [
+      "yc"
+    ]
+  },
+  {
+    "name": "Structure Plus",
+    "website": "https://www.structure.plus/",
+    "domain": "structure.plus",
+    "description": "Cloud-based structural engineering software for optimizing materials and generating detailing sheets.",
+    "sector": "B2B SaaS",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Unknown",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": false,
+    "sources": [
+      "https://dmz.torontomu.ca/startup-directory?542e3ac2_page=13",
+      "https://www.structure.plus/"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "DMZ Alumni. Site footer lists Toronto, Canada; no address; no careers section.",
+    "address": null,
+    "id": "structure.plus",
+    "found_in": [
+      "dmz"
+    ]
+  },
+  {
+    "name": "Studeo",
+    "website": "https://studeo.ai/",
+    "domain": "studeo.ai",
+    "description": "AI-driven interactive storytelling platform for real estate marketing (Storybooks).",
+    "sector": "Proptech",
+    "city": "Toronto",
+    "founded": 2013,
+    "stage": "Unknown",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": false,
+    "sources": [
+      "https://dmz.torontomu.ca/startup-directory?542e3ac2_page=13",
+      "https://studeo.ai/",
+      "https://www.leadingre.com/mediaroom/?p=356"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Toronto-based per search results (MaRS profile, press). Founded 2013 per press release (Latka says 2014). Site copyright 2026; no careers section.",
+    "address": null,
+    "id": "studeo.ai",
+    "found_in": [
+      "dmz"
+    ]
+  },
+  {
+    "name": "Superbar",
+    "website": "http://www.superbar.ai",
+    "domain": "superbar.ai",
+    "description": "AI sales assistant and algorithmic product-discovery feed for ecommerce stores.",
+    "sector": "B2B SaaS",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Unknown",
+    "employees": "1-10",
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": true,
+    "sources": [
+      "https://www.ycombinator.com/companies/superbar",
+      "https://www.superbar.ai/careers",
+      "https://www.vcbacked.co/company/superbar"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "YC S22, formerly Caddie. Toronto per YC/VCBacked (Shopify developer address in Richmond Hill, ON); open roles listed are New York/remote. HQ low confidence.",
+    "address": null,
+    "id": "superbar.ai",
+    "found_in": [
+      "yc"
+    ]
+  },
+  {
+    "name": "SuperCode",
+    "website": "https://www.supercodeclub.com/",
+    "domain": "supercodeclub.com",
+    "description": "Coding education platform where students learn text-based code inside immersive 3D worlds.",
+    "sector": "Edtech",
+    "city": "Toronto",
+    "founded": 2013,
+    "stage": "Unknown",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": false,
+    "sources": [
+      "https://dmz.torontomu.ca/startup-directory?542e3ac2_page=13",
+      "https://www.supercodeclub.com/",
+      "https://dmz.torontomu.ca/the-review/innovation-in-education-how-supercode-is-redefining-learning"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Operated by Creatubbles (Toronto, CB Insights lists 77 King St W, not verified on site). CEO Paul Greenberg per DMZ. Founded 2013 per CB Insights.",
+    "address": null,
+    "id": "supercodeclub.com",
+    "found_in": [
+      "dmz"
+    ]
+  },
+  {
+    "name": "Sweat and Tonic",
+    "website": "https://sweatandtonic.com/",
+    "domain": "sweatandtonic.com",
+    "description": "Toronto boutique fitness and wellness company with studios, a spa and a lounge.",
+    "sector": "Consumer",
+    "city": "Toronto",
+    "founded": 2017,
+    "stage": "Unknown",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://betakit.com/cohere-and-float-once-again-top-linkedins-top-canadian-startups-list/",
+      "https://sweatandtonic.com/",
+      "https://torontolife.com/style/sweat-and-tonic-yorkville/"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Boutique fitness operator, not a tech startup; kept because of its LinkedIn Top Startups ranking. Studios at 225 Yonge St and 486 Front St W (no HQ address stated). Founded 2017 by David Ingram per press; first studio 2019. Careers link goes to a talentnest board (roles not checked).",
+    "address": null,
+    "id": "name:sweatandtonic",
+    "found_in": [
+      "rankings"
+    ]
+  },
+  {
+    "name": "Swift Medical Inc.",
+    "website": "https://swiftmedical.com/",
+    "domain": "swiftmedical.com",
+    "description": "AI-powered wound care technology for healthcare providers, payers and researchers.",
+    "sector": "Healthtech",
+    "city": "Toronto",
+    "founded": 2015,
+    "stage": "Series B",
+    "employees": "51-200",
+    "last_round": "Series B",
+    "last_round_date": "2021-07-15",
+    "last_round_amount": "USD 35M",
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://dmz.torontomu.ca/startup-directory?542e3ac2_page=13",
+      "https://swiftmedical.com/",
+      "https://www.businesswire.com/news/home/20210715005344/en/Swift-Medical-Raises-35-Million-Series-B-to-Transform-Wound-Care-Delivery-with-AI",
+      "https://www.businesswire.com/news/home/20240125235765/en/Swift-Medical-Announces-New-Financing-Round-to-Further-Enhance-Its-AI-Based-Wound-Care-Technology"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Toronto HQ per press releases. A further USD 8M round was announced Jan 2024 (round name not stated). Street address conflicts between sources (1 Richmond St W vs 1 King St W), left null. Headcount about 60 in June 2024; company now describes itself as remote-first.",
+    "address": null,
+    "id": "swiftmedical.com",
+    "found_in": [
+      "dmz"
+    ]
+  },
+  {
+    "name": "Switchboard",
+    "website": "https://switchboard.audio/",
+    "domain": "switchboard.audio",
+    "description": "SDK and no-code editor for building real-time audio and voice AI software, by Synervoz Communications.",
+    "sector": "B2B SaaS",
+    "city": "Toronto",
+    "founded": 2014,
+    "stage": "Unknown",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": false,
+    "sources": [
+      "https://dmz.torontomu.ca/startup-directory?542e3ac2_page=13",
+      "https://switchboard.audio/",
+      "https://www.caplight.com/company/synervoz"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Operated by Synervoz Communications Inc., Toronto, founded 2014 per directory. DMZ tag said Logistics; reclassified from site content. No careers listing on site.",
+    "address": null,
+    "id": "switchboard.audio",
+    "found_in": [
+      "dmz"
+    ]
+  },
+  {
+    "name": "SWTCH",
+    "website": "https://swtchenergy.com/",
+    "domain": "swtchenergy.com",
+    "description": "EV charging company with the SWTCH Cortex platform and turnkey charger installation and management.",
+    "sector": "Climate/Energy",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Unknown",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://dmz.torontomu.ca/startup-directory?542e3ac2_page=13",
+      "https://swtchenergy.com/careers"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Careers page says headquartered in Toronto with offices in Boston and New York. Jobs hosted on Workable (apply.workable.com/swtch-energy), not checked for open roles.",
+    "address": null,
+    "id": "swtchenergy.com",
+    "found_in": [
+      "dmz"
+    ]
+  },
+  {
+    "name": "Sync",
+    "website": "https://www.sync.com/",
+    "domain": "sync.com",
+    "description": "Privacy-focused end-to-end encrypted cloud storage and file sharing.",
+    "sector": "Cybersecurity",
+    "city": "Toronto",
+    "founded": 2011,
+    "stage": "Unknown",
+    "employees": "21-50",
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://dmz.torontomu.ca/startup-directory?542e3ac2_page=13",
+      "https://www.sync.com/",
+      "https://pitchbook.com/profiles/company/95524-30"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Founded 2011 per company site. Address from PitchBook/directories, not the company site. Careers page links to Indeed; open roles not confirmed.",
+    "address": "105-155 Gordon Baker Rd, Toronto, ON M2H 3N5",
+    "id": "sync.com",
+    "found_in": [
+      "dmz"
+    ],
+    "lat": 43.795665,
+    "lng": -79.341269
+  },
+  {
+    "name": "Taiga Robotics",
+    "website": "https://www.taigarobotics.com/",
+    "domain": "taigarobotics.com",
+    "description": "Intelligent robotic palletizers with AI-assisted programming and digital-twin deployment.",
+    "sector": "Hardware/Robotics",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Unknown",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://dmz.torontomu.ca/startup-directory?542e3ac2_page=13",
+      "https://www.taigarobotics.com/"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "DMZ Alumni. Address from company site; no careers listing found.",
+    "address": "110 Bond St, Toronto, ON M5B 1X8",
+    "id": "taigarobotics.com",
+    "found_in": [
+      "dmz"
+    ],
+    "lat": 43.656746,
+    "lng": -79.378847
+  },
+  {
+    "name": "Tailscale",
+    "website": "https://tailscale.com",
+    "domain": "tailscale.com",
+    "description": "Corporate VPN and secure networking software built on WireGuard.",
+    "sector": "B2B SaaS",
+    "city": "Toronto",
+    "founded": 2019,
+    "stage": "Growth",
+    "employees": "201-500",
+    "last_round": "Series C",
+    "last_round_date": "2025-04-08",
+    "last_round_amount": "CAD 230M",
+    "linkedin": "https://linkedin.com/company/tailscale",
+    "hiring": true,
+    "sources": [
+      "https://betakit.com/corporate-vpn-startup-tailscale-secures-230-million-cad-series-c-on-back-of-surprising-growth/",
+      "https://www.seedtable.com/best-startups-in-toronto",
+      "https://tailscale.com/company",
+      "https://linkedin.com/company/tailscale",
+      "https://builtintoronto.com/company/tailscale"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Toronto listed as primary HQ on LinkedIn and Built In; company is fully remote so no street address. Headcount ranges vary by source. Company site says it is hiring.",
+    "address": null,
+    "id": "name:tailscale",
+    "found_in": [
+      "betakit",
+      "rankings"
+    ]
+  },
+  {
+    "name": "Talin",
+    "website": "https://talin.ai/",
+    "domain": "talin.ai",
+    "description": "Recruitment automation platform for recruiting agencies covering sourcing, outreach, follow-ups and business development.",
+    "sector": "HR/Future of work",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Unknown",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://dmz.torontomu.ca/startup-directory?542e3ac2_page=13",
+      "https://talin.ai/"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "DMZ alumni. Footer: Talin Technologies Inc. Careers page exists but no roles seen.",
+    "address": "10 Dundas St E, 6th Floor, Toronto, ON M5B 2G9",
+    "id": "talin.ai",
+    "found_in": [
+      "dmz"
+    ],
+    "lat": 43.657035,
+    "lng": -79.38046
+  },
+  {
+    "name": "Talking Computers",
+    "website": "https://talkingcomputers.ai",
+    "domain": "talkingcomputers.ai",
+    "description": "Stealth AI research lab building multimodal real-time interaction models for voice agents.",
+    "sector": "AI/ML",
+    "city": "Toronto",
+    "founded": 2025,
+    "stage": "Unknown",
+    "employees": "1-10",
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": false,
+    "sources": [
+      "https://www.ycombinator.com/companies/talking-computers",
+      "https://talkingcomputers.ai"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "YC Winter 2026. Toronto per YC page; own site gives no location.",
+    "address": null,
+    "id": "talkingcomputers.ai",
+    "found_in": [
+      "yc"
+    ]
+  },
+  {
+    "name": "Tap Report",
+    "website": "https://tapreport.io/home/",
+    "domain": "tapreport.io",
+    "description": "Inspection management software where inspectors tap phones on Smart Tags to log inspections and generate compliance reports.",
+    "sector": "B2B SaaS",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Unknown",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://dmz.torontomu.ca/startup-directory?542e3ac2_page=13",
+      "https://tapreport.io/home/"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "DMZ alumni. Site has a 'We're hiring' mailto link only.",
+    "address": "181 Bay St, Toronto, ON M5J 0A5",
+    "id": "tapreport.io",
+    "found_in": [
+      "dmz"
+    ],
+    "lat": 43.647176,
+    "lng": -79.378298
+  },
+  {
+    "name": "teaBOT",
+    "website": "http://teaBOT.com",
+    "domain": "teabot.com",
+    "description": "Tea-making robot for offices, leased for a monthly fee with an app for custom loose-leaf tea.",
+    "sector": "Hardware/Robotics",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Unknown",
+    "employees": "1-10",
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": false,
+    "sources": [
+      "https://www.ycombinator.com/companies/teabot",
+      "http://teaBOT.com"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "YC Summer 2015. Site copyright 2026 TBOT Inc., 2026 client logos.",
+    "address": "786 King St W, Toronto, ON",
+    "id": "teabot.com",
+    "found_in": [
+      "yc"
+    ],
+    "lat": 43.64342,
+    "lng": -79.40642
+  },
+  {
+    "name": "Tempo",
+    "website": "https://www.tempo.new",
+    "domain": "tempo.new",
+    "description": "AI-powered visual editor and IDE for React, for whole product teams.",
+    "sector": "AI/ML",
+    "city": "Toronto",
+    "founded": 2023,
+    "stage": "Unknown",
+    "employees": "1-10",
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": true,
+    "sources": [
+      "https://www.ycombinator.com/companies/tempo-2",
+      "https://www.tempo.new"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "YC Summer 2023; Toronto per YC page; 3 open Toronto jobs on YC.",
+    "address": null,
+    "id": "tempo.new",
+    "found_in": [
+      "yc"
+    ]
+  },
+  {
+    "name": "Terminal",
+    "website": "https://www.withterminal.com/",
+    "domain": "withterminal.com",
+    "description": "Universal API platform connecting insurance and fleet software to commercial vehicle telematics data.",
+    "sector": "B2B SaaS",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Series A",
+    "employees": "11-50",
+    "last_round": "Series A",
+    "last_round_date": "2026-07-29",
+    "last_round_amount": "USD 20M",
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://betakit.com/y-combinator-grad-terminal-raises-20-million-usd-series-a-round/",
+      "https://www.seedtable.com/best-startups-in-toronto",
+      "https://www.ycombinator.com/companies/terminal",
+      "https://www.withterminal.com/"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Merged with withterminal.com record: same YC S23 telematics company, Series A USD 20M led by Battery Ventures (Penske, Intact Private Capital, YC, Wayfinder). Toronto per BetaKit. Careers link on site, no roles read.",
+    "address": null,
+    "id": "name:terminal",
+    "found_in": [
+      "betakit",
+      "rankings",
+      "seed-freelance"
+    ]
+  },
+  {
+    "name": "The Curling Group",
+    "website": "https://thecurlinggroup.com/",
+    "domain": "thecurlinggroup.com",
+    "description": "Sports business investing in curling and producing content, owner of the Grand Slam of Curling and the Rock League pro league.",
+    "sector": "Media/Entertainment",
+    "city": "Toronto",
+    "founded": 2024,
+    "stage": "Unknown",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://relay.vc/portfolio",
+      "https://thecurlinggroup.com/",
+      "https://www.cbinsights.com/company/the-curling-group"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Site redirects curlinggroup.com to thecurlinggroup.com. Toronto HQ per CB Insights only (aggregator); site gives no address. Founded 2024 per CB Insights.",
+    "address": null,
+    "id": "curlinggroup.com",
+    "found_in": [
+      "vc-omers-georgian-other"
+    ]
+  },
+  {
+    "name": "The Logic",
+    "website": "https://thelogic.co/",
+    "domain": "thelogic.co",
+    "description": "Independent Canadian business and technology news outlet.",
+    "sector": "Media/Entertainment",
+    "city": "Toronto",
+    "founded": 2018,
+    "stage": "Unknown",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://relay.vc/portfolio",
+      "https://thelogic.co/about"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Toronto per own About page; no street address. Careers via thelogic.applytojobs.ca (not checked).",
+    "address": null,
+    "id": "thelogic.co",
+    "found_in": [
+      "vc-omers-georgian-other"
+    ]
+  },
+  {
+    "name": "Thri5",
+    "website": "https://thri5.com",
+    "domain": "thri5.com",
+    "description": "AI execution platform that helps large retailers detect issues and route actions across stores, DCs and HQ.",
+    "sector": "E-commerce/Retail",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Unknown",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://whitecapvp.com/portfolio",
+      "https://thri5.com"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Address from own site. No careers page seen.",
+    "address": "325 Front St W, 4th Floor, Toronto, ON M5V 3S9",
+    "id": "thri5.com",
+    "found_in": [
+      "vc-omers-georgian-other"
+    ],
+    "lat": 43.643272,
+    "lng": -79.389907
+  },
+  {
+    "name": "ThrillX Design",
+    "website": "https://thrillxdesign.com/",
+    "domain": "thrillxdesign.com",
+    "description": "Web design and UX/UI agency building data-driven websites and apps.",
+    "sector": "Other",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Unknown",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://directory.nextcanada.com/directory/ventures/?program=next-36",
+      "https://thrillxdesign.com/"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Agency-style business (NEXT 36 venture). Secondary Wyoming address in footer; primary office Toronto. Careers page exists, no roles read.",
+    "address": "2 Bloor St E, Suite 3500, Toronto, ON M4W 1A8",
+    "id": "thrillxdesign.com",
+    "found_in": [
+      "next-canada"
+    ],
+    "lat": 43.670816,
+    "lng": -79.386573
+  },
+  {
+    "name": "Tilt (f.k.a. Delphia)",
+    "website": "https://tilt.io",
+    "domain": "tilt.io",
+    "description": "AI-powered custom indexing platform that turns trend views into investment strategies.",
+    "sector": "Fintech",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Unknown",
+    "employees": "11-50",
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": true,
+    "sources": [
+      "https://www.ycombinator.com/companies/tilt-fka-delphia",
+      "https://tilt.now/"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "YC Winter 2018, Toronto per YC. Caution: current site (tilt.io redirects to tilt.now) lists Agora Indexing Technologies LLC, Miami FL; HQ may have shifted to the US. GTA not fully confirmed.",
+    "address": null,
+    "id": "tilt.io",
+    "found_in": [
+      "yc"
+    ]
+  },
+  {
+    "name": "Timia Capital",
+    "website": "https://timiacapital.com",
+    "domain": "timiacapital.com",
+    "description": "Toronto-based lender providing debt to B2B SaaS and software-enabled companies in Canada and the US.",
+    "sector": "Fintech",
+    "city": "Toronto",
+    "founded": 2015,
+    "stage": "Unknown",
+    "employees": null,
+    "last_round": "Credit facility (SAF Group)",
+    "last_round_date": "2026-08-27",
+    "last_round_amount": "25M (currency not stated)",
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://betakit.com/timia-capital-expands-b2b-tech-lending-capacity-with-funding-from-saf-group/"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Debt lender (borderline startup). Website and founding year from BetaKit article; site itself not fetched.",
+    "address": null,
+    "id": "name:timiacapital",
+    "found_in": [
+      "betakit"
+    ]
+  },
+  {
+    "name": "Together Software",
+    "website": "https://togetherplatform.com",
+    "domain": "togetherplatform.com",
+    "description": "Mentoring software platform for organizations (mentorship, Colleague Connect, Coffee Chats).",
+    "sector": "B2B SaaS",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Acquired",
+    "employees": "11-50",
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": false,
+    "sources": [
+      "https://www.ycombinator.com/companies/together-software",
+      "https://betakit.com/absorb-to-acquire-together-in-bid-to-bring-mentorship-to-its-learning-software/"
+    ],
+    "status": "acquired",
+    "verified": true,
+    "notes": "Acquired by Absorb Software (Calgary) announced Dec 2024; now a subsidiary. YC Summer 2019.",
+    "address": null,
+    "id": "togetherplatform.com",
+    "found_in": [
+      "yc"
+    ]
+  },
+  {
+    "name": "Toothpod",
+    "website": "https://toothpod.co",
+    "domain": "toothpod.co",
+    "description": "Functional dental chewing gum for oral care when brushing is not possible, spun out of the University of Toronto.",
+    "sector": "Consumer",
+    "city": "Toronto",
+    "founded": 2022,
+    "stage": "Seed",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": false,
+    "sources": [
+      "https://directory.nextcanada.com/directory/ventures/?program=next-36",
+      "https://toothpod.co/",
+      "https://www.utoronto.ca/news/u-t-oral-health-startup-launches-dental-smart-gum-globe-and-mail-betakit",
+      "https://pitchbook.com/profiles/company/458743-69"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "toothpod.ca redirects to toothpod.co. Founded 2022 per U of T (PitchBook says 2020). Reported ~USD/CAD 850K raised plus grants; unclear round names, stage is an estimate.",
+    "address": null,
+    "id": "toothpod.ca",
+    "found_in": [
+      "next-canada"
+    ]
+  },
+  {
+    "name": "TouchBistro",
+    "website": "https://touchbistro.com",
+    "domain": "touchbistro.com",
+    "description": "All-in-one cloud point-of-sale and restaurant management platform.",
+    "sector": "B2B SaaS",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Late stage",
+    "employees": "501-1000",
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://omersventures.com/companies",
+      "https://touchbistro.com",
+      "https://www.indeed.com/cmp/TouchBistro"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Toronto HQ per Indeed; street address conflicts across sources so left null. Employee range from Indeed (other estimates ~380-600). Careers page exists.",
+    "address": null,
+    "id": "touchbistro.com",
+    "found_in": [
+      "vc-omers-georgian-other"
+    ]
+  },
+  {
+    "name": "Tough Commerce",
+    "website": "http://www.toughcommerce.com",
+    "domain": "toughcommerce.com",
+    "description": "Construction management software for equipment-based businesses such as concrete pumping, aggregate hauling and hydrovac.",
+    "sector": "Proptech",
+    "city": "Toronto",
+    "founded": 2017,
+    "stage": "Unknown",
+    "employees": "11-50",
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": false,
+    "sources": [
+      "https://www.ycombinator.com/companies/tough-commerce",
+      "http://www.toughcommerce.com"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "YC Winter 2020. Toronto per YC page; site gives no address. YC shows 0 open jobs.",
+    "address": null,
+    "id": "toughcommerce.com",
+    "found_in": [
+      "yc"
+    ]
+  },
+  {
+    "name": "Tower",
+    "website": "https://withtower.com",
+    "domain": "withtower.com",
+    "description": "AI-powered due diligence management platform for M&A, legal and commercial real estate deal teams.",
+    "sector": "AI/ML",
+    "city": "Toronto",
+    "founded": 2024,
+    "stage": "Unknown",
+    "employees": "1-10",
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": false,
+    "sources": [
+      "https://www.ycombinator.com/companies/tower",
+      "https://withtower.com"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "YC Winter 2024. Toronto per YC page. 0 open jobs on YC.",
+    "address": null,
+    "id": "withtower.com",
+    "found_in": [
+      "yc"
+    ]
+  },
+  {
+    "name": "TransCrypts",
+    "website": "https://www.transcrypts.com/",
+    "domain": "transcrypts.com",
+    "description": "Blockchain-based API for encrypting and verifying employment and other records.",
+    "sector": "HR/Future of work",
+    "city": "Toronto",
+    "founded": 2020,
+    "stage": "Seed",
+    "employees": null,
+    "last_round": "Seed",
+    "last_round_date": "2025-10-08",
+    "last_round_amount": "USD 15M (about CAD 20M)",
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://betakit.com/mark-cuban-backed-transcrypts-closes-20-million-cad-seed-round/"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Dual-headquartered San Francisco and Toronto per BetaKit; founded at UTSC The Hub. Seed led by Pantera Capital. GTA HQ partly confirmed only; website not fetched.",
+    "address": null,
+    "id": "name:transcrypts",
+    "found_in": [
+      "betakit"
+    ]
+  },
+  {
+    "name": "Trexo Robotics",
+    "website": "http://trexorobotics.com",
+    "domain": "trexorobotics.com",
+    "description": "Robotic walking devices (exoskeletons) for children and rehabilitation patients.",
+    "sector": "Healthtech",
+    "city": "Mississauga",
+    "founded": null,
+    "stage": "Unknown",
+    "employees": "11-50",
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": false,
+    "sources": [
+      "https://www.ycombinator.com/companies/trexo-robotics",
+      "http://trexorobotics.com"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "YC Winter 2019. HQ is Mississauga per own site (GTA).",
+    "address": "3-6705 Millcreek Dr, Mississauga, ON L5N 5M4",
+    "id": "trexorobotics.com",
+    "found_in": [
+      "yc"
+    ]
+  },
+  {
+    "name": "Trolley",
+    "website": "https://trolley.com",
+    "domain": "trolley.com",
+    "description": "Payouts platform for companies that pay recipients globally, with tax, compliance and fraud tools.",
+    "sector": "Fintech",
+    "city": "Toronto",
+    "founded": 2015,
+    "stage": "Series B",
+    "employees": null,
+    "last_round": "Series B",
+    "last_round_date": "2024-11-13",
+    "last_round_amount": "USD 23M",
+    "linkedin": null,
+    "hiring": true,
+    "sources": [
+      "https://www.seedtable.com/best-startups-in-toronto",
+      "https://trolley.com",
+      "https://trolley.com/about-trolley",
+      "https://betakit.com/trolley-secures-32-million-cad-series-b-to-expand-payout-platforms-global-reach/"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Founded as Payment Rails, rebranded Trolley. Toronto office listed first on its site, but BetaKit says most staff are in Montreal; HQ not explicitly stated on company site.",
+    "address": "1 University Ave, 3rd Floor, Toronto, ON M5J 2P1",
+    "id": "name:trolley",
+    "found_in": [
+      "rankings"
+    ],
+    "lat": 43.645814,
+    "lng": -79.383191
+  },
+  {
+    "name": "Trusty",
+    "website": "https://www.withtrusty.com/",
+    "domain": "withtrusty.com",
+    "description": "Estate Binder platform and app that helps advisors and families organize assets, plans and wishes.",
+    "sector": "Fintech",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Pre-seed",
+    "employees": null,
+    "last_round": "Pre-seed",
+    "last_round_date": "2025-07-15",
+    "last_round_amount": "CAD 1M",
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://relay.vc/portfolio",
+      "https://www.withtrusty.com/",
+      "https://betakit.com/uberflip-co-founder-secures-1-million-to-help-families-pass-down-valuables-with-trusty/",
+      "https://www.goodmans.ca/insights/post/goodmans-tech-blog/the-modernization-of-estate-planning-with--trusty"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Toronto-based per Goodmans/BetaKit; founder Randy Frisch (Uberflip). Pre-seed co-led by Relay and Graphite. Domain match between BetaKit coverage and withtrusty.com not explicitly confirmed.",
+    "address": null,
+    "id": "withtrusty.com",
+    "found_in": [
+      "vc-omers-georgian-other"
+    ]
+  },
+  {
+    "name": "Tuhk",
+    "website": null,
+    "domain": null,
+    "description": "Fraud-prevention platform that pools payment data across banks and merchants into a shared intelligence network.",
+    "sector": "Cybersecurity",
+    "city": "Toronto",
+    "founded": 2025,
+    "stage": "Seed",
+    "employees": null,
+    "last_round": "Seed",
+    "last_round_date": "2025-12-03",
+    "last_round_amount": "USD 6M",
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://betakit.com/tuhk-raises-6-million-usd-to-crack-down-on-financial-cybercrime/"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Seed led by FINTOP with Lloyds Banking Group and Capital One Ventures. Website not found.",
+    "address": null,
+    "id": "name:tuhk",
+    "found_in": [
+      "seed-freelance"
+    ]
+  },
+  {
+    "name": "Tuuli",
+    "website": "https://www.trytuuli.com/",
+    "domain": "trytuuli.com",
+    "description": "AI tool that reviews construction drawing sets for coordination gaps, code issues and spec mismatches.",
+    "sector": "B2B SaaS",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Unknown",
+    "employees": "1-10",
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://directory.nextcanada.com/directory/ventures/?program=next-36",
+      "https://www.trytuuli.com/"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Toronto per third-party profile of CEO Vit Vimal; 200 Bay St address claimed in sourcing notes but not verified, so left null. Site lists no careers.",
+    "address": null,
+    "id": "trytuuli.com",
+    "found_in": [
+      "next-canada"
+    ]
+  },
+  {
+    "name": "TyltGO",
+    "website": "https://www.tyltgo.com/",
+    "domain": "tyltgo.com",
+    "description": "White-label same-day and next-day delivery for retailers and e-commerce brands.",
+    "sector": "Logistics",
+    "city": "Toronto",
+    "founded": 2019,
+    "stage": "Seed",
+    "employees": "11-50",
+    "last_round": "Seed",
+    "last_round_date": null,
+    "last_round_amount": "CAD 2.3M",
+    "linkedin": null,
+    "hiring": false,
+    "sources": [
+      "https://www.ycombinator.com/companies/tyltgo",
+      "https://builtintoronto.com/company/tyltgo"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "YC Summer 2020. Toronto per YC and Built In; BetaKit once called it Kitchener-based, so HQ not fully certain. Own site unreachable (502).",
+    "address": null,
+    "id": "tyltgo.com",
+    "found_in": [
+      "yc"
+    ]
+  },
+  {
+    "name": "Upverter",
+    "website": "http://upverter.com",
+    "domain": "upverter.com",
+    "description": "Cloud-based electronics hardware design tool and marketplace.",
+    "sector": "B2B SaaS",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Acquired",
+    "employees": "11-50",
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": false,
+    "sources": [
+      "https://www.ycombinator.com/companies/upverter"
+    ],
+    "status": "acquired",
+    "verified": true,
+    "notes": "YC Winter 2011. Acquired by Altium (2017, from general knowledge; not confirmed from a fetched source, site unreachable).",
+    "address": null,
+    "id": "upverter.com",
+    "found_in": [
+      "yc"
+    ]
+  },
+  {
+    "name": "Validere",
+    "website": "https://validere.com",
+    "domain": "validere.com",
+    "description": "Enterprise intelligence platform for the energy industry covering emissions MRV, environmental compliance and workflow automation.",
+    "sector": "Climate/Energy",
+    "city": "Toronto",
+    "founded": 2015,
+    "stage": "Unknown",
+    "employees": "51-200",
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": false,
+    "sources": [
+      "https://www.ycombinator.com/companies/validere",
+      "https://validere.com",
+      "https://careers.wing.vc/jobs/validere"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "YC S2016. Job boards list HQ Toronto with offices in Houston and Calgary; site lists Toronto office at 1300 Yonge St.",
+    "address": "1300 Yonge St, Suite 701, Toronto, ON",
+    "id": "validere.com",
+    "found_in": [
+      "yc"
+    ],
+    "lat": 43.685179,
+    "lng": -79.393242
+  },
+  {
+    "name": "Valsys",
+    "website": "https://www.valsys.io/",
+    "domain": "valsys.io",
+    "description": "Intelligence layer between alternative data providers and capital markets, validating datasets and distributing them to institutional buyers.",
+    "sector": "Fintech",
+    "city": "Toronto",
+    "founded": 2017,
+    "stage": "Pre-seed",
+    "employees": "1-10",
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://directory.nextcanada.com/directory/ventures/",
+      "https://www.valsys.io/",
+      "https://pitchbook.com/profiles/company/231088-51",
+      "https://www.cbinsights.com/company/valsys/"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Toronto per PitchBook, CB Insights, Dealroom (addresses conflict: First Canadian Place vs 175 Bloor St E), so no address kept. Stage Pre-seed per CB Insights; PitchBook lists 5 employees.",
+    "address": null,
+    "id": "valsys.io",
+    "found_in": [
+      "next-canada"
+    ]
+  },
+  {
+    "name": "Vanhawks",
+    "website": "http://vanhawks.com",
+    "domain": "vanhawks.com",
+    "description": "Maker of the Valour connected carbon fibre commuter bike.",
+    "sector": "Consumer",
+    "city": "Toronto",
+    "founded": 2014,
+    "stage": "Acquired",
+    "employees": "11-50",
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": false,
+    "sources": [
+      "https://www.ycombinator.com/companies/vanhawks",
+      "https://betakit.com/vanhawks-acquired-by-ontario-based-automotive-parts-manufacturer-warren-industries/"
+    ],
+    "status": "acquired",
+    "verified": true,
+    "notes": "Acquired by Warren Industries (Concord, ON) in April 2017. Website no longer resolves. YC W2015.",
+    "address": null,
+    "id": "vanhawks.com",
+    "found_in": [
+      "yc"
+    ]
+  },
+  {
+    "name": "Veeda AI",
+    "website": "https://veeda.ai",
+    "domain": "veeda.ai",
+    "description": "Builds multimodal foundation world models that simulate physical reality for embodied AI agents.",
+    "sector": "AI/ML",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Unknown",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": true,
+    "sources": [
+      "https://omersventures.com/companies",
+      "https://veeda.ai"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Site lists Toronto, Zurich, Bay Area and Singapore offices without naming an HQ; Toronto per earlier press (Unite.ai, Built In Toronto). Open roles on jobs.ashbyhq.com/veeda-ai. HQ weakly confirmed.",
+    "address": null,
+    "id": "veeda.ai",
+    "found_in": [
+      "vc-omers-georgian-other"
+    ]
+  },
+  {
+    "name": "Velocia",
+    "website": null,
+    "domain": null,
+    "description": "Loyalty platform rewarding smart mobility choices such as car-share, bike-share and transit.",
+    "sector": "Consumer",
+    "city": "Toronto",
+    "founded": 2018,
+    "stage": "Unknown",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://brainstation.io/magazine/a-deep-look-into-the-2019-techstars-toronto-class",
+      "https://www.vcbacked.co/company/velocia"
+    ],
+    "status": "unknown",
+    "verified": true,
+    "notes": "Toronto-based Techstars alumnus per directories (67 Yonge St per CB Insights/LinkedIn, not re-checked). Toyota Tsusho Canada investor. Official website not found; current activity not confirmed.",
+    "address": null,
+    "id": "name:velocia",
+    "found_in": [
+      "techstars"
+    ]
+  },
+  {
+    "name": "Vena",
+    "website": "https://www.venasolutions.com",
+    "domain": "venasolutions.com",
+    "description": "Microsoft-native FP&A platform for planning, budgeting, forecasting and financial close.",
+    "sector": "B2B SaaS",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Unknown",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": true,
+    "sources": [
+      "https://www.seedtable.com/best-startups-in-toronto",
+      "https://www.venasolutions.com"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Toronto HQ at 2 Fraser Ave per sourcing note (Vena contact page); not re-fetched. Careers site at vena.pinpointhq.com; open roles not checked in detail, hiring set true on presence of careers ATS only (weak).",
+    "address": "2 Fraser Ave, Toronto, ON",
+    "id": "name:vena",
+    "found_in": [
+      "rankings"
+    ],
+    "lat": 43.635617,
+    "lng": -79.423918
+  },
+  {
+    "name": "VendorPM",
+    "website": "https://vendorpm.com/",
+    "domain": "vendorpm.com",
+    "description": "Vendor management, sourcing, procurement and compliance platform for property managers.",
+    "sector": "Proptech",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Unknown",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://relay.vc/portfolio",
+      "https://vendorpm.com/"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "HQ address from company site.",
+    "address": "30 Adelaide St E, 12th Floor, Toronto, ON",
+    "id": "vendorpm.com",
+    "found_in": [
+      "vc-omers-georgian-other"
+    ],
+    "lat": 43.650799,
+    "lng": -79.377138
+  },
+  {
+    "name": "Venue.ink",
+    "website": "https://venue.ink",
+    "domain": "venue.ink",
+    "description": "Booking and studio management app for tattoo artists and studios.",
+    "sector": "B2B SaaS",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Unknown",
+    "employees": "1-10",
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": false,
+    "sources": [
+      "https://www.ycombinator.com/companies/venue-ink",
+      "https://apps.apple.com/app/id6741823955"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "YC W2022, Toronto per YC. App Store listing live. A third-party site estimates a USD 4M round in Aug 2022 (unverified). Site content not retrievable.",
+    "address": null,
+    "id": "venue.ink",
+    "found_in": [
+      "yc"
+    ]
+  },
+  {
+    "name": "Vetster",
+    "website": "https://vetster.com",
+    "domain": "vetster.com",
+    "description": "Online veterinary platform offering video consults, messaging and prescriptions for pets.",
+    "sector": "Healthtech",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Series B",
+    "employees": null,
+    "last_round": "Series B",
+    "last_round_date": null,
+    "last_round_amount": "CAD 37.8M (USD 30M)",
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://whitecapvp.com/portfolio",
+      "https://betakit.com/vetster-raises-30-million-in-series-b-partners-with-investor-pet-meds/",
+      "https://vetster.com"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Toronto-based; Series B led by Kensington Capital (2022). HQ address inconsistent across sources (15 Glenforest Rd vs 14 Birch Ave), so not set.",
+    "address": null,
+    "id": "vetster.com",
+    "found_in": [
+      "vc-omers-georgian-other"
+    ]
+  },
+  {
+    "name": "Waabi",
+    "website": "https://waabi.ai",
+    "domain": "waabi.ai",
+    "description": "Physical AI company building autonomous trucks and robotaxis with a simulation-first approach.",
+    "sector": "Hardware/Robotics",
+    "city": "Toronto",
+    "founded": 2021,
+    "stage": "Growth",
+    "employees": null,
+    "last_round": "Series C",
+    "last_round_date": "2026-01-28",
+    "last_round_amount": "USD 750M",
+    "linkedin": null,
+    "hiring": true,
+    "sources": [
+      "https://betakit.com/waabi-lands-750-million-usd-series-c-partners-with-uber-on-robotaxis/",
+      "https://www.seedtable.com/best-startups-in-toronto",
+      "https://golden.ventures/portfolio",
+      "https://waabi.ai"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Toronto-based per BetaKit. All-equity Series C excludes up to USD 250M Uber milestone funding; site headline says USD 1B total. Founded year from general knowledge, not re-sourced. Hiring true because site invites joining team via careers page (not itemised). Address not confirmed.",
+    "address": null,
+    "id": "name:waabi",
+    "found_in": [
+      "betakit",
+      "rankings",
+      "vc-golden-radical-inovia"
+    ]
+  },
+  {
+    "name": "Wattpad",
+    "website": "https://company.wattpad.com",
+    "domain": "company.wattpad.com",
+    "description": "Storytelling platform where writers and readers discover and share stories.",
+    "sector": "Media/Entertainment",
+    "city": "Toronto",
+    "founded": 2006,
+    "stage": "Acquired",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": true,
+    "sources": [
+      "https://golden.ventures/portfolio",
+      "https://company.wattpad.com/",
+      "https://betakit.com/as-naver-closes-754-million-cad-acquisition-of-wattpad-allen-lau-is-looking-to-scale/",
+      "https://en.wikipedia.org/wiki/Wattpad",
+      "https://omersventures.com/companies",
+      "https://company.wattpad.com"
+    ],
+    "status": "acquired",
+    "verified": true,
+    "notes": "Acquired by Naver in 2021 (now part of WEBTOON Entertainment); remains headquartered in Toronto. Founded year 2006 from general knowledge, not re-verified in this pass.",
+    "address": null,
+    "id": "name:wattpad",
+    "found_in": [
+      "vc-golden-radical-inovia",
+      "vc-omers-georgian-other"
+    ]
+  },
+  {
+    "name": "Wave Financial",
+    "website": "https://waveapps.com",
+    "domain": "waveapps.com",
+    "description": "Small business accounting, invoicing, payments and payroll software.",
+    "sector": "Fintech",
+    "city": "Toronto",
+    "founded": 2010,
+    "stage": "Acquired",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://omersventures.com/companies",
+      "https://waveapps.com",
+      "https://finextra.com/pressarticle/82882/hr-block-to-acquire-torontos-wave-financial"
+    ],
+    "status": "acquired",
+    "verified": true,
+    "notes": "Acquired by H&R Block (agreement June 2019, USD 405M); to keep Toronto HQ. 155 Queens Quay E per CB Insights, not confirmed on site. Founded year from general knowledge.",
+    "address": null,
+    "id": "waveapps.com",
+    "found_in": [
+      "vc-omers-georgian-other"
+    ]
+  },
+  {
+    "name": "Wealthsimple",
+    "website": "https://www.wealthsimple.com",
+    "domain": "wealthsimple.com",
+    "description": "Canadian financial platform offering investing, trading, chequing and advice products.",
+    "sector": "Fintech",
+    "city": "Toronto",
+    "founded": 2014,
+    "stage": "Late stage",
+    "employees": null,
+    "last_round": "Series E",
+    "last_round_date": "2025-10-27",
+    "last_round_amount": "up to CAD 750M (CAD 550M primary plus up to CAD 200M secondary)",
+    "linkedin": "https://www.linkedin.com/company/wealthsimple",
+    "hiring": null,
+    "sources": [
+      "https://betakit.com/wealthsimple-hits-10-billion-valuation-in-new-round-backed-by-dragoneer-gic-cpp-investments/",
+      "https://www.seedtable.com/best-startups-in-toronto",
+      "https://www.wealthsimple.com"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "CAD 10B valuation. Site lists 80 Spadina Ave, Toronto as contact address.",
+    "address": "80 Spadina Ave, Toronto, ON",
+    "id": "name:wealthsimple",
+    "found_in": [
+      "betakit",
+      "rankings"
+    ],
+    "lat": 43.646226,
+    "lng": -79.395756
+  },
+  {
+    "name": "webapp.io",
+    "website": "https://webapp.io",
+    "domain": "webapp.io",
+    "description": "CI/CD and preview-environment platform for web apps.",
+    "sector": "B2B SaaS",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Acquired",
+    "employees": "1-10",
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": false,
+    "sources": [
+      "https://www.ycombinator.com/companies/webapp-io",
+      "https://webapp.io"
+    ],
+    "status": "acquired",
+    "verified": true,
+    "notes": "Acquired by Harness (site says 'Webapp.io has joined Harness'). YC S2020.",
+    "address": null,
+    "id": "webapp.io",
+    "found_in": [
+      "yc"
+    ]
+  },
+  {
+    "name": "Wygo",
+    "website": "https://wygo.world",
+    "domain": "wygo.world",
+    "description": "Event and community platform that helps hosts start, scale and run in-person communities.",
+    "sector": "Consumer",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Pre-seed",
+    "employees": null,
+    "last_round": "Pre-Seed",
+    "last_round_date": "2026-04-14",
+    "last_round_amount": "CAD 1.6 million",
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://betakit.com/community-event-platform-wygo-secures-nearly-1-6-million-pre-seed/",
+      "https://uwaterloo.ca/engineering/news/alumni-startup-wygo-raises-16m-build-community",
+      "https://wygo.world"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Toronto-based per BetaKit (founders are Waterloo alumni; one directory says otherwise). Plans to hire design, engineering and content roles.",
+    "address": null,
+    "id": "wygo.world",
+    "found_in": [
+      "seed-freelance"
+    ]
+  },
+  {
+    "name": "Xanadu",
+    "website": "https://xanadu.ai",
+    "domain": "xanadu.ai",
+    "description": "Photonic quantum computing company, publicly listed on TSX and Nasdaq since March 2026.",
+    "sector": "Other",
+    "city": "Toronto",
+    "founded": 2016,
+    "stage": "Late stage",
+    "employees": null,
+    "last_round": "Financing deal (up to)",
+    "last_round_date": "2026-05-21",
+    "last_round_amount": "up to USD 300M",
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://betakit.com/xanadu-strikes-deal-to-raise-up-to-300-million-usd/",
+      "https://golden.ventures/portfolio",
+      "https://omersventures.com/companies",
+      "https://www.sec.gov/Archives/edgar/data/0002097163/000121390026042080/ea0285152-20f_xanadu.htm",
+      "https://creativedestructionlab.com/locations/toronto/"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Principal office 777 Bay St, Suite 2400, Toronto per 20-F. Public via SPAC; amount is 'up to', not a closed round. Merged with name:xanaduquantum and xanadu.ai (Xanadu Quantum Technologies, same Toronto photonic quantum company, same 777 Bay St address in both sources). Founded year from general knowledge. xanadu.ai site returned no content.",
+    "address": "777 Bay St, Suite 2400, Toronto, ON",
+    "id": "name:xanadu",
+    "found_in": [
+      "betakit",
+      "vc-golden-radical-inovia"
+    ],
+    "lat": 43.660561,
+    "lng": -79.384599
+  },
+  {
+    "name": "Xatoms",
+    "website": "https://xatoms.com",
+    "domain": "xatoms.com",
+    "description": "Uses quantum chemistry and AI to design photocatalysts that purify water with sunlight.",
+    "sector": "Climate/Energy",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Pre-seed",
+    "employees": null,
+    "last_round": "Pre-seed",
+    "last_round_date": "2025-06-19",
+    "last_round_amount": "3M (currency not stated)",
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://betakit.com/with-3-million-seed-round-xatoms-launches-pilot-projects-to-purify-water-with-quantum-chemistry/",
+      "https://entrepreneurs.utoronto.ca/?p=42882"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "U of T (BRIDGE accelerator) spinout, Toronto. Domain xatoms.com inferred from contact email contact@xatoms.com; site not fetched. Founder Diana Virgovicova.",
+    "address": null,
+    "id": "name:xatoms",
+    "found_in": [
+      "betakit"
+    ]
+  },
+  {
+    "name": "YScope",
+    "website": "https://yscope.com",
+    "domain": "yscope.com",
+    "description": "Open-source log compression, archive and analytics company behind the CLP (Compressed Log Processor) tool.",
+    "sector": "B2B SaaS",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Unknown",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": "2026-03-18",
+    "last_round_amount": "USD 3.9 million",
+    "linkedin": null,
+    "hiring": false,
+    "sources": [
+      "https://betakit.com/yscope-closes-3-9-million-usd-to-track-computer-activity-amid-the-rise-of-agentic-ai/",
+      "https://yscope.com"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Founded by U of T professors. Site lists W866-108 College St, Toronto (MaRS). No careers section on site.",
+    "address": "108 College St, Toronto, ON M5G 0C6",
+    "id": "yscope.com",
+    "found_in": [
+      "seed-freelance"
+    ],
+    "lat": 43.660424,
+    "lng": -79.389344
+  },
+  {
+    "name": "zeroone.ai inc.",
+    "website": "https://www.zeroone.ai/",
+    "domain": "zeroone.ai",
+    "description": "Develops an AI information-processing and model management platform, with offices in Toronto and Seoul.",
+    "sector": "AI/ML",
+    "city": "Toronto",
+    "founded": 2018,
+    "stage": "Seed",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://directory.nextcanada.com/directory/ventures/",
+      "https://www.zeroone.ai/",
+      "https://www.cbinsights.com/company/zerooneai"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Site mentions a first Toronto office and a Seoul office; CB Insights lists 175 Bloor St E, Toronto, but no company-site address, so address left null. Founded 2018 per CB Insights; NextAI 2018 cohort via SAFE. Sector changed from Fintech (site and CB Insights show AI/medical data). Seed stage is an estimate.",
+    "address": null,
+    "id": "zeroone.ai",
+    "found_in": [
+      "next-canada"
+    ]
+  },
+  {
+    "name": "zofiQ",
+    "website": "https://zofiq.ai/",
+    "domain": "zofiq.ai",
+    "description": "Toronto agentic AI startup building AI agents that automate IT service desk work inside PSA platforms.",
+    "sector": "AI/ML",
+    "city": "Toronto",
+    "founded": 2023,
+    "stage": "Acquired",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://directory.nextcanada.com/directory/ventures/",
+      "https://www.lexpert.ca/big-deals/connectwise-acquires-toronto-based-agentic-ai-startup-zofiq/394287",
+      "https://www.connectwise.com/platform/ai-agents"
+    ],
+    "status": "acquired",
+    "verified": true,
+    "notes": "Acquired by ConnectWise in January 2026 (terms undisclosed); zofiq.ai now redirects to ConnectWise.",
+    "address": null,
+    "id": "zofiq.ai",
+    "found_in": [
+      "next-canada"
     ]
   }
 ]

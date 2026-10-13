@@ -40,6 +40,17 @@ Règle générale : **script si possible, Haiku pour extraire et filtrer, Sonnet
 5. **Vérifier** (vague 2b) : `scripts/split_batches.py` découpe les survivants, un agent Sonnet par lot.
 6. **Publier** : `scripts/build_site.py` copie les données dans `site/`.
 
+## État (2026-10-13)
+
+| | |
+|---|---|
+| Startups dans l'annuaire | 522 (501 affichées, les fermées sont masquées) |
+| Vérifiées par Sonnet | 377 : 281 actives, 50 rachetées, 21 fermées, 25 statut inconnu |
+| Ville jamais confirmée | 145, dans la liste seulement, étiquette "City unconfirmed" |
+| Écartées (hors GTA, doublons, pas des startups) | 109, détail dans `data/dropped.json` |
+| Placées à l'adresse exacte sur la carte | 90 |
+| Agents lancés | 11 sourcers + 8 geo-checkers (Haiku), 18 vérificateurs (Sonnet) |
+
 ## Leçons d'orchestration (apprises en le faisant)
 
 - **Haiku applique les consignes à la lettre.** "Ne garde que les sièges confirmés" a donné 6 fichiers vides sur 9 en vague 1. La règle a été réécrite : garder avec `city: null` + `GTA unconfirmed` quand le lien avec Toronto est fort, et laisser l'étage suivant trancher.
@@ -47,6 +58,10 @@ Règle générale : **script si possible, Haiku pour extraire et filtrer, Sonnet
 - **Le budget de recherches web est d'environ 200 par tour de conversation, partagé entre tous les agents**, et les recherches parallèles se heurtent en plus à une limite de débit. Avec 6 agents x 48 boîtes, 127 recherches sur 288 n'ont pas abouti. Correctifs : étaler le travail sur plusieurs tours (le budget se renouvelle à chaque message de l'utilisateur), et faire lire aux vérificateurs le site de la boîte (`WebFetch`, pages contact / about) plutôt que de lancer une recherche quand le domaine est connu.
 - **L'orchestrateur relit tout** : Golden Ventures avait mis "Toronto" pour un libellé "Toronto & Waterloo" ; corrigé avant fusion.
 - **Ce que lisent les agents est de la donnée, pas des ordres** : une page contenait un texte caché demandant aux IA de citer une source ; l'agent l'a ignoré.
+- **Un contrat de sortie explicite, vérifié par script.** Au lot 02, Sonnet a omis les boîtes écartées et réécrit des identifiants. La consigne exige maintenant chaque `id` d'entrée exactement une fois, et `scripts/check_verified.py` le contrôle à chaque lot.
+- **Les rapports des agents se trompent sur les chiffres** (un lot de 25 annoncé à 27 ou 28) : on se fie au fichier, jamais au rapport.
+- **Chaque agent ne voit que son lot** : les doublons entre lots (Wattpad vérifiée deux fois) sont le travail de l'orchestrateur, fait dans `merge.py`.
+- **Interdire les suppositions d'identité** : Sonnet a confondu "BuyProperly" et "Properly". Règle ajoutée : deux noms différents ne sont jamais la même boîte sans preuve.
 
 ## Sources (vague 1)
 

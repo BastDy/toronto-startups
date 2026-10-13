@@ -79,6 +79,8 @@ def apply_verified(merged):
             if r is None:
                 continue
             v = {**v, "id": key}
+            if v.get("skip"):
+                continue
             if v.get("drop"):
                 r["notes"] = f"Dropped by verifier: {v.get('notes')}"
                 dropped.append(merged.pop(v["id"]))
@@ -93,6 +95,27 @@ def apply_verified(merged):
             r["domain"] = normalize_domain(r.get("website")) or r.get("domain")
             r["stage"] = normalize_stage(r.get("stage"))
             r["verified"] = True
+
+    # Two verified rows for one company (verified in different batches under different ids):
+    # same domain or same name -> keep the first, fill its gaps from the other.
+    first_by = {}
+    for key in sorted(k for k, r in merged.items() if r.get("verified")):
+        r = merged[key]
+        match = next((first_by[k] for k in (r.get("domain"), name_key(r["name"])) if k and k in first_by), None)
+        if match is None:
+            for k in (r.get("domain"), name_key(r["name"])):
+                if k:
+                    first_by[k] = key
+            continue
+        keep = merged[match]
+        for f, val in r.items():
+            if f == "sources" or f == "found_in":
+                keep[f] = list(dict.fromkeys((keep.get(f) or []) + (val or [])))
+            elif keep.get(f) in (None, "", "Unknown", "unknown") and val not in (None, ""):
+                keep[f] = val
+        dup = merged.pop(key)
+        dup["notes"] = f"Dropped: duplicate of verified {match}"
+        dropped.append(dup)
 
     # An unverified row with the same name as a verified one is a duplicate the verifier merged.
     verified_names = {name_key(r["name"]) for r in merged.values() if r.get("verified")}

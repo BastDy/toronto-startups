@@ -529,5 +529,11 @@
     "found_in": [
       "dmz"
     ]
+  },
+  {
+    "id": "name:buyproperly",
+    "name": "BuyProperly",
+    "skip": true,
+    "notes": "Left unverified by orchestrator: verifier assumed it was Properly without confirming identity"
   }
 ]

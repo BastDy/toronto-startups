@@ -424,7 +424,7 @@
     ],
     "status": "active",
     "verified": false,
-    "notes": "Dropped: duplicate of a verified entry",
+    "notes": "Dropped by verifier: duplicate of name:beacon (verifier merged them, id fixed by orchestrator)",
     "address": null,
     "id": "beaconsoftware.com",
     "found_in": [
@@ -483,6 +483,34 @@
     "id": "name:bionik",
     "found_in": [
       "dmz"
+    ]
+  },
+  {
+    "name": "BioRender.io",
+    "website": "https://www.biorender.com",
+    "domain": "biorender.com",
+    "description": "Scientific figure and illustration software used by over 4 million researchers.",
+    "sector": "B2B SaaS",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Unknown",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": "https://www.linkedin.com/company/biorender",
+    "hiring": null,
+    "sources": [
+      "https://www.seedtable.com/best-startups-in-toronto",
+      "https://www.biorender.com"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Dropped: duplicate of verified biorender.com",
+    "address": "49 Spadina Ave, Toronto, ON",
+    "id": "name:biorenderio",
+    "found_in": [
+      "rankings"
     ]
   },
   {
@@ -564,6 +592,34 @@
     "id": "bitninja.io",
     "found_in": [
       "dmz"
+    ]
+  },
+  {
+    "name": "Blue J Legal",
+    "website": "https://www.bluej.com",
+    "domain": "bluej.com",
+    "description": "AI-powered tax research platform delivering sourced answers for tax professionals.",
+    "sector": "AI/ML",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Unknown",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": "https://www.linkedin.com/company/bluejlegal",
+    "hiring": null,
+    "sources": [
+      "https://www.seedtable.com/best-startups-in-toronto",
+      "https://www.bluej.com"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Dropped: duplicate of verified name:bluej",
+    "address": "225 King St W, Suite 1405, Toronto, ON M5V 3M2",
+    "id": "name:bluejlegal",
+    "found_in": [
+      "rankings"
     ]
   },
   {
@@ -1517,26 +1573,27 @@
   },
   {
     "name": "Manifest Climate",
-    "website": null,
-    "domain": null,
-    "description": null,
-    "sector": null,
+    "website": "https://www.manifestclimate.com",
+    "domain": "manifestclimate.com",
+    "description": "AI-powered assessment engine for sustainability disclosures against frameworks such as CSRD, ISSB and TCFD.",
+    "sector": "Climate/Energy",
     "city": "Toronto",
     "founded": null,
-    "stage": null,
+    "stage": "Unknown",
     "employees": null,
     "last_round": null,
     "last_round_date": null,
     "last_round_amount": null,
-    "linkedin": null,
+    "linkedin": "https://www.linkedin.com/company/manifesttech",
     "hiring": null,
     "sources": [
-      "https://golden.ventures/portfolio"
+      "https://golden.ventures/portfolio",
+      "https://www.manifestclimate.com"
     ],
-    "status": "unknown",
-    "verified": false,
-    "notes": "Dropped: duplicate of a verified entry",
-    "address": null,
+    "status": "active",
+    "verified": true,
+    "notes": "Dropped: duplicate of verified manifestclimate.com",
+    "address": "33 Bloor St E, Suite 604, Toronto, ON M4W 3H1",
     "id": "name:manifestclimate",
     "found_in": [
       "vc-golden-radical-inovia"
@@ -1621,6 +1678,34 @@
     "id": "mixrank.com",
     "found_in": [
       "yc"
+    ]
+  },
+  {
+    "name": "Modem",
+    "website": "https://modem.ai/",
+    "domain": "modem.ai",
+    "description": "Shared record of customer concerns that links feedback from support and sales to bugs and fixes for developers.",
+    "sector": "B2B SaaS",
+    "city": "Toronto",
+    "founded": 2025,
+    "stage": "Pre-seed",
+    "employees": null,
+    "last_round": "Pre-seed",
+    "last_round_date": "2026-02-10",
+    "last_round_amount": "USD 4.4M",
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://betakit.com/modem-closes-4-4-million-usd-pre-seed-round-to-help-developers-ship-faster/",
+      "https://modem.ai/"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Dropped: duplicate of verified modem.dev",
+    "address": null,
+    "id": "name:modem",
+    "found_in": [
+      "betakit"
     ]
   },
   {
@@ -2112,6 +2197,87 @@
     ]
   },
   {
+    "name": "Secoda",
+    "website": "https://secoda.co",
+    "domain": "secoda.co",
+    "description": "Secoda is the AI layer for your Analytics",
+    "sector": "AI/ML",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Growth",
+    "employees": "11-50",
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": false,
+    "sources": [
+      "https://www.ycombinator.com/companies/secoda"
+    ],
+    "status": "active",
+    "verified": false,
+    "notes": "Dropped by verifier: duplicate of name:secoda",
+    "address": null,
+    "id": "secoda.co",
+    "found_in": [
+      "yc"
+    ]
+  },
+  {
+    "name": "Sherpa",
+    "website": "https://www.joinsherpa.com/",
+    "domain": "joinsherpa.com",
+    "description": null,
+    "sector": null,
+    "city": "Toronto",
+    "founded": null,
+    "stage": null,
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://relay.vc/portfolio"
+    ],
+    "status": "unknown",
+    "verified": false,
+    "notes": "Dropped by verifier: duplicate of name:sherpa",
+    "address": null,
+    "id": "joinsherpa.com",
+    "found_in": [
+      "vc-omers-georgian-other"
+    ]
+  },
+  {
+    "name": "Shoelace",
+    "website": "https://www.shoelace.com/",
+    "domain": "shoelace.com",
+    "description": null,
+    "sector": "Media/Entertainment",
+    "city": "Toronto",
+    "founded": null,
+    "stage": null,
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://dmz.torontomu.ca/startup-directory?542e3ac2_page=11"
+    ],
+    "status": "unknown",
+    "verified": false,
+    "notes": "Dropped by verifier: Growth marketing agency (services firm), not a product startup. CB Insights lists 10 Dundas E, Toronto, founded 2015. Source: https://www.shoelace.com/",
+    "address": null,
+    "id": "shoelace.com",
+    "found_in": [
+      "dmz"
+    ]
+  },
+  {
     "name": "Simpu",
     "website": null,
     "domain": null,
@@ -2193,6 +2359,33 @@
     ]
   },
   {
+    "name": "Smooth Commerce",
+    "website": "https://smooth.tech/",
+    "domain": "smooth.tech",
+    "description": null,
+    "sector": "Fintech",
+    "city": "Toronto",
+    "founded": null,
+    "stage": null,
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://dmz.torontomu.ca/startup-directory?542e3ac2_page=12"
+    ],
+    "status": "unknown",
+    "verified": false,
+    "notes": "Dropped by verifier: Company site lists HQ at 111 N Canal St, Chicago, IL; Toronto (333 Bay St) is a secondary office. Source: https://smooth.tech/",
+    "address": null,
+    "id": "smooth.tech",
+    "found_in": [
+      "dmz"
+    ]
+  },
+  {
     "name": "Socialab",
     "website": "https://www.socialabapp.com",
     "domain": "socialabapp.com",
@@ -2217,6 +2410,60 @@
     "id": "socialabapp.com",
     "found_in": [
       "next-canada"
+    ]
+  },
+  {
+    "name": "Spruce Software Inc. dba 409.AI",
+    "website": "https://www.409.ai/",
+    "domain": "409.ai",
+    "description": null,
+    "sector": "Fintech",
+    "city": "Toronto",
+    "founded": null,
+    "stage": null,
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://directory.nextcanada.com/directory/ventures/"
+    ],
+    "status": "unknown",
+    "verified": false,
+    "notes": "Dropped by verifier: HQ not confirmed in GTA: CB Insights lists Collingwood, ON (71 Dillon Dr); Clutch lists Columbus, OH primary with Toronto secondary. Company site gives no address. Sources: https://www.cbinsights.com/company/spruce-7, https://clutch.co/profile/409ai",
+    "address": null,
+    "id": "409.ai",
+    "found_in": [
+      "next-canada"
+    ]
+  },
+  {
+    "name": "SRTX",
+    "website": "https://www.srtxlabs.com/",
+    "domain": "srtxlabs.com",
+    "description": "Powering a better future for textiles.",
+    "sector": "Hardware/Robotics",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Growth",
+    "employees": "51-200",
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": false,
+    "sources": [
+      "https://www.ycombinator.com/companies/srtx"
+    ],
+    "status": "active",
+    "verified": false,
+    "notes": "Dropped by verifier: HQ is Montreal, Quebec (YC listing, Wikipedia); founded in Muskoka, ON. Site srtxlabs.com does not resolve. Sources: https://www.ycombinator.com/companies/srtx, https://en.wikipedia.org/wiki/SRTX",
+    "address": null,
+    "id": "srtxlabs.com",
+    "found_in": [
+      "yc"
     ]
   },
   {
@@ -2325,6 +2572,60 @@
     "id": "tenomix.com",
     "found_in": [
       "next-canada"
+    ]
+  },
+  {
+    "name": "Teranet",
+    "website": "https://teranet.ca",
+    "domain": "teranet.ca",
+    "description": "Electronic land registration system for Ontario",
+    "sector": "Proptech",
+    "city": "Toronto",
+    "founded": null,
+    "stage": null,
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://whitecapvp.com/portfolio"
+    ],
+    "status": "acquired",
+    "verified": false,
+    "notes": "Dropped by verifier: Not a startup: long-established (Ontario land registry operator) company with 123 Front St W HQ, owned by OMERS; large mature firm. Source: https://teranet.ca",
+    "address": null,
+    "id": "teranet.ca",
+    "found_in": [
+      "vc-omers-georgian-other"
+    ]
+  },
+  {
+    "name": "Terminal",
+    "website": "https://www.withterminal.com/",
+    "domain": "withterminal.com",
+    "description": "Plaid for Telematics Data in Commercial Trucking",
+    "sector": "B2B SaaS",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Growth",
+    "employees": "11-50",
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": true,
+    "sources": [
+      "https://www.ycombinator.com/companies/terminal"
+    ],
+    "status": "active",
+    "verified": false,
+    "notes": "Dropped by verifier: duplicate of name:terminal",
+    "address": null,
+    "id": "withterminal.com",
+    "found_in": [
+      "yc"
     ]
   },
   {
@@ -2437,6 +2738,63 @@
     ]
   },
   {
+    "name": "Waabi",
+    "website": "https://waabi.ai",
+    "domain": "waabi.ai",
+    "description": null,
+    "sector": null,
+    "city": "Toronto",
+    "founded": null,
+    "stage": null,
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://omersventures.com/companies"
+    ],
+    "status": "unknown",
+    "verified": false,
+    "notes": "Dropped by verifier: duplicate of name:waabi",
+    "address": null,
+    "id": "waabi.ai",
+    "found_in": [
+      "vc-omers-georgian-other"
+    ]
+  },
+  {
+    "name": "Wattpad",
+    "website": "https://company.wattpad.com",
+    "domain": "company.wattpad.com",
+    "description": "Social storytelling platform where readers and writers share and discover stories.",
+    "sector": "Media/Entertainment",
+    "city": "Toronto",
+    "founded": 2006,
+    "stage": "Acquired",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://omersventures.com/companies",
+      "https://company.wattpad.com",
+      "https://betakit.com/as-naver-closes-754-million-cad-acquisition-of-wattpad-allen-lau-is-looking-to-scale/",
+      "https://en.wikipedia.org/wiki/Wattpad"
+    ],
+    "status": "acquired",
+    "verified": true,
+    "notes": "Dropped: duplicate of verified name:wattpad",
+    "address": null,
+    "id": "wattpad.com",
+    "found_in": [
+      "vc-omers-georgian-other"
+    ]
+  },
+  {
     "name": "Wicked Rose",
     "website": "https://www.wickedrose.com",
     "domain": "wickedrose.com",
@@ -2543,6 +2901,61 @@
     "id": "woveo.com",
     "found_in": [
       "vc-omers-georgian-other"
+    ]
+  },
+  {
+    "name": "Xanadu",
+    "website": "https://xanadu.ai",
+    "domain": "xanadu.ai",
+    "description": null,
+    "sector": null,
+    "city": "Toronto",
+    "founded": null,
+    "stage": null,
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://omersventures.com/companies"
+    ],
+    "status": "unknown",
+    "verified": false,
+    "notes": "Dropped by verifier: duplicate of name:xanadu",
+    "address": null,
+    "id": "xanadu.ai",
+    "found_in": [
+      "vc-omers-georgian-other"
+    ]
+  },
+  {
+    "name": "Xanadu Quantum Technologies",
+    "website": null,
+    "domain": null,
+    "description": "Photonic quantum computing company (CDL-Toronto venture).",
+    "sector": null,
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Unknown",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://creativedestructionlab.com/locations/toronto/",
+      "https://www.sec.gov/Archives/edgar/data/0002097163/000121390026042080/ea0285152-20f_xanadu.htm"
+    ],
+    "status": "active",
+    "verified": false,
+    "notes": "Dropped by verifier: duplicate of name:xanadu (same photonic quantum company, Toronto, 777 Bay St per 20-F)",
+    "address": null,
+    "id": "name:xanaduquantum",
+    "found_in": [
+      "cdl"
     ]
   }
 ]
