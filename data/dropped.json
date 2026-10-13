@@ -432,6 +432,168 @@
     ]
   },
   {
+    "name": "Biocogniv",
+    "website": "http://biocogniv.com",
+    "domain": "biocogniv.com",
+    "description": null,
+    "sector": "Healthtech",
+    "city": "Burlington",
+    "founded": null,
+    "stage": "Acquired",
+    "employees": "1-10",
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": false,
+    "sources": [
+      "https://www.ycombinator.com/companies/biocogniv"
+    ],
+    "status": "acquired",
+    "verified": false,
+    "notes": "Dropped by verifier: HQ is Burlington, Vermont (50 Lakeside Ave), not Burlington, Ontario; reportedly acquired by BETA Technologies. Source: https://promusventures.com/project/biocogniv/",
+    "address": null,
+    "id": "biocogniv.com",
+    "found_in": [
+      "yc"
+    ]
+  },
+  {
+    "name": "Bionik Labs",
+    "website": null,
+    "domain": null,
+    "description": null,
+    "sector": "Other",
+    "city": "Toronto",
+    "founded": null,
+    "stage": null,
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://dmz.torontomu.ca/startup-directory?542e3ac2_page=2"
+    ],
+    "status": "unknown",
+    "verified": false,
+    "notes": "Dropped by verifier: Bionik Laboratories is an OTC-listed robotics company now listed at Watertown, MA (Toronto/Boston earlier); not a GTA-HQ startup. Source: https://www.plunkettresearch.com/?p=1929357",
+    "address": null,
+    "id": "name:bionik",
+    "found_in": [
+      "dmz"
+    ]
+  },
+  {
+    "name": "Biossil",
+    "website": "biossil.co",
+    "domain": "biossil.co",
+    "description": null,
+    "sector": null,
+    "city": "Toronto",
+    "founded": null,
+    "stage": null,
+    "employees": null,
+    "last_round": null,
+    "last_round_date": "2026-04-23",
+    "last_round_amount": "USD 70 million",
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://betakit.com/biossil-exits-stealth-with-70-million-usd-to-give-failed-medicines-a-second-chance/"
+    ],
+    "status": "active",
+    "verified": false,
+    "notes": "Dropped by verifier: duplicate of name:biossil",
+    "address": null,
+    "id": "biossil.co",
+    "found_in": [
+      "seed-freelance"
+    ]
+  },
+  {
+    "name": "Bitaccess",
+    "website": "http://bitaccess.com",
+    "domain": "bitaccess.com",
+    "description": "We make bitcoin simple. ",
+    "sector": "Fintech",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Acquired",
+    "employees": "51-200",
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": false,
+    "sources": [
+      "https://www.ycombinator.com/companies/bitaccess"
+    ],
+    "status": "acquired",
+    "verified": false,
+    "notes": "Dropped by verifier: Ottawa-based Bitcoin ATM software firm (majority acquired by Bitcoin Depot, Nov 2022); not GTA. Source: https://www.privsource.com/acquisitions/deal/bitcoin-depot-acquires-majority-interest-in-bitaccess-ArSk4p",
+    "address": null,
+    "id": "bitaccess.com",
+    "found_in": [
+      "yc"
+    ]
+  },
+  {
+    "name": "Bitninja",
+    "website": "https://bitninja.io/",
+    "domain": "bitninja.io",
+    "description": null,
+    "sector": "Cybersecurity",
+    "city": "Toronto",
+    "founded": null,
+    "stage": null,
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://dmz.torontomu.ca/startup-directory?542e3ac2_page=2"
+    ],
+    "status": "unknown",
+    "verified": false,
+    "notes": "Dropped by verifier: HQ Debrecen, Hungary; domain now bitninja.com. Source: https://www.cbinsights.com/company/bitninja",
+    "address": null,
+    "id": "bitninja.io",
+    "found_in": [
+      "dmz"
+    ]
+  },
+  {
+    "name": "Blueprint",
+    "website": "blueprint.io",
+    "domain": "blueprint.io",
+    "description": null,
+    "sector": null,
+    "city": "Toronto",
+    "founded": null,
+    "stage": null,
+    "employees": null,
+    "last_round": null,
+    "last_round_date": "2026-08-19",
+    "last_round_amount": "CAD 1.4 million",
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://betakit.com/a16z-backed-blueprint-raises-1-4-million-to-bring-vibe-coding-to-hardware/"
+    ],
+    "status": "active",
+    "verified": false,
+    "notes": "Dropped by verifier: duplicate of name:blueprint",
+    "address": null,
+    "id": "blueprint.io",
+    "found_in": [
+      "seed-freelance"
+    ]
+  },
+  {
     "name": "CarbonCure",
     "website": "https://www.carboncure.com/",
     "domain": "carboncure.com",
@@ -456,6 +618,33 @@
     "id": "carboncure.com",
     "found_in": [
       "mars"
+    ]
+  },
+  {
+    "name": "ChatFeatured",
+    "website": "chatfeatured.com",
+    "domain": "chatfeatured.com",
+    "description": null,
+    "sector": null,
+    "city": "Toronto",
+    "founded": null,
+    "stage": null,
+    "employees": null,
+    "last_round": "Pre-Seed",
+    "last_round_date": "2026-07-22",
+    "last_round_amount": "USD 2 million",
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://betakit.com/chatfeatured-secures-2-million-usd-to-optimize-your-companys-chatbot-reach/"
+    ],
+    "status": "active",
+    "verified": false,
+    "notes": "Dropped by verifier: duplicate of name:chatfeatured",
+    "address": null,
+    "id": "chatfeatured.com",
+    "found_in": [
+      "seed-freelance"
     ]
   },
   {
@@ -486,6 +675,33 @@
     ]
   },
   {
+    "name": "Clearco",
+    "website": null,
+    "domain": null,
+    "description": null,
+    "sector": null,
+    "city": "Toronto",
+    "founded": null,
+    "stage": null,
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://golden.ventures/portfolio"
+    ],
+    "status": "unknown",
+    "verified": false,
+    "notes": "Dropped by verifier: duplicate of name:clearbanc",
+    "address": null,
+    "id": "name:clearco",
+    "found_in": [
+      "vc-golden-radical-inovia"
+    ]
+  },
+  {
     "name": "Coastal Carbon",
     "website": "https://getcoastalcarbon.com",
     "domain": "getcoastalcarbon.com",
@@ -510,6 +726,60 @@
     "id": "getcoastalcarbon.com",
     "found_in": [
       "next-canada"
+    ]
+  },
+  {
+    "name": "Cohere",
+    "website": "https://cohere.com",
+    "domain": "cohere.com",
+    "description": null,
+    "sector": null,
+    "city": "Toronto",
+    "founded": null,
+    "stage": null,
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://omersventures.com/companies"
+    ],
+    "status": "unknown",
+    "verified": false,
+    "notes": "Dropped by verifier: duplicate of name:cohere",
+    "address": null,
+    "id": "cohere.com",
+    "found_in": [
+      "vc-omers-georgian-other"
+    ]
+  },
+  {
+    "name": "Common Wealth",
+    "website": "commonwealthretirement.com",
+    "domain": "commonwealthretirement.com",
+    "description": null,
+    "sector": null,
+    "city": "Toronto",
+    "founded": null,
+    "stage": null,
+    "employees": null,
+    "last_round": "Series A",
+    "last_round_date": "2026-04-14",
+    "last_round_amount": "CAD 12 million",
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://betakit.com/common-wealth-secures-12-million-series-a-to-help-deliver-workplace-retirement-plans/"
+    ],
+    "status": "active",
+    "verified": false,
+    "notes": "Dropped by verifier: duplicate of name:commonwealth",
+    "address": null,
+    "id": "commonwealthretirement.com",
+    "found_in": [
+      "seed-freelance"
     ]
   },
   {

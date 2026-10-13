@@ -1,0 +1,533 @@
+[
+  {
+    "id": "biocogniv.com",
+    "name": "Biocogniv",
+    "drop": true,
+    "notes": "HQ is Burlington, Vermont (50 Lakeside Ave), not Burlington, Ontario; reportedly acquired by BETA Technologies. Source: https://promusventures.com/project/biocogniv/"
+  },
+  {
+    "id": "name:bionik",
+    "name": "Bionik Labs",
+    "drop": true,
+    "notes": "Bionik Laboratories is an OTC-listed robotics company now listed at Watertown, MA (Toronto/Boston earlier); not a GTA-HQ startup. Source: https://www.plunkettresearch.com/?p=1929357"
+  },
+  {
+    "id": "biorender.com",
+    "name": "BioRender",
+    "website": "https://www.biorender.com",
+    "domain": "biorender.com",
+    "description": "Online tool that helps scientists create and share professional scientific figures.",
+    "sector": "B2B SaaS",
+    "city": "Toronto",
+    "founded": 2017,
+    "stage": "Unknown",
+    "employees": "201-500",
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": true,
+    "sources": [
+      "https://www.ycombinator.com/companies/biorender",
+      "https://www.biorender.com/about",
+      "https://www.biorender.com/careers"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "YC Winter 2018. Remote-first; Toronto HQ per YC listing; no street address published.",
+    "address": null,
+    "found_in": [
+      "yc"
+    ]
+  },
+  {
+    "id": "name:biossil",
+    "name": "Biossil",
+    "website": "https://biossil.co",
+    "domain": "biossil.co",
+    "description": "AI-native biopharma company that gives discarded drug candidates a second chance.",
+    "sector": "Biotech",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Growth",
+    "employees": null,
+    "last_round": "OpenAI-led financing (unicorn)",
+    "last_round_date": "2026-09-28",
+    "last_round_amount": "USD 153M",
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://betakit.com/biossil-hits-unicorn-status-with-new-openai-led-financing/",
+      "https://golden.ventures/portfolio",
+      "https://betakit.com/biossil-exits-stealth-with-70-million-usd-to-give-failed-medicines-a-second-chance/",
+      "https://biossil.co"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Site lists Toronto; exited stealth Apr 2026 with USD 70M. Round name not stated. Merged with duplicate biossil.co.",
+    "address": null,
+    "found_in": [
+      "betakit",
+      "vc-golden-radical-inovia"
+    ]
+  },
+  {
+    "id": "biossil.co",
+    "name": "Biossil",
+    "drop": true,
+    "notes": "duplicate of name:biossil"
+  },
+  {
+    "id": "name:birdbe",
+    "name": "Bird&Be",
+    "website": "https://birdandbe.com",
+    "domain": "birdandbe.com",
+    "description": "Fertility and prenatal supplements and at-home fertility tests brand.",
+    "sector": "Healthtech",
+    "city": "Toronto",
+    "founded": 2019,
+    "stage": "Series A",
+    "employees": null,
+    "last_round": "Series A",
+    "last_round_date": "2026-09-22",
+    "last_round_amount": "USD 13M",
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://betakit.com/birdbe-raises-13-million-usd-series-a-for-fertility-support-platform/",
+      "https://birdandbe.com",
+      "https://www.axios.com/pro/health-tech-deals/2026/09/22/fertility-startup-birdbe-series-a-13m"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Co-led by BDC Thrive Fund and BFG Partners. Toronto-based per BetaKit; no street address on site.",
+    "address": null,
+    "found_in": [
+      "betakit"
+    ]
+  },
+  {
+    "id": "bitaccess.com",
+    "name": "Bitaccess",
+    "drop": true,
+    "notes": "Ottawa-based Bitcoin ATM software firm (majority acquired by Bitcoin Depot, Nov 2022); not GTA. Source: https://www.privsource.com/acquisitions/deal/bitcoin-depot-acquires-majority-interest-in-bitaccess-ArSk4p"
+  },
+  {
+    "id": "bitninja.io",
+    "name": "Bitninja",
+    "drop": true,
+    "notes": "HQ Debrecen, Hungary; domain now bitninja.com. Source: https://www.cbinsights.com/company/bitninja"
+  },
+  {
+    "id": "name:blairhealth",
+    "name": "Blair Health",
+    "website": null,
+    "domain": null,
+    "description": "Clinical infrastructure company enabling generalist providers to deliver specialist-level women's care.",
+    "sector": "Healthtech",
+    "city": "Toronto",
+    "founded": 2024,
+    "stage": "Pre-seed",
+    "employees": "11-50",
+    "last_round": "Pre-seed",
+    "last_round_date": "2026-09-22",
+    "last_round_amount": "CAD 4.24M",
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://betakit.com/blair-health-secures-4-2-million-to-make-specialized-womens-care-more-accessible/",
+      "https://pulse2.com/blair-health-raises-c4-2-million-pre-seed-to-close-specialist-gap-in-womens-health/"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Toronto healthtech per BetaKit. 12-person team. Website not confirmed.",
+    "address": null,
+    "found_in": [
+      "betakit"
+    ]
+  },
+  {
+    "id": "blankit.ca",
+    "name": "Blankit",
+    "website": "http://www.blankit.ca/",
+    "domain": "blankit.ca",
+    "description": "Benefits intelligence platform for Canadian group benefits advisors, brokerages and MGAs.",
+    "sector": "Insurtech",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Unknown",
+    "employees": "1-10",
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://dmz.torontomu.ca/startup-directory?542e3ac2_page=2",
+      "http://www.blankit.ca/",
+      "https://ensun.io/search/employee-benefits/canada"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Toronto per DMZ alumni listing and ensun directory; site gives no address (HQ weakly confirmed).",
+    "address": null,
+    "found_in": [
+      "dmz"
+    ]
+  },
+  {
+    "id": "blockthrough.com",
+    "name": "Blockthrough",
+    "website": "http://www.blockthrough.com/",
+    "domain": "blockthrough.com",
+    "description": "Ad-tech company that helps publishers recover revenue from users who block ads.",
+    "sector": "Other",
+    "city": "Toronto",
+    "founded": 2015,
+    "stage": "Acquired",
+    "employees": "51-200",
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://dmz.torontomu.ca/startup-directory?542e3ac2_page=2",
+      "http://www.blockthrough.com/",
+      "https://resources.eyeo.com/eyeo-acquires-blockthrough"
+    ],
+    "status": "acquired",
+    "verified": true,
+    "notes": "Acquired by eyeo (Cologne-based, maker of Adblock Plus), announced Nov 2022; still operates as Blockthrough in Toronto.",
+    "address": "325 Front St W, 4th Floor, Toronto, ON M5V 2Y1",
+    "found_in": [
+      "dmz"
+    ]
+  },
+  {
+    "id": "name:bluej",
+    "name": "Blue J",
+    "website": "https://www.bluej.com",
+    "domain": "bluej.com",
+    "description": "AI-powered tax research platform.",
+    "sector": "B2B SaaS",
+    "city": "Toronto",
+    "founded": 2015,
+    "stage": "Growth",
+    "employees": null,
+    "last_round": "Series D",
+    "last_round_date": "2025-08-05",
+    "last_round_amount": "CAD 167.4M",
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://betakit.com/blue-j-series-d-after-doubling-revenue/",
+      "https://www.bluej.com/ca/about-us"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Toronto office at 225 King St W; also a New York office. Founded at U of T.",
+    "address": "225 King St W, Suite 1405, Toronto, ON M5V 3M2",
+    "found_in": [
+      "betakit"
+    ]
+  },
+  {
+    "id": "name:blueprint",
+    "name": "Blueprint",
+    "website": "https://blueprint.io",
+    "domain": "blueprint.io",
+    "description": "AI tool that turns text prompts into buildable hardware designs.",
+    "sector": "AI/ML",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Pre-seed",
+    "employees": null,
+    "last_round": "Pre-seed",
+    "last_round_date": "2026-08-19",
+    "last_round_amount": "CAD 1.4M",
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://betakit.com/a16z-backed-blueprint-raises-1-4-million-to-bring-vibe-coding-to-hardware/",
+      "https://blueprint.io"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "a16z speedrun backed. BetaKit says Toronto; some databases say San Francisco (HQ somewhat uncertain). Domain blueprint.io from seed source, site tagline 'Make Any Idea Real'.",
+    "address": null,
+    "found_in": [
+      "betakit"
+    ]
+  },
+  {
+    "id": "blueprint.io",
+    "name": "Blueprint",
+    "drop": true,
+    "notes": "duplicate of name:blueprint"
+  },
+  {
+    "id": "breezeful.com",
+    "name": "Breezeful",
+    "website": "https://breezeful.com/",
+    "domain": "breezeful.com",
+    "description": "Online mortgage brokerage that negotiates with lenders to find clients the best mortgage.",
+    "sector": "Fintech",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Unknown",
+    "employees": "1-10",
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": false,
+    "sources": [
+      "https://www.ycombinator.com/companies/breezeful",
+      "https://www.bcfsa.ca/mortgage-broker/f6d1f6eb-a6f1-ec11-bb3d-000d3af4d17d",
+      "https://www.cbinsights.com/company/breezeful"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "YC Winter 2020. Address from BCFSA broker register (CB Insights lists 478 King St W).",
+    "address": "502-2 Gladstone Ave, Toronto, ON M6J 0B2",
+    "found_in": [
+      "yc"
+    ]
+  },
+  {
+    "id": "name:brizi",
+    "name": "Brizi",
+    "website": "https://www.amplificam.com/",
+    "domain": "amplificam.com",
+    "description": "Fan-engagement camera technology for live events and venues (brizicam.com now redirects to AMPLiFiCAM).",
+    "sector": "Media/Entertainment",
+    "city": "Toronto",
+    "founded": 2016,
+    "stage": "Seed",
+    "employees": "1-10",
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://dmz.torontomu.ca/startup-directory?542e3ac2_page=2",
+      "https://www.amplificam.com/",
+      "https://jobs.techstars.com/companies/brizicam-com"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "brizicam.com redirects to amplificam.com, whose footer uses 'brizi' social handles (rebrand likely, not confirmed on page). Toronto per Techstars listing and site.",
+    "address": "171 E Liberty St, Unit 274, Toronto, ON M6K 3E7",
+    "found_in": [
+      "dmz"
+    ]
+  },
+  {
+    "id": "getbuildify.com",
+    "name": "Buildify",
+    "website": "https://www.getbuildify.com/",
+    "domain": "getbuildify.com",
+    "description": "API and broker portal for new and pre-construction home listings in Canada.",
+    "sector": "Proptech",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Unknown",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://dmz.torontomu.ca/startup-directory?542e3ac2_page=2",
+      "https://www.getbuildify.com/"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Toronto per DMZ alumni listing only; site shows 'Proudly Canadian' with no city or address (HQ weakly confirmed).",
+    "address": null,
+    "found_in": [
+      "dmz"
+    ]
+  },
+  {
+    "id": "name:carbon6",
+    "name": "Carbon6",
+    "website": "https://www.carbon6.io",
+    "domain": "carbon6.io",
+    "description": "Software platform for Amazon sellers, brands and agencies covering profit recovery, advertising and inventory.",
+    "sector": "E-commerce/Retail",
+    "city": "Toronto",
+    "founded": 2021,
+    "stage": "Acquired",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://betakit.com/cohere-and-float-once-again-top-linkedins-top-canadian-startups-list/",
+      "https://www.carbon6.io",
+      "https://builtintoronto.com/company/carbon6-technologies-inc-0",
+      "https://finder.techleap.nl/news/feed/sps-commerce-acquires-carbon6-for-210m"
+    ],
+    "status": "acquired",
+    "verified": true,
+    "notes": "Acquired by SPS Commerce (announced Jan 2025, about USD 210M). Address from Built In Toronto directory.",
+    "address": "786 King St W, Toronto, ON M5V 1N6",
+    "found_in": [
+      "rankings"
+    ]
+  },
+  {
+    "id": "name:chargelab",
+    "name": "ChargeLab",
+    "website": "https://chargelab.co",
+    "domain": "chargelab.co",
+    "description": "Software platform that runs EV chargers for manufacturers, installers and network operators.",
+    "sector": "Climate/Energy",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Unknown",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://www.seedtable.com/best-startups-in-toronto",
+      "https://chargelab.co"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Toronto HQ per VCBacked/Craft (earlier source note). Site links a careers page (chargelab.co/jobs) but openings not visible via fetch.",
+    "address": null,
+    "found_in": [
+      "rankings"
+    ]
+  },
+  {
+    "id": "charmyboxshop.com",
+    "name": "Charmy Pet",
+    "website": "https://charmyboxshop.com/",
+    "domain": "charmyboxshop.com",
+    "description": "Pet food brand selling freeze-dried raw dog food and treats formulated with Traditional Chinese Medicine herbs.",
+    "sector": "Consumer",
+    "city": "Toronto",
+    "founded": 2020,
+    "stage": "Unknown",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://dmz.torontomu.ca/startup-directory?542e3ac2_page=2",
+      "https://charmyboxshop.com/",
+      "https://www.petfoodprocessing.net/articles/18502-charmy-pet-bringing-charm-to-pet-food"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Toronto-founded (TMU/DMZ, Dragons' Den); CB Insights lists Dundas, ON (conflicting, possibly outdated). No address on site.",
+    "address": null,
+    "found_in": [
+      "dmz"
+    ]
+  },
+  {
+    "id": "name:chatfeatured",
+    "name": "ChatFeatured",
+    "website": "https://chatfeatured.com",
+    "domain": "chatfeatured.com",
+    "description": "Platform that automates actions to improve how AI engines discover, cite and recommend brands.",
+    "sector": "B2B SaaS",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Pre-seed",
+    "employees": null,
+    "last_round": "Pre-Seed",
+    "last_round_date": "2026-07-22",
+    "last_round_amount": "USD 2M",
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://betakit.com/chatfeatured-secures-2-million-usd-to-optimize-your-companys-chatbot-reach/",
+      "https://chatfeatured.com"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Toronto per BetaKit; site has no address or careers page.",
+    "address": null,
+    "found_in": [
+      "betakit"
+    ]
+  },
+  {
+    "id": "chatfeatured.com",
+    "name": "ChatFeatured",
+    "drop": true,
+    "notes": "duplicate of name:chatfeatured"
+  },
+  {
+    "id": "name:chatterresearch",
+    "name": "Chatter Research",
+    "website": null,
+    "domain": null,
+    "description": "Conversational AI platform for collecting and analyzing customer feedback, mainly for retail and food service.",
+    "sector": "B2B SaaS",
+    "city": "Toronto",
+    "founded": 2016,
+    "stage": "Acquired",
+    "employees": "11-50",
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://dmz.torontomu.ca/startup-directory?542e3ac2_page=2",
+      "https://www.cbinsights.com/company/chatter-research/financials",
+      "https://lwlaw.com/news/page/13"
+    ],
+    "status": "acquired",
+    "verified": true,
+    "notes": "Acquired by Stingray (Montreal) on 2020-01-27. Ryerson Futures company.",
+    "address": null,
+    "found_in": [
+      "dmz"
+    ]
+  },
+  {
+    "id": "chexy.co",
+    "name": "Chexy",
+    "website": "https://chexy.co/",
+    "domain": "chexy.co",
+    "description": "Service that lets Canadians pay rent, tuition, taxes and other bills by credit card and earn rewards.",
+    "sector": "Fintech",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Unknown",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://dmz.torontomu.ca/startup-directory?542e3ac2_page=3",
+      "https://chexy.co/"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Toronto per DMZ alumni listing; site shows 200K users and active promotions in Sept 2026; no address published; /about 404.",
+    "address": null,
+    "found_in": [
+      "dmz"
+    ]
+  }
+]
