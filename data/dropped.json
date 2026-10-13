@@ -972,6 +972,60 @@
     ]
   },
   {
+    "name": "Featherless AI",
+    "website": "featherless.ai",
+    "domain": "featherless.ai",
+    "description": null,
+    "sector": null,
+    "city": "Toronto",
+    "founded": null,
+    "stage": null,
+    "employees": null,
+    "last_round": null,
+    "last_round_date": "2026-04-30",
+    "last_round_amount": "USD 20 million",
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://betakit.com/canadian-co-founded-featherless-ai-secures-20-million-usd-to-build-open-source-ai-infrastructure/"
+    ],
+    "status": "active",
+    "verified": false,
+    "notes": "Dropped by verifier: HQ is San Francisco per BetaKit and Wavemaker release; Toronto is only a satellite team location (Seedtable). https://betakit.com/canadian-co-founded-featherless-ai-secures-20-million-usd-to-build-open-source-ai-infrastructure/",
+    "address": null,
+    "id": "featherless.ai",
+    "found_in": [
+      "seed-freelance"
+    ]
+  },
+  {
+    "name": "Felix",
+    "website": "https://felixforyou.ca",
+    "domain": "felixforyou.ca",
+    "description": "Telehealth with direct-to-consumer medication delivery",
+    "sector": "Healthtech",
+    "city": "Toronto",
+    "founded": null,
+    "stage": null,
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://whitecapvp.com/portfolio"
+    ],
+    "status": "unknown",
+    "verified": false,
+    "notes": "Dropped by verifier: duplicate of name:felix",
+    "address": null,
+    "id": "felixforyou.ca",
+    "found_in": [
+      "vc-omers-georgian-other"
+    ]
+  },
+  {
     "name": "FentaGone",
     "website": "https://fentagone.ca/",
     "domain": "fentagone.ca",
@@ -1026,6 +1080,37 @@
     ]
   },
   {
+    "name": "Float",
+    "website": "https://floatfinancial.com/?nab=1",
+    "domain": "floatfinancial.com",
+    "description": null,
+    "sector": "Fintech",
+    "city": "Toronto",
+    "founded": null,
+    "stage": null,
+    "employees": null,
+    "last_round": "Series C",
+    "last_round_date": "2026-06-25",
+    "last_round_amount": "CAD 85 million",
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://dmz.torontomu.ca/startup-directory?542e3ac2_page=4",
+      "https://betakit.com/float-announces-85-million-series-c-round-to-support-ai-push/",
+      "https://omersventures.com/companies"
+    ],
+    "status": "active",
+    "verified": false,
+    "notes": "Dropped by verifier: duplicate of name:float",
+    "address": null,
+    "id": "floatfinancial.com",
+    "found_in": [
+      "dmz",
+      "seed-freelance",
+      "vc-omers-georgian-other"
+    ]
+  },
+  {
     "name": "FluidAI",
     "website": "https://fluidai.md/",
     "domain": "fluidai.md",
@@ -1053,6 +1138,33 @@
     ]
   },
   {
+    "name": "Focal Systems",
+    "website": "http://www.focal.systems",
+    "domain": "focal.systems",
+    "description": "Building the Operating System for B&M Retail using Deep Learning",
+    "sector": "B2B SaaS",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Growth",
+    "employees": "51-200",
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": false,
+    "sources": [
+      "https://www.ycombinator.com/companies/focal-systems"
+    ],
+    "status": "active",
+    "verified": false,
+    "notes": "Dropped by verifier: HQ outside GTA: most sources list Burlingame, California (founded 2015 in San Francisco/Stanford). https://blogs.persana.ai/what-is-focal-systems-company-overview-details and company release; YC listing said Toronto but not corroborated.",
+    "address": null,
+    "id": "focal.systems",
+    "found_in": [
+      "yc"
+    ]
+  },
+  {
     "name": "Gallop",
     "website": null,
     "domain": null,
@@ -1077,6 +1189,60 @@
     "id": "name:gallop",
     "found_in": [
       "vc-golden-radical-inovia"
+    ]
+  },
+  {
+    "name": "General Magic",
+    "website": "generalmagic.inc",
+    "domain": "generalmagic.inc",
+    "description": null,
+    "sector": null,
+    "city": "Toronto",
+    "founded": null,
+    "stage": null,
+    "employees": null,
+    "last_round": null,
+    "last_round_date": "2026-02-24",
+    "last_round_amount": "USD 7.2 million",
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://betakit.com/a16z-speedrun-alum-general-magic-secures-7-2-million-usd-to-make-calling-your-insurance-company-less-of-a-slog/"
+    ],
+    "status": "active",
+    "verified": false,
+    "notes": "Dropped by verifier: duplicate of name:generalmagic",
+    "address": null,
+    "id": "generalmagic.inc",
+    "found_in": [
+      "seed-freelance"
+    ]
+  },
+  {
+    "name": "Hackergal",
+    "website": "https://hackergal.org/",
+    "domain": "hackergal.org",
+    "description": null,
+    "sector": "Edtech",
+    "city": "Toronto",
+    "founded": null,
+    "stage": null,
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://dmz.torontomu.ca/startup-directory?542e3ac2_page=5"
+    ],
+    "status": "unknown",
+    "verified": false,
+    "notes": "Dropped by verifier: Registered charity (charitable no. 75236 3291 RR0001) running youth coding programs, not a startup. Source: https://hackergal.org/",
+    "address": null,
+    "id": "hackergal.org",
+    "found_in": [
+      "dmz"
     ]
   },
   {
@@ -1131,6 +1297,60 @@
     "id": "name:hostaway",
     "found_in": [
       "rankings"
+    ]
+  },
+  {
+    "name": "Inkblot Technologies Inc.",
+    "website": "https://www.inkblottherapy.com/",
+    "domain": "inkblottherapy.com",
+    "description": null,
+    "sector": "Healthtech",
+    "city": "Toronto",
+    "founded": null,
+    "stage": null,
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://dmz.torontomu.ca/startup-directory?542e3ac2_page=6"
+    ],
+    "status": "unknown",
+    "verified": false,
+    "notes": "Dropped by verifier: duplicate of name:inkblot (same company: Inkblot Therapy, site inkblottherapy.com)",
+    "address": null,
+    "id": "inkblottherapy.com",
+    "found_in": [
+      "dmz"
+    ]
+  },
+  {
+    "name": "InsideDesk",
+    "website": "insidedesk.com",
+    "domain": "insidedesk.com",
+    "description": null,
+    "sector": null,
+    "city": "Toronto",
+    "founded": null,
+    "stage": null,
+    "employees": null,
+    "last_round": "Growth",
+    "last_round_date": "2026-07-15",
+    "last_round_amount": "USD 12.6 million",
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://betakit.com/insidedesk-closes-12-6-million-usd-to-grow-its-dental-payments-platform/"
+    ],
+    "status": "active",
+    "verified": false,
+    "notes": "Dropped by verifier: duplicate of name:insidedesk",
+    "address": null,
+    "id": "insidedesk.com",
+    "found_in": [
+      "seed-freelance"
     ]
   },
   {
@@ -1269,6 +1489,60 @@
     ]
   },
   {
+    "name": "Lyteflo",
+    "website": "https://lyteflo.com",
+    "domain": "lyteflo.com",
+    "description": "EV sales and battery-health tools for dealerships",
+    "sector": "Climate/Energy",
+    "city": "Toronto",
+    "founded": null,
+    "stage": null,
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://whitecapvp.com/portfolio"
+    ],
+    "status": "unknown",
+    "verified": false,
+    "notes": "Dropped by verifier: HQ is Montreal, QC per company site (lyteflo.com); Toronto was only inferred from a press dateline.",
+    "address": null,
+    "id": "lyteflo.com",
+    "found_in": [
+      "vc-omers-georgian-other"
+    ]
+  },
+  {
+    "name": "Manifest Climate",
+    "website": null,
+    "domain": null,
+    "description": null,
+    "sector": null,
+    "city": "Toronto",
+    "founded": null,
+    "stage": null,
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://golden.ventures/portfolio"
+    ],
+    "status": "unknown",
+    "verified": false,
+    "notes": "Dropped: duplicate of a verified entry",
+    "address": null,
+    "id": "name:manifestclimate",
+    "found_in": [
+      "vc-golden-radical-inovia"
+    ]
+  },
+  {
     "name": "Matic Health",
     "website": "https://matic.health/",
     "domain": "matic.health",
@@ -1293,6 +1567,141 @@
     "id": "matic.health",
     "found_in": [
       "next-canada"
+    ]
+  },
+  {
+    "name": "MedMe Health",
+    "website": "https://www.medmehealth.com",
+    "domain": "medmehealth.com",
+    "description": "Software for pharmacies to move beyond dispensing",
+    "sector": "Healthtech",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Growth",
+    "employees": "51-200",
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": true,
+    "sources": [
+      "https://www.ycombinator.com/companies/medme-health"
+    ],
+    "status": "active",
+    "verified": false,
+    "notes": "Dropped by verifier: duplicate of name:medmehealth",
+    "address": null,
+    "id": "medmehealth.com",
+    "found_in": [
+      "yc"
+    ]
+  },
+  {
+    "name": "MixRank",
+    "website": "https://mixrank.com",
+    "domain": "mixrank.com",
+    "description": "Data products for sales, marketing, finance, recruiting, and more.",
+    "sector": "B2B SaaS",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Unknown",
+    "employees": "11-50",
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": true,
+    "sources": [
+      "https://www.ycombinator.com/companies/mixrank"
+    ],
+    "status": "active",
+    "verified": false,
+    "notes": "Dropped by verifier: HQ is San Francisco per company site (mixrank.com), not GTA.",
+    "address": null,
+    "id": "mixrank.com",
+    "found_in": [
+      "yc"
+    ]
+  },
+  {
+    "name": "Molagri",
+    "website": "https://molagri.com",
+    "domain": "molagri.com",
+    "description": "Resistance free pesticides.",
+    "sector": "Hardware/Robotics",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Unknown",
+    "employees": "1-10",
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": true,
+    "sources": [
+      "https://www.ycombinator.com/companies/molagri"
+    ],
+    "status": "active",
+    "verified": false,
+    "notes": "Dropped by verifier: duplicate of name:molagri",
+    "address": null,
+    "id": "molagri.com",
+    "found_in": [
+      "yc"
+    ]
+  },
+  {
+    "name": "Moonvalley",
+    "website": "https://www.moonvalley.com",
+    "domain": "moonvalley.com",
+    "description": "Building the next generation AI creative studio",
+    "sector": "Consumer",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Growth",
+    "employees": "51-200",
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": true,
+    "sources": [
+      "https://www.ycombinator.com/companies/moonvalley"
+    ],
+    "status": "active",
+    "verified": false,
+    "notes": "Dropped by verifier: duplicate of name:moonvalley",
+    "address": null,
+    "id": "moonvalley.com",
+    "found_in": [
+      "yc"
+    ]
+  },
+  {
+    "name": "MoveMate",
+    "website": "https://www.movemate.ca/",
+    "domain": "movemate.ca",
+    "description": null,
+    "sector": "Logistics",
+    "city": "Toronto",
+    "founded": null,
+    "stage": null,
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://dmz.torontomu.ca/startup-directory?542e3ac2_page=8"
+    ],
+    "status": "unknown",
+    "verified": false,
+    "notes": "Dropped by verifier: HQ Montreal (917 avenue Mont-Royal E per movemate.ca; PitchBook and Dealroom agree), not GTA. Acquired by MovingWaldo (May 2026 per PitchBook). Sources: https://www.movemate.ca/ and https://fi.co/insight/founder-institute-montreal-grad-s-movemate-acquired-by-movingwaldo",
+    "address": null,
+    "id": "movemate.ca",
+    "found_in": [
+      "dmz"
     ]
   },
   {
@@ -1347,6 +1756,33 @@
     "id": "neuravue.com",
     "found_in": [
       "next-canada"
+    ]
+  },
+  {
+    "name": "NextGen Sound",
+    "website": "https://www.nextgensound.io/",
+    "domain": "nextgensound.io",
+    "description": null,
+    "sector": "AI/ML",
+    "city": "Toronto",
+    "founded": null,
+    "stage": null,
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://dmz.torontomu.ca/startup-directory?542e3ac2_page=8"
+    ],
+    "status": "active",
+    "verified": false,
+    "notes": "Dropped by verifier: nextgensound.io redirects to nxtgenhq.com (NxtGen, artist ad-automation platform); Caplight lists it in Sydney, no Toronto evidence. Sources: http://www.nxtgenhq.com/ and https://www.caplight.com/company/nxtgenhq",
+    "address": null,
+    "id": "nextgensound.io",
+    "found_in": [
+      "dmz"
     ]
   },
   {
@@ -1432,6 +1868,33 @@
     ]
   },
   {
+    "name": "Peripheral",
+    "website": "peripheral.so",
+    "domain": "peripheral.so",
+    "description": null,
+    "sector": null,
+    "city": "Toronto",
+    "founded": null,
+    "stage": null,
+    "employees": null,
+    "last_round": "Seed",
+    "last_round_date": "2026-08-17",
+    "last_round_amount": "USD 8.7 million",
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://betakit.com/peripheral-nets-8-7-million-usd-to-bring-spatial-intelligence-tech-to-sports/"
+    ],
+    "status": "active",
+    "verified": false,
+    "notes": "Dropped by verifier: duplicate of name:peripheral",
+    "address": null,
+    "id": "peripheral.so",
+    "found_in": [
+      "seed-freelance"
+    ]
+  },
+  {
     "name": "Pibox",
     "website": null,
     "domain": null,
@@ -1457,6 +1920,87 @@
     "id": "name:pibox",
     "found_in": [
       "techstars"
+    ]
+  },
+  {
+    "name": "Provision",
+    "website": "https://provision.com",
+    "domain": "provision.com",
+    "description": "Ironclad for construction",
+    "sector": "AI/ML",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Unknown",
+    "employees": "11-50",
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": true,
+    "sources": [
+      "https://www.ycombinator.com/companies/provision"
+    ],
+    "status": "active",
+    "verified": false,
+    "notes": "Dropped by verifier: duplicate of name:provision (verifier report, added by orchestrator)",
+    "address": null,
+    "id": "provision.com",
+    "found_in": [
+      "yc"
+    ]
+  },
+  {
+    "name": "Real Matters",
+    "website": "https://realmatters.com",
+    "domain": "realmatters.com",
+    "description": "Network management services for mortgage and insurance",
+    "sector": "Proptech",
+    "city": "Markham",
+    "founded": null,
+    "stage": null,
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://whitecapvp.com/portfolio"
+    ],
+    "status": "unknown",
+    "verified": false,
+    "notes": "Dropped by verifier: Not a startup: TSX-listed public company (founded 2004), HQ 50 Minthorn Blvd, Markham. Sources: GlobalData/Morningstar per prior notes.",
+    "address": null,
+    "id": "realmatters.com",
+    "found_in": [
+      "vc-omers-georgian-other"
+    ]
+  },
+  {
+    "name": "Relay",
+    "website": "relayfi.com",
+    "domain": "relayfi.com",
+    "description": null,
+    "sector": null,
+    "city": "Toronto",
+    "founded": null,
+    "stage": null,
+    "employees": null,
+    "last_round": "Growth",
+    "last_round_date": "2026-05-20",
+    "last_round_amount": "USD 50 million",
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://betakit.com/relay-secures-50m-usd-to-bring-more-small-businesses-to-its-banking-platform/"
+    ],
+    "status": "active",
+    "verified": false,
+    "notes": "Dropped by verifier: duplicate of name:relay",
+    "address": null,
+    "id": "relayfi.com",
+    "found_in": [
+      "seed-freelance"
     ]
   },
   {
@@ -1536,6 +2080,33 @@
     "notes": "Dropped: roshi.ai/terms: registered office Vancouver, BC",
     "address": null,
     "id": "roshi.ai",
+    "found_in": [
+      "next-canada"
+    ]
+  },
+  {
+    "name": "Salubrum",
+    "website": "https://www.salubrum.com",
+    "domain": "salubrum.com",
+    "description": null,
+    "sector": "Consumer",
+    "city": "Toronto",
+    "founded": null,
+    "stage": null,
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://directory.nextcanada.com/directory/ventures/?program=next-36"
+    ],
+    "status": "unknown",
+    "verified": false,
+    "notes": "Dropped by verifier: HQ is San Francisco per CB Insights and Salubrum's LinkedIn (NEXT Canada is only an investor); no Toronto HQ evidence.",
+    "address": null,
+    "id": "salubrum.com",
     "found_in": [
       "next-canada"
     ]

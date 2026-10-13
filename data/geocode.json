@@ -3,6 +3,18 @@
   43.774175,
   -79.504749
  ],
+ "10 Dundas St E, 6th Floor, Toronto, ON M5B 2G9": [
+  43.657035,
+  -79.38046
+ ],
+ "10 Dundas St E, Suite 1000, Toronto, ON M5B 2G9": [
+  43.657035,
+  -79.38046
+ ],
+ "10 Dundas St E, Toronto, ON M5B 2G9": [
+  43.657035,
+  -79.38046
+ ],
  "10 Dundas St E, Unit 6, Toronto, ON": [
   43.657035,
   -79.38046
@@ -10,6 +22,42 @@
  "100 College St, Toronto, ON": [
   43.66059,
   -79.38863
+ ],
+ "1000-119 Spadina Ave, Toronto, ON M5V 2L1": [
+  43.652494,
+  -79.397554
+ ],
+ "1033 McNicoll Ave, 1st Floor, Scarborough, ON M1W 3W6": [
+  43.80413,
+  -79.33506
+ ],
+ "123 Edward St, 2nd Floor, Toronto, ON": [
+  43.655641,
+  -79.386769
+ ],
+ "123 Front St W, Suite 300, Toronto, ON M5J 2M2": [
+  43.644903,
+  -79.383074
+ ],
+ "125 Bethridge Road, Etobicoke, ON M9W 1N4": [
+  43.70685,
+  -79.58009
+ ],
+ "130 Queens Quay E, Suite 613, Toronto, ON M5A 0P6": [
+  43.644523,
+  -79.368554
+ ],
+ "155 Queens Quay E, Suite 200, Toronto, ON M5A 0W4": [
+  43.644225,
+  -79.367013
+ ],
+ "157 Adelaide St W, Toronto, ON": [
+  43.648809,
+  -79.385356
+ ],
+ "169 Enterprise Blvd, Unit 300, Markham, ON L6G 0E7": [
+  43.848785,
+  -79.324021
  ],
  "171 E Liberty St, Unit 274, Toronto, ON M6K 3E7": [
   43.638101,
@@ -27,21 +75,59 @@
   43.670896,
   -79.382463
  ],
+ "175 Bloor St E, Toronto, ON M4W 3R8": [
+  43.671102,
+  -79.382455
+ ],
+ "18 King St E, Toronto, ON": [
+  43.649622,
+  -79.377131
+ ],
  "199 Bay St, Suite 4000, Toronto, ON M5L 1A9": [
   43.648203,
   -79.379539
  ],
+ "2 Carlton St, Suite 1811, Toronto, ON M5B 1J3": [
+  43.661458,
+  -79.383008
+ ],
+ "2 Carlton St, Suite 619, Toronto, ON M5B 1J3": [
+  43.661458,
+  -79.383008
+ ],
+ "2 Carlton St, Unit 1510, Toronto, ON M5B 1J3": [
+  43.661458,
+  -79.383008
+ ],
+ "202-1200 Bay Street, Toronto, ON": null,
+ "209 Victoria St, Rm 774, Toronto, ON M5B 1T8": null,
  "214 King St W, Suite 314, Toronto, ON M5H 3S6": [
   43.647385,
   -79.386787
+ ],
+ "22 St. Clair Ave E, Suite 200, Toronto, ON M4T 2S5": [
+  43.68852,
+  -79.39301
  ],
  "225 King St W, Suite 1405, Toronto, ON M5V 3M2": [
   43.646658,
   -79.388189
  ],
+ "229 Yonge St, Suite 400, Toronto, ON M5B 1N9": [
+  43.65428,
+  -79.379869
+ ],
+ "240 Richmond St W, Toronto, ON M5V 1V6": [
+  43.649754,
+  -79.388907
+ ],
  "265 Bartley Dr, Toronto, ON M4A 2N7": [
   43.717248,
   -79.317724
+ ],
+ "295 Adelaide St W, Unit 703, Toronto, ON M5V 0L4": [
+  43.64759,
+  -79.39076
  ],
  "30 Adelaide St E, 12th Floor, Toronto, ON M5C 2C5": [
   43.650799,
@@ -51,7 +137,15 @@
   43.876812,
   -78.945104
  ],
+ "320 Bay St, Suite 805, Toronto, ON": [
+  43.649677,
+  -79.380992
+ ],
  "325 Front St W, 4th Floor, Toronto, ON M5V 2Y1": [
+  43.643272,
+  -79.389907
+ ],
+ "325 Front St W, Floor 2, Toronto, ON M5V 2Y1": [
   43.643272,
   -79.389907
  ],
@@ -59,25 +153,78 @@
   43.643272,
   -79.389907
  ],
+ "33 Bloor St E, Suite 604, Toronto, ON M4W 3H1": [
+  43.670027,
+  -79.385474
+ ],
  "333 Bay St, Suite 3400, Toronto, ON M5H 2S7": [
   43.650334,
   -79.380766
+ ],
+ "366 Adelaide St W, Toronto, ON": [
+  43.647272,
+  -79.394383
+ ],
+ "37 Front St E, Suite 200, Toronto, ON M5E 1B3": [
+  43.64775,
+  -79.37468
  ],
  "375 University Ave, Unit 102, Toronto, ON M5G 2J5": [
   43.653569,
   -79.387029
  ],
+ "4044 Sheppard Ave E, Toronto, ON M1S 1S6": [
+  43.783914,
+  -79.286001
+ ],
+ "439 University Ave, 5th Floor, Toronto, ON": [
+  43.654438,
+  -79.387426
+ ],
+ "441-A Applewood Crescent, Concord, ON L4K 4B4": null,
+ "4478 Chesswood Dr, Unit 12, North York, ON M3J 2B9": [
+  43.762857,
+  -79.477936
+ ],
  "480 University Ave, Suite 1300, Toronto, ON M5G 1V2": [
   43.655087,
   -79.389023
+ ],
+ "488 Wellington St W, Toronto, ON": [
+  43.643512,
+  -79.398367
+ ],
+ "4950 Yonge St, Suite 2308, North York, ON M2N 6K1": [
+  43.764812,
+  -79.412768
+ ],
+ "50 Carroll St, Toronto, ON M4M 3G3": [
+  43.660665,
+  -79.353604
  ],
  "502-2 Gladstone Ave, Toronto, ON M6J 0B2": [
   43.653841,
   -79.431433
  ],
+ "51 Wolseley St, Toronto, ON M5T 1A4": [
+  43.648171,
+  -79.402392
+ ],
  "582 St Clair Ave W, Suite 410, Toronto, ON": [
   43.682508,
   -79.422414
+ ],
+ "67 Mowat Ave, Suite 444, Toronto, ON": [
+  43.638259,
+  -79.425428
+ ],
+ "73 Richmond St W, Suite 502, Toronto, ON M5H 4E8": [
+  43.65074,
+  -79.382293
+ ],
+ "77 King St W, Suite 400, Toronto, ON M5K 0A1": [
+  43.647899,
+  -79.381998
  ],
  "786 King St W, Toronto, ON M5V 1N6": [
   43.64342,
@@ -87,8 +234,20 @@
   43.719894,
   -79.294987
  ],
+ "82 Peter St, Toronto, ON": [
+  43.646773,
+  -79.392908
+ ],
+ "9133 Leslie St, Richmond Hill, ON": [
+  43.856172,
+  -79.384171
+ ],
  "96 Spadina Ave, Suite 802, Toronto, ON": [
   43.646473,
   -79.395885
+ ],
+ "99 Yorkville Ave, Suite 214, Toronto, ON M5R 3K5": [
+  43.670922,
+  -79.391671
  ]
 }

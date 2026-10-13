@@ -53,11 +53,12 @@
   function tagsHtml(d) {
     return [
       d.sector && `<span class="tag">${esc(d.sector)}</span>`,
-      d.stage && d.stage !== "Unknown" && `<span class="tag plain">${esc(d.stage)}</span>`,
-      d.city && `<span class="tag plain">${esc(d.city)}</span>`,
+      d.stage && !["Unknown", "Acquired"].includes(d.stage) && `<span class="tag plain">${esc(d.stage)}</span>`,
+      d.city ? `<span class="tag plain">${esc(d.city)}</span>` : `<span class="tag warn">City unconfirmed</span>`,
       d.employees && `<span class="tag plain">${esc(d.employees)} people</span>`,
       d.hiring && `<span class="tag ok">Hiring</span>`,
       d.status === "acquired" && `<span class="tag warn">Acquired</span>`,
+      d.verified && `<span class="tag ok">Verified</span>`,
     ].filter(Boolean).join("");
   }
 

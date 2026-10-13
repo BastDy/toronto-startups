@@ -43,6 +43,25 @@ def apply_geo(merged):
     return dropped
 
 
+STAGES = {"Pre-seed", "Seed", "Series A", "Series B", "Growth", "Late stage", "Acquired", "Unknown"}
+
+
+def normalize_stage(stage):
+    """Map free-form stages from agents onto the schema values ('Series C' -> 'Growth')."""
+    if not stage or stage in STAGES:
+        return stage
+    s = stage.lower()
+    if "pre" in s and "seed" in s:
+        return "Pre-seed"
+    if "seed" in s:
+        return "Seed"
+    if re.search(r"series [c-z]|growth|late|ipo|public", s):
+        return "Growth" if "late" not in s and "public" not in s else "Late stage"
+    if "acqui" in s:
+        return "Acquired"
+    return "Unknown"
+
+
 def apply_verified(merged):
     """Apply wave-2b verifier output (data/verified/*.json), keyed by candidate id.
 
@@ -72,6 +91,7 @@ def apply_verified(merged):
                 else:
                     r[f] = val
             r["domain"] = normalize_domain(r.get("website")) or r.get("domain")
+            r["stage"] = normalize_stage(r.get("stage"))
             r["verified"] = True
 
     # An unverified row with the same name as a verified one is a duplicate the verifier merged.

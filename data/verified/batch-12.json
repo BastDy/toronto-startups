@@ -1,0 +1,637 @@
+[
+  {
+    "name": "Promise Robotics",
+    "website": "https://promiserobotics.com/",
+    "domain": "promiserobotics.com",
+    "description": "Physical AI and robotic factory platform for homebuilding.",
+    "sector": "Hardware/Robotics",
+    "city": "Toronto",
+    "founded": 2021,
+    "stage": "Unknown",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": "https://www.linkedin.com/company/promise-robotics",
+    "hiring": true,
+    "sources": [
+      "https://relay.vc/portfolio",
+      "https://promiserobotics.com/",
+      "https://jobs.lever.co/promiserobotics/",
+      "https://www.linkedin.com/company/promise-robotics",
+      "https://builtintoronto.com/company/promise-robotics"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "HQ ambiguous: VC Backed, Built In and LinkedIn say Toronto (plus Edmonton); StartupHub says Calgary; plants and almost all open roles are in Alberta/Phoenix. Kept as Toronto HQ, low confidence.",
+    "address": null,
+    "id": "promiserobotics.com",
+    "found_in": [
+      "vc-omers-georgian-other"
+    ]
+  },
+  {
+    "name": "Propel",
+    "website": "https://www.propelhq.com/",
+    "domain": "propelhq.com",
+    "description": "Platform for booking private one-on-one swim lessons at partner pools across Canada.",
+    "sector": "Consumer",
+    "city": "Toronto",
+    "founded": 2017,
+    "stage": "Unknown",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://dmz.torontomu.ca/startup-directory?542e3ac2_page=10",
+      "https://www.propelhq.com/",
+      "https://www.cbinsights.com/company/propel-4",
+      "https://www.nextcanada.com/n36-venture-trims-wait-lists-for-toronto-swimming-lessons-by-leveraging-under-utilized-hotel-pools/"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "DMZ alumni; Next 36 alum. Toronto and 2017 per CB Insights; site live (c) 2026. No careers page found.",
+    "address": null,
+    "id": "propelhq.com",
+    "found_in": [
+      "dmz"
+    ]
+  },
+  {
+    "name": "Provision",
+    "website": "https://provision.com",
+    "domain": "provision.com",
+    "description": "AI platform that helps pre-construction teams review drawings, specs and contracts to catch risks and scope gaps before bidding.",
+    "sector": "Proptech",
+    "city": "Toronto",
+    "founded": 2022,
+    "stage": "Seed",
+    "employees": "11-50",
+    "last_round": "Seed",
+    "last_round_date": "2025-10-15",
+    "last_round_amount": "USD 7M",
+    "linkedin": null,
+    "hiring": true,
+    "sources": [
+      "https://betakit.com/provision-raises-7-million-usd-to-build-ai-copilots-for-pre-construction-estimates/",
+      "https://www.seedtable.com/best-startups-in-toronto",
+      "https://www.ycombinator.com/companies/provision",
+      "https://provision.com",
+      "https://provision.com/careers"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Merged with provision.com (YC S22): same company (BetaKit seed round lead Cercano, YC an existing investor, same products). Careers page lists Toronto hybrid roles.",
+    "address": null,
+    "id": "name:provision",
+    "found_in": [
+      "betakit",
+      "rankings"
+    ]
+  },
+  {
+    "name": "Quantum Bridge",
+    "website": "https://www.qubridge.io/",
+    "domain": "qubridge.io",
+    "description": "Quantum-safe encryption and key distribution (DSKE protocol), a University of Toronto spinout.",
+    "sector": "Cybersecurity",
+    "city": "Toronto",
+    "founded": 2019,
+    "stage": "Series A",
+    "employees": null,
+    "last_round": "Series A",
+    "last_round_date": "2026-05-21",
+    "last_round_amount": "USD 8M",
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://betakit.com/quantum-bridge-raises-8-million-usd-to-prepare-for-q-day/",
+      "https://www.seedtable.com/best-startups-in-toronto",
+      "https://www.qubridge.io/",
+      "https://app.marsdd.com/companies/quantum-bridge"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Toronto HQ per BetaKit. Address from a directory listing (MaRS profile search result), not the company site. Led by Primo Capital.",
+    "address": "2 Carlton St, Suite 1811, Toronto, ON M5B 1J3",
+    "id": "name:quantumbridge",
+    "found_in": [
+      "rankings",
+      "seed-freelance"
+    ]
+  },
+  {
+    "name": "Qvella",
+    "website": "https://qvella.com",
+    "domain": "qvella.com",
+    "description": "Molecular diagnostics company developing FAST technology for faster bloodstream infection results.",
+    "sector": "Healthtech",
+    "city": "Richmond Hill",
+    "founded": null,
+    "stage": "Unknown",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": false,
+    "sources": [
+      "https://whitecapvp.com/portfolio",
+      "https://www.devex.com/organizations/qvella-corporation-127248"
+    ],
+    "status": "closed",
+    "verified": true,
+    "notes": "qvella.com no longer resolves (DNS error) and PitchBook lists Out of Business; no shutdown article found. Richmond Hill, 9133 Leslie St per Devex.",
+    "address": "9133 Leslie St, Richmond Hill, ON",
+    "id": "qvella.com",
+    "found_in": [
+      "vc-omers-georgian-other"
+    ]
+  },
+  {
+    "name": "R-Labs",
+    "website": "https://rlabs.ca/",
+    "domain": "rlabs.ca",
+    "description": "Venture builder that co-creates and backs startups solving real estate and housing problems.",
+    "sector": "Proptech",
+    "city": "Toronto",
+    "founded": 2018,
+    "stage": "Unknown",
+    "employees": null,
+    "last_round": "Evergreen fund capital",
+    "last_round_date": "2025-07-09",
+    "last_round_amount": "CAD 3.5M",
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://betakit.com/r-labs-secures-3-5-million-to-help-create-more-startups-tackling-big-problems-in-real-estate/",
+      "https://rlabs.ca/"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Venture studio rather than a classic startup; led by Hatch with Oxford Properties etc.; $28M raised in total. Careers section lists no open roles.",
+    "address": "123 Front St W, Suite 300, Toronto, ON M5J 2M2",
+    "id": "name:r",
+    "found_in": [
+      "betakit"
+    ]
+  },
+  {
+    "name": "Rally",
+    "website": "https://rally.video",
+    "domain": "rally.video",
+    "description": "Video platform that recreated in-person social gatherings online (Zoom for social events).",
+    "sector": "Consumer",
+    "city": "Toronto",
+    "founded": 2020,
+    "stage": "Unknown",
+    "employees": "1-10",
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": false,
+    "sources": [
+      "https://www.ycombinator.com/companies/rally",
+      "https://rally.video"
+    ],
+    "status": "closed",
+    "verified": true,
+    "notes": "YC S20. rally.video now serves an unrelated online casino site, so the original product is gone.",
+    "address": null,
+    "id": "rally.video",
+    "found_in": [
+      "yc"
+    ]
+  },
+  {
+    "name": "Readocracy",
+    "website": "https://readocracy.com/",
+    "domain": "readocracy.com",
+    "description": "Privacy-first platform to track and show how people inform themselves, with learning and AI-literacy tools.",
+    "sector": "Edtech",
+    "city": "Toronto",
+    "founded": 2018,
+    "stage": "Seed",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://dmz.torontomu.ca/startup-directory?542e3ac2_page=10",
+      "https://readocracy.com/",
+      "https://app.dealroom.co/companies/readocracy_com",
+      "https://www.cbinsights.com/company/readefined/"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Operated by Readefined; Toronto per Dealroom; CB Insights lists about USD 70K raised (seed). App still 'coming soon'.",
+    "address": null,
+    "id": "readocracy.com",
+    "found_in": [
+      "dmz"
+    ]
+  },
+  {
+    "name": "Real Matters",
+    "drop": true,
+    "notes": "Not a startup: TSX-listed public company (founded 2004), HQ 50 Minthorn Blvd, Markham. Sources: GlobalData/Morningstar per prior notes.",
+    "id": "realmatters.com"
+  },
+  {
+    "name": "Relay",
+    "website": "https://relayfi.com",
+    "domain": "relayfi.com",
+    "description": "Banking platform for small businesses with checking, cards, expense management and payables.",
+    "sector": "Fintech",
+    "city": "Toronto",
+    "founded": 2018,
+    "stage": "Growth",
+    "employees": "201-500",
+    "last_round": "Customer Value Fund (non-dilutive, General Catalyst)",
+    "last_round_date": "2026-05-20",
+    "last_round_amount": "USD 50M",
+    "linkedin": null,
+    "hiring": true,
+    "sources": [
+      "https://betakit.com/relay-secures-50m-usd-to-bring-more-small-businesses-to-its-banking-platform/",
+      "https://relayfi.com",
+      "https://relayfi.com/careers"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Merged with relayfi.com (same BetaKit article). HQ downtown Toronto per careers page; satellite hubs Vancouver, Boston, NYC. 48 open roles; about 250 employees per BetaKit. Previous round: USD 32.2M Series B.",
+    "address": null,
+    "id": "name:relay",
+    "found_in": [
+      "betakit"
+    ]
+  },
+  {
+    "id": "relayfi.com",
+    "name": "Relay",
+    "drop": true,
+    "notes": "duplicate of name:relay"
+  },
+  {
+    "name": "Remitr",
+    "website": "https://trulyfinancial.com/remitr/",
+    "domain": "trulyfinancial.com",
+    "description": "Business payments and multi-currency accounts for small businesses, operating as Truly Financial.",
+    "sector": "Fintech",
+    "city": "Toronto",
+    "founded": 2016,
+    "stage": "Unknown",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://dmz.torontomu.ca/startup-directory?542e3ac2_page=10",
+      "https://trulyfinancial.com/remitr/",
+      "https://www.cbinsights.com/company/remitware-payments"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Rebranded Truly Financial, still accepting customers. Address and founding year from CB Insights (third party).",
+    "address": "439 University Ave, 5th Floor, Toronto, ON",
+    "id": "trulyfinancial.com",
+    "found_in": [
+      "dmz"
+    ]
+  },
+  {
+    "name": "Repable",
+    "website": "http://www.repable.com/",
+    "domain": "repable.com",
+    "description": "Platform connecting aspiring actors directly with agents and managers.",
+    "sector": "Media/Entertainment",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Unknown",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://dmz.torontomu.ca/startup-directory?542e3ac2_page=10",
+      "http://www.repable.com/"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "DMZ alumni; Toronto per DMZ only (site gives no address). Site says launched 2026, now in early access.",
+    "address": null,
+    "id": "repable.com",
+    "found_in": [
+      "dmz"
+    ]
+  },
+  {
+    "name": "ReUp",
+    "website": "https://www.lightspeedhq.com/pos/retail/loyalty/",
+    "domain": "lightspeedhq.com",
+    "description": "Toronto loyalty-program platform for independent retailers, acquired and rebranded Lightspeed Loyalty.",
+    "sector": "Fintech",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Acquired",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://dmz.torontomu.ca/startup-directory?542e3ac2_page=10",
+      "https://betakit.com/lightspeed-acquires-reup-rebrands-it-to-lightspeed-loyalty/"
+    ],
+    "status": "acquired",
+    "verified": true,
+    "notes": "Acquired by Lightspeed (Montreal) in December 2018; ReUp was Toronto-based. Domain is Lightspeed's.",
+    "address": null,
+    "id": "lightspeedhq.com",
+    "found_in": [
+      "dmz"
+    ]
+  },
+  {
+    "name": "Revolve Surgical",
+    "website": "https://revolvesurgical.com/",
+    "domain": "revolvesurgical.com",
+    "description": "Table-mounted surgical robotics platform with 5mm wristed instruments for any operating room.",
+    "sector": "Healthtech",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Unknown",
+    "employees": "1-10",
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": false,
+    "sources": [
+      "https://www.ycombinator.com/companies/revolve-surgical",
+      "https://revolvesurgical.com/"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "YC S21; partners include St. Michael's Hospital and CDL. No careers page on site.",
+    "address": "2 Carlton St, Suite 619, Toronto, ON M5B 1J3",
+    "id": "revolvesurgical.com",
+    "found_in": [
+      "yc"
+    ]
+  },
+  {
+    "name": "Ritual",
+    "website": "https://www.ritual.co",
+    "domain": "ritual.co",
+    "description": "Food ordering app for takeout, restaurants and workplace meal perks.",
+    "sector": "Consumer",
+    "city": "Toronto",
+    "founded": 2014,
+    "stage": "Unknown",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://golden.ventures/portfolio",
+      "https://www.ritual.co",
+      "https://betakit.com/ritual-ceo-rd-team-members-to-join-shopify/"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Site live (c) 2026. In 2022 the CEO and R&D team joined Shopify (acqui-hire); some sources claim Shopify acquired Ritual Technologies, not confirmed by a primary source, so status kept active. Address 82 Peter St from CB Insights per sourcing notes, not verified on company site.",
+    "address": "82 Peter St, Toronto, ON",
+    "id": "name:ritual",
+    "found_in": [
+      "vc-golden-radical-inovia"
+    ]
+  },
+  {
+    "name": "Robbie Restoration Technologies",
+    "website": "https://robbieinsurtech.com/",
+    "domain": "robbieinsurtech.com",
+    "description": "IoT monitoring of water-damage restoration claims for insurers and contractors.",
+    "sector": "Insurtech",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Unknown",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://dmz.torontomu.ca/startup-directory?542e3ac2_page=10",
+      "https://robbieinsurtech.com/"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "robbiert.com redirects to robbieinsurtech.com. Supported by IPON and ventureLAB. Toronto per DMZ only; site gives no address.",
+    "address": null,
+    "id": "robbiert.com",
+    "found_in": [
+      "dmz"
+    ]
+  },
+  {
+    "name": "Robin Media",
+    "website": "https://thuzio.com/our-work",
+    "domain": "thuzio.com",
+    "description": "Corporate entertainment platform for premium tickets and experiences, acquired by Thuzio.",
+    "sector": "Media/Entertainment",
+    "city": "Toronto",
+    "founded": 2016,
+    "stage": "Acquired",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://dmz.torontomu.ca/startup-directory?542e3ac2_page=10",
+      "https://www.osler.com/en/about-us/representative-work/robin-media/",
+      "https://www.cbinsights.com/company/robin1"
+    ],
+    "status": "acquired",
+    "verified": true,
+    "notes": "Acquired by Thuzio (New York) on 2020-11-25; Robin Media was Toronto-based. Thuzio was later acquired by Triller (2021).",
+    "address": null,
+    "id": "thuzio.com",
+    "found_in": [
+      "dmz"
+    ]
+  },
+  {
+    "name": "RoseRocket",
+    "website": "https://www.roserocket.com/",
+    "domain": "roserocket.com",
+    "description": "AI-native transportation management software (TMS) for freight and trucking companies.",
+    "sector": "Logistics",
+    "city": "Toronto",
+    "founded": 2015,
+    "stage": "Series B",
+    "employees": "51-200",
+    "last_round": "Series B",
+    "last_round_date": "2023-06-01",
+    "last_round_amount": "CAD 50.2M",
+    "linkedin": null,
+    "hiring": true,
+    "sources": [
+      "https://dmz.torontomu.ca/startup-directory?542e3ac2_page=11",
+      "https://www.seedtable.com/best-startups-in-toronto",
+      "https://www.ycombinator.com/companies/rose-rocket",
+      "https://www.roserocket.com/careers",
+      "https://betakit.com/rose-rocket-raises-50-2-million-cad-series-b-to-expand-trucking-solution/",
+      "https://www.cbinsights.com/company/rose-rocket"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Careers page links to an Ashby board (jobs.ashbyhq.com/Rose%20Rocket); roles not readable, hiring inferred. Address and founding year from CB Insights; site mentions a downtown Toronto office near Union/King.",
+    "address": "37 Front St E, Suite 200, Toronto, ON M5E 1B3",
+    "id": "roserocket.com",
+    "found_in": [
+      "dmz",
+      "rankings",
+      "yc"
+    ]
+  },
+  {
+    "name": "Sage Care",
+    "website": "https://www.getsagecare.com",
+    "domain": "getsagecare.com",
+    "description": "At-home care service for elderly parents from vetted professionals.",
+    "sector": "Healthtech",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Unknown",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": false,
+    "sources": [
+      "https://www.ycombinator.com/companies/sage-care"
+    ],
+    "status": "closed",
+    "verified": true,
+    "notes": "YC S16, listed Inactive by YC. getsagecare.com now redirects to an unrelated site. Toronto per YC.",
+    "address": null,
+    "id": "getsagecare.com",
+    "found_in": [
+      "yc"
+    ]
+  },
+  {
+    "name": "SALT XC",
+    "website": "https://saltxc.com",
+    "domain": "saltxc.com",
+    "description": "Media and experience agency connecting consumers' online and offline experiences through data and media.",
+    "sector": "Other",
+    "city": "Toronto",
+    "founded": 2019,
+    "stage": "Unknown",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://betakit.com/cohere-and-float-once-again-top-linkedins-top-canadian-startups-list/",
+      "https://saltxc.com"
+    ],
+    "status": "active",
+    "verified": true,
+    "notes": "Marketing agency (borderline 'startup'); Toronto per BetaKit. Founded 2019 and address from a search snippet, site gave neither. 2023 Globe and Mail Top Growing Companies #2.",
+    "address": "67 Mowat Ave, Suite 444, Toronto, ON",
+    "id": "name:saltxc",
+    "found_in": [
+      "rankings"
+    ]
+  },
+  {
+    "name": "Salubrum",
+    "drop": true,
+    "notes": "HQ is San Francisco per CB Insights and Salubrum's LinkedIn (NEXT Canada is only an investor); no Toronto HQ evidence.",
+    "id": "salubrum.com"
+  },
+  {
+    "name": "Savvyy",
+    "website": "https://savvyy.ai/",
+    "domain": "savvyy.ai",
+    "description": null,
+    "sector": "Proptech",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Unknown",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://dmz.torontomu.ca/startup-directory?542e3ac2_page=11",
+      "https://www.cbinsights.com/company/savvyy-studio"
+    ],
+    "status": "unknown",
+    "verified": true,
+    "notes": "savvyy.ai does not resolve (DNS error). A Toronto lending-software company 'Savvyy Technologies' (formerly Savvyy Studio, founded 2018, seed 2021) exists but identity with this DMZ entry is not confirmed, so details left null.",
+    "address": null,
+    "id": "savvyy.ai",
+    "found_in": [
+      "dmz"
+    ]
+  },
+  {
+    "name": "SBX Robotics",
+    "website": "https://www.sbxrobotics.com/",
+    "domain": "sbxrobotics.com",
+    "description": "Synthetic data generation for training robot vision models.",
+    "sector": "AI/ML",
+    "city": "Toronto",
+    "founded": 2020,
+    "stage": "Unknown",
+    "employees": "1-10",
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": false,
+    "sources": [
+      "https://www.ycombinator.com/companies/sbx-robotics",
+      "https://www.vcbacked.co/company/sbx-robotics"
+    ],
+    "status": "closed",
+    "verified": true,
+    "notes": "YC W21, listed Inactive by YC; site unreachable. No shutdown announcement found.",
+    "address": null,
+    "id": "sbxrobotics.com",
+    "found_in": [
+      "yc"
+    ]
+  },
+  {
+    "id": "provision.com",
+    "name": "Provision",
+    "drop": true,
+    "notes": "duplicate of name:provision (verifier report, added by orchestrator)"
+  }
+]
