@@ -10,7 +10,10 @@ You are a data-extraction agent. You receive ONE source (a URL or a source name)
 ## Job
 
 1. Fetch the source. Follow its pagination or filters (e.g. location = Toronto) when they exist.
-2. Keep only companies headquartered in the Greater Toronto Area (Toronto, Mississauga, Markham, Vaughan, Oakville, Richmond Hill, Brampton, etc.).
+2. Keep companies headquartered in the Greater Toronto Area (Toronto, Mississauga, Markham, Vaughan, Oakville, Richmond Hill, Brampton, etc.):
+   - HQ stated as GTA by the source: `city` = that city.
+   - HQ not stated, but the source strongly ties the company to Toronto (Toronto cohort, Toronto program, Toronto-focused portfolio, Toronto event): keep it with `city: null` and `notes: "GTA unconfirmed: <why>"`. The verifier will confirm or drop it.
+   - HQ stated outside the GTA: skip.
 3. For each company, fill the schema in `data/SCHEMA.md` with what the source states. Use `null` for anything the source does not say. Never guess a website, a funding amount or a date.
 4. `verified` is always `false`. `sources` contains the URL where you saw the company.
 5. Write the JSON array to the output path you were given. Valid JSON only.
