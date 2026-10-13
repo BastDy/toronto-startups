@@ -87,7 +87,10 @@
   }
 
   // ---- Map ----
-  const map = L.map("map", { scrollWheelZoom: true }).setView([43.7, -79.42], 10);
+  // Wheel zoom only after a click on the map, so scrolling the page never gets trapped by it.
+  const map = L.map("map", { scrollWheelZoom: false }).setView([43.7, -79.42], 10);
+  map.on("click focus", () => map.scrollWheelZoom.enable());
+  map.on("mouseout blur", () => map.scrollWheelZoom.disable());
   L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
     maxZoom: 19,
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
@@ -98,16 +101,17 @@
 
   function drawMap(rows) {
     cluster.clearLayers();
-    let placed = 0;
+    let placed = 0, exact = 0;
     for (const d of rows) {
       const c = coords(d);
       if (!c) continue;
       cluster.addLayer(L.marker(c, { icon: icon(d), title: d.name }).bindPopup(popup(d)));
       placed++;
+      if (typeof d.lat === "number") exact++;
     }
     const off = rows.length - placed;
     $("mapnote").textContent =
-      `Pins sit on each startup's city until street addresses are verified. ` +
+      `${exact} of ${placed} pins are at the verified street address, the others sit on their city centre. ` +
       (off ? `${off} startup${off > 1 ? "s" : ""} with an unconfirmed city ${off > 1 ? "are" : "is"} only in the list.` : "");
   }
 

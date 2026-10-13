@@ -11,7 +11,7 @@ from common import ROOT, write_json
 
 size = int(sys.argv[1]) if len(sys.argv) > 1 else 40
 rows = json.loads((ROOT / "data" / "candidates.json").read_text(encoding="utf-8"))
-todo = [r for r in rows if not r.get("verified")]
+todo = [r for r in rows if not r.get("verified") and r.get("city")]
 
 out = ROOT / "data" / "batches"
 out.mkdir(exist_ok=True)

@@ -43,6 +43,48 @@ def apply_geo(merged):
     return dropped
 
 
+def apply_verified(merged):
+    """Apply wave-2b verifier output (data/verified/*.json), keyed by candidate id.
+
+    drop -> removed (kept in dropped list); otherwise the verifier's non-null fields win.
+    """
+    dropped = []
+    by_name = {}
+    for key, r in merged.items():
+        by_name.setdefault(name_key(r["name"]), key)
+    for path in sorted((ROOT / "data" / "verified").glob("*.json")):
+        for v in json.loads(path.read_text(encoding="utf-8")):
+            # Verifiers sometimes rewrite the id (new domain) or merge duplicates: fall back to the name.
+            key = v.get("id") if v.get("id") in merged else by_name.get(name_key(v.get("name")))
+            r = merged.get(key)
+            if r is None:
+                continue
+            v = {**v, "id": key}
+            if v.get("drop"):
+                r["notes"] = f"Dropped by verifier: {v.get('notes')}"
+                dropped.append(merged.pop(v["id"]))
+                continue
+            for f, val in v.items():
+                if f in ("id", "found_in") or val in (None, "", []):
+                    continue
+                if f == "sources":
+                    r["sources"] = list(dict.fromkeys((r.get("sources") or []) + val))
+                else:
+                    r[f] = val
+            r["domain"] = normalize_domain(r.get("website")) or r.get("domain")
+            r["verified"] = True
+
+    # An unverified row with the same name as a verified one is a duplicate the verifier merged.
+    verified_names = {name_key(r["name"]) for r in merged.values() if r.get("verified")}
+    for key in [k for k, r in merged.items() if not r.get("verified") and name_key(r["name"]) in verified_names]:
+        r = merged.pop(key)
+        r["notes"] = "Dropped: duplicate of a verified entry"
+        dropped.append(r)
+    if dropped:
+        print(f"verifier: {len(dropped)} dropped")
+    return dropped
+
+
 def main():
     merged = {}
     name_index = {}
@@ -92,7 +134,7 @@ def main():
         r["id"] = key
         r["found_in"] = sorted(seen_by[key])
 
-    dropped = apply_geo(merged)
+    dropped = apply_geo(merged) + apply_verified(merged)
     out = sorted(merged.values(), key=lambda r: r["name"].lower())
     write_json(ROOT / "data" / "candidates.json", out)
     write_json(ROOT / "data" / "dropped.json", sorted(dropped, key=lambda r: r["name"].lower()))

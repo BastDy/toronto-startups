@@ -16,7 +16,7 @@ GTA_CITIES = {
 FIELDS = [
     "name", "website", "domain", "description", "sector", "city", "founded",
     "stage", "employees", "last_round", "last_round_date", "last_round_amount",
-    "linkedin", "hiring", "sources", "status", "verified", "notes",
+    "linkedin", "hiring", "sources", "status", "verified", "notes", "address",
 ]
 
 
