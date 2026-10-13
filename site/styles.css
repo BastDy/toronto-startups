@@ -33,6 +33,7 @@
 }
 
 * { box-sizing: border-box; }
+[hidden] { display: none !important; }
 body {
   margin: 0;
   background: var(--bg);
@@ -62,7 +63,36 @@ a { color: var(--accent); }
 .controls select { flex: 0 1 170px; }
 .check { display: inline-flex; gap: 6px; align-items: center; color: var(--muted); font-size: 14px; }
 
-.count { color: var(--muted); font-size: 13px; margin: 0 0 12px; }
+.bar { display: flex; justify-content: space-between; align-items: center; gap: 12px; margin: 0 0 12px; }
+.count { color: var(--muted); font-size: 13px; margin: 0; }
+.views { display: inline-flex; border: 1px solid var(--line); border-radius: 8px; overflow: hidden; background: var(--surface); }
+.views button {
+  border: 0; background: transparent; color: var(--muted); font: inherit; font-size: 14px;
+  padding: 6px 14px; cursor: pointer;
+}
+.views button[aria-selected="true"] { background: var(--accent-soft); color: var(--accent); font-weight: 600; }
+
+.mapbox { padding-bottom: 32px; }
+#map {
+  height: min(72vh, 680px); min-height: 360px;
+  border: 1px solid var(--line); border-radius: var(--radius); background: var(--surface);
+}
+#map .leaflet-tile-pane { filter: saturate(0.35) brightness(1.03); }
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) #map .leaflet-tile-pane { filter: invert(1) hue-rotate(180deg) saturate(0.3) brightness(0.85); }
+}
+:root[data-theme="dark"] #map .leaflet-tile-pane { filter: invert(1) hue-rotate(180deg) saturate(0.3) brightness(0.85); }
+.mapnote { color: var(--muted); font-size: 13px; margin: 8px 0 0; }
+.leaflet-popup-content-wrapper, .leaflet-popup-tip { background: var(--surface); color: var(--text); }
+.leaflet-popup-content { margin: 12px 14px; font: 14px/1.45 Inter, system-ui, sans-serif; }
+.pop h3 { margin: 0 0 4px; font-size: 15px; }
+.pop h3 a { color: var(--text); }
+.pop p { margin: 0 0 6px; color: var(--muted); }
+.pop .tags { margin-top: 6px; }
+.marker-cluster-small, .marker-cluster-medium, .marker-cluster-large { background-color: color-mix(in srgb, var(--accent) 25%, transparent); }
+.marker-cluster-small div, .marker-cluster-medium div, .marker-cluster-large div { background-color: var(--accent); color: #fff; font-weight: 600; }
+.dot { width: 14px; height: 14px; border-radius: 50%; background: var(--accent); border: 2px solid var(--surface); box-shadow: 0 0 0 1px var(--accent); }
+.dot.hiring { background: var(--ok); box-shadow: 0 0 0 1px var(--ok); }
 .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 12px; padding-bottom: 32px; }
 .card {
   background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius);

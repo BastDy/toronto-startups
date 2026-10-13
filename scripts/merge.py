@@ -16,6 +16,33 @@ def name_key(name):
     return re.sub(r"(inc|ltd|corp|technologies|technology|labs|ai|hq)$", "", n) or n
 
 
+def apply_geo(merged):
+    """Apply wave-2a geo-check results (data/geo/*.out.json), keyed by candidate id.
+
+    keep   -> set city (+ website/domain if missing), note the evidence
+    drop   -> remove from candidates, kept in data/dropped.json for audit
+    unclear-> leave as is
+    """
+    dropped = []
+    for path in sorted((ROOT / "data" / "geo").glob("*.out.json")):
+        for g in json.loads(path.read_text(encoding="utf-8")):
+            r = merged.get(g.get("id"))
+            if r is None:
+                continue
+            if g.get("decision") == "drop":
+                r["notes"] = f"Dropped: {g.get('evidence')}"
+                dropped.append(merged.pop(g["id"]))
+            elif g.get("decision") == "keep" and city_in_gta(g.get("city")):
+                r["city"] = g["city"]
+                if not r.get("website") and g.get("website"):
+                    r["website"] = g["website"]
+                    r["domain"] = normalize_domain(g["website"])
+                r["notes"] = f"GTA confirmed: {g.get('evidence')}"
+    if dropped:
+        print(f"geo-check: {len(dropped)} dropped")
+    return dropped
+
+
 def main():
     merged = {}
     name_index = {}
@@ -62,9 +89,13 @@ def main():
         report.append((source, len(rows), kept, outside))
 
     for key, r in merged.items():
+        r["id"] = key
         r["found_in"] = sorted(seen_by[key])
+
+    dropped = apply_geo(merged)
     out = sorted(merged.values(), key=lambda r: r["name"].lower())
     write_json(ROOT / "data" / "candidates.json", out)
+    write_json(ROOT / "data" / "dropped.json", sorted(dropped, key=lambda r: r["name"].lower()))
 
     print(f"{'source':28} {'rows':>5} {'kept':>5} {'outGTA':>6}")
     for line in report:

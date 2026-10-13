@@ -1,0 +1,532 @@
+[
+ {
+  "id": "name:noderu",
+  "name": "noderu",
+  "website": null,
+  "domain": null,
+  "description": null,
+  "notes": "GTA unconfirmed: Next 36 2020. No website in directory, domain not guessed.",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/?program=next-36"
+  ]
+ },
+ {
+  "id": "noleak.io",
+  "name": "NoLeak Defence",
+  "website": "https://www.noleak.io",
+  "domain": "noleak.io",
+  "description": null,
+  "notes": "GTA unconfirmed: NextAI Toronto 2020",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/"
+  ]
+ },
+ {
+  "id": "name:notch",
+  "name": "Notch",
+  "website": null,
+  "domain": null,
+  "description": null,
+  "notes": "GTA unconfirmed: Golden Ventures portfolio, region label \"Toronto & Waterloo\"",
+  "sources": [
+   "https://golden.ventures/portfolio"
+  ]
+ },
+ {
+  "id": "name:nuportrobotics",
+  "name": "NuPort Robotics",
+  "website": null,
+  "domain": null,
+  "description": null,
+  "notes": "GTA unconfirmed: NextAI Toronto 2019. No website in directory, domain not guessed.",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/"
+  ]
+ },
+ {
+  "id": "octaura.com",
+  "name": "Octaura",
+  "website": "https://octaura.com",
+  "domain": "octaura.com",
+  "description": null,
+  "notes": "GTA unconfirmed: OMERS portfolio. No search result.",
+  "sources": [
+   "https://omersventures.com/companies"
+  ]
+ },
+ {
+  "id": "name:odysseyinteractive",
+  "name": "Odyssey Interactive",
+  "website": null,
+  "domain": null,
+  "description": null,
+  "notes": "GTA unconfirmed: Golden Ventures portfolio, region label \"Toronto & Waterloo\"",
+  "sources": [
+   "https://golden.ventures/portfolio"
+  ]
+ },
+ {
+  "id": "ohanna.ai",
+  "name": "Ohanna",
+  "website": "https://ohanna.ai",
+  "domain": "ohanna.ai",
+  "description": null,
+  "notes": "GTA unconfirmed: NextAI Toronto 2022",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/"
+  ]
+ },
+ {
+  "id": "ondeck.fish",
+  "name": "OnDeck Fisheries AI",
+  "website": "https://www.ondeck.fish/",
+  "domain": "ondeck.fish",
+  "description": null,
+  "notes": "GTA unconfirmed: NextAI Toronto 2024",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/"
+  ]
+ },
+ {
+  "id": "name:one",
+  "name": "One AI",
+  "website": null,
+  "domain": null,
+  "description": null,
+  "notes": "GTA unconfirmed: Golden Ventures portfolio, region label \"Toronto & Waterloo\"",
+  "sources": [
+   "https://golden.ventures/portfolio"
+  ]
+ },
+ {
+  "id": "opaliafoods.com",
+  "name": "Opalia",
+  "website": "https://www.opaliafoods.com/",
+  "domain": "opaliafoods.com",
+  "description": null,
+  "notes": "GTA unconfirmed: featured on https://www.marsdd.com/connect/ (MaRS Connect logo strip).",
+  "sources": [
+   "https://www.marsdd.com/connect/"
+  ]
+ },
+ {
+  "id": "opensesame.dev",
+  "name": "OpenSesame",
+  "website": "https://www.opensesame.dev/",
+  "domain": "opensesame.dev",
+  "description": null,
+  "notes": "GTA unconfirmed: Next 36 2024",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/?program=next-36"
+  ]
+ },
+ {
+  "id": "operantai.com",
+  "name": "Operant.ai",
+  "website": "https://operantai.com/",
+  "domain": "operantai.com",
+  "description": null,
+  "notes": "GTA unconfirmed: NextAI Toronto 2017",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/"
+  ]
+ },
+ {
+  "id": "origami-xr.com",
+  "name": "Origami XR",
+  "website": "https://www.origami-xr.com",
+  "domain": "origami-xr.com",
+  "description": null,
+  "notes": "GTA unconfirmed: NextAI Toronto 2020",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/"
+  ]
+ },
+ {
+  "id": "name:ourpass",
+  "name": "OurPass",
+  "website": null,
+  "domain": null,
+  "description": null,
+  "notes": "GTA unconfirmed: Techstars Toronto 2021 cohort. Seedtable describes as Nigerian (not an HQ statement). Founded 2020 per Technext. Website not given, domain unknown.",
+  "sources": [
+   "https://seedtable.com/investors/techstars/batch/class-273-toronto-2021-t6",
+   "https://technext.ng/2021/10/21/meet-the-8-african-startups-selected-for-techstars-toronto-october-2021-batch/"
+  ]
+ },
+ {
+  "id": "outlaunch.co",
+  "name": "OutLaunch",
+  "website": "https://outlaunch.co/",
+  "domain": "outlaunch.co",
+  "description": null,
+  "notes": "GTA unconfirmed: Next 36 2020",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/?program=next-36"
+  ]
+ },
+ {
+  "id": "name:oval",
+  "name": "Oval",
+  "website": null,
+  "domain": null,
+  "description": null,
+  "notes": "GTA unconfirmed: Techstars Toronto 2023 summer cohort. Described as Nigerian (not an HQ statement). Website not given, domain unknown.",
+  "sources": [
+   "https://techpoint.africa/2023/09/29/3-nigerian-startups-makes-up-techstars-toronto-cohort-as-it-makes-its-100th-investment-in-6-years/"
+  ]
+ },
+ {
+  "id": "ownright.com",
+  "name": "Ownright",
+  "website": "https://ownright.com/",
+  "domain": "ownright.com",
+  "description": null,
+  "notes": "GTA unconfirmed: Relay portfolio. Built In lists location as Canada, remote workspace; no city.",
+  "sources": [
+   "https://relay.vc/portfolio"
+  ]
+ },
+ {
+  "id": "name:passage",
+  "name": "Passage",
+  "website": null,
+  "domain": null,
+  "description": null,
+  "notes": "GTA unconfirmed: Golden Ventures portfolio, region label \"Toronto & Waterloo\"",
+  "sources": [
+   "https://golden.ventures/portfolio"
+  ]
+ },
+ {
+  "id": "name:pawmery",
+  "name": "Pawmery",
+  "website": null,
+  "domain": null,
+  "description": null,
+  "notes": "GTA unconfirmed: Next 36 2022. No website or founders in directory.",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/?program=next-36"
+  ]
+ },
+ {
+  "id": "name:payfi",
+  "name": "Payfi",
+  "website": null,
+  "domain": null,
+  "description": null,
+  "notes": "GTA unconfirmed: Techstars Toronto 2023 summer cohort. Described as Nigerian (not an HQ statement). Website not given, domain unknown.",
+  "sources": [
+   "https://techpoint.africa/2023/09/29/3-nigerian-startups-makes-up-techstars-toronto-cohort-as-it-makes-its-100th-investment-in-6-years/"
+  ]
+ },
+ {
+  "id": "name:pcdocs",
+  "name": "PC DOCS",
+  "website": null,
+  "domain": null,
+  "description": "Document management systems for enterprise networks",
+  "notes": "GTA unconfirmed: Whitecap portfolio. No website on portfolio page. Pre-1999 HQ not found. Acquired by Hummingbird (Toronto HQ) in 1999.",
+  "sources": [
+   "https://whitecapvp.com/portfolio"
+  ]
+ },
+ {
+  "id": "name:pibox",
+  "name": "Pibox",
+  "website": null,
+  "domain": null,
+  "description": "Creative-industry company founded by two brothers, Ivan and Pavlo Talaychuk.",
+  "notes": "GTA unconfirmed: Techstars Toronto 2021 cohort (October batch). Seedtable location conflicts with company's own description (listed as Dover, US). Website not given, domain unknown.",
+  "sources": [
+   "https://www.techstars.com/newsroom/midterm-report-techstars-torontos-second-2021-class",
+   "https://seedtable.com/investors/techstars/batch/class-273-toronto-2021-t6"
+  ]
+ },
+ {
+  "id": "pilotplans.com",
+  "name": "Pilot",
+  "website": "https://www.pilotplans.com/",
+  "domain": "pilotplans.com",
+  "description": null,
+  "notes": "GTA unconfirmed: Next 36 2020",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/?program=next-36"
+  ]
+ },
+ {
+  "id": "name:pinkbot",
+  "name": "Pink Bot",
+  "website": null,
+  "domain": null,
+  "description": null,
+  "notes": "GTA unconfirmed: Golden Ventures portfolio, region label \"Toronto & Waterloo\"",
+  "sources": [
+   "https://golden.ventures/portfolio"
+  ]
+ },
+ {
+  "id": "name:plooto",
+  "name": "Plooto",
+  "website": null,
+  "domain": null,
+  "description": null,
+  "notes": "GTA unconfirmed: Golden Ventures portfolio, region label \"Toronto & Waterloo\"",
+  "sources": [
+   "https://golden.ventures/portfolio"
+  ]
+ },
+ {
+  "id": "mypolycy.com",
+  "name": "Polycy",
+  "website": "https://www.mypolycy.com/",
+  "domain": "mypolycy.com",
+  "description": null,
+  "notes": "GTA unconfirmed: Next 36 2023",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/?program=next-36"
+  ]
+ },
+ {
+  "id": "name:poweredbypeople",
+  "name": "Powered By People",
+  "website": null,
+  "domain": null,
+  "description": null,
+  "notes": "GTA unconfirmed: Golden Ventures portfolio, region label \"Toronto & Waterloo\"",
+  "sources": [
+   "https://golden.ventures/portfolio"
+  ]
+ },
+ {
+  "id": "pressbox.studio",
+  "name": "PressBox",
+  "website": "https://pressbox.studio/",
+  "domain": "pressbox.studio",
+  "description": null,
+  "notes": "GTA unconfirmed: Relay portfolio. Search returned several unrelated PressBox companies; none matched pressbox.studio.",
+  "sources": [
+   "https://relay.vc/portfolio"
+  ]
+ },
+ {
+  "id": "private-ai.ca",
+  "name": "Private AI",
+  "website": "https://www.private-ai.ca",
+  "domain": "private-ai.ca",
+  "description": null,
+  "notes": "GTA unconfirmed: NextAI Toronto 2020",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/"
+  ]
+ },
+ {
+  "id": "promedai.ca",
+  "name": "Promed AI",
+  "website": "https://promedai.ca/",
+  "domain": "promedai.ca",
+  "description": null,
+  "notes": "GTA unconfirmed: NextAI Toronto 2024",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/"
+  ]
+ },
+ {
+  "id": "askpromptly.ai",
+  "name": "Promptly",
+  "website": "https://askpromptly.ai",
+  "domain": "askpromptly.ai",
+  "description": null,
+  "notes": "GTA unconfirmed: Next 36 2023",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/?program=next-36"
+  ]
+ },
+ {
+  "id": "name:properly",
+  "name": "Properly",
+  "website": null,
+  "domain": null,
+  "description": null,
+  "notes": "GTA unconfirmed: Golden Ventures portfolio, region label \"Toronto & Waterloo\"",
+  "sources": [
+   "https://golden.ventures/portfolio"
+  ]
+ },
+ {
+  "id": "prosperea.com",
+  "name": "Prosperea",
+  "website": "https://prosperea.com/",
+  "domain": "prosperea.com",
+  "description": null,
+  "notes": "GTA unconfirmed: Next 36 2020",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/?program=next-36"
+  ]
+ },
+ {
+  "id": "name:proteinqure",
+  "name": "ProteinQure",
+  "website": null,
+  "domain": null,
+  "description": null,
+  "notes": "GTA unconfirmed: Golden Ventures portfolio, region label \"Toronto & Waterloo\"",
+  "sources": [
+   "https://golden.ventures/portfolio"
+  ]
+ },
+ {
+  "id": "tryquanto.com",
+  "name": "Quanto (formerly Your Legacy)",
+  "website": "https://www.tryquanto.com/",
+  "domain": "tryquanto.com",
+  "description": null,
+  "notes": "GTA unconfirmed: Next 36 2024",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/?program=next-36"
+  ]
+ },
+ {
+  "id": "retopologize.com",
+  "name": "Quantoflow",
+  "website": "https://www.retopologize.com/",
+  "domain": "retopologize.com",
+  "description": null,
+  "notes": "GTA unconfirmed: Next 36 2024. Directory website domain differs from company name.",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/?program=next-36"
+  ]
+ },
+ {
+  "id": "name:ralux",
+  "name": "Ralux",
+  "website": null,
+  "domain": null,
+  "description": null,
+  "notes": "GTA unconfirmed: Next 36 2020. No website in directory, domain not guessed.",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/?program=next-36"
+  ]
+ },
+ {
+  "id": "name:rebel",
+  "name": "Rebel",
+  "website": null,
+  "domain": null,
+  "description": null,
+  "notes": "GTA unconfirmed: Golden Ventures portfolio, region label \"Toronto & Waterloo\"",
+  "sources": [
+   "https://golden.ventures/portfolio"
+  ]
+ },
+ {
+  "id": "name:rebelstork",
+  "name": "Rebelstork",
+  "website": null,
+  "domain": null,
+  "description": null,
+  "notes": "GTA unconfirmed: listed on Seedtable best startups in Toronto (search snippet only, page returned 403).",
+  "sources": [
+   "https://www.seedtable.com/best-startups-in-toronto"
+  ]
+ },
+ {
+  "id": "name:reblink",
+  "name": "ReBlink",
+  "website": null,
+  "domain": null,
+  "description": null,
+  "notes": "GTA unconfirmed: Golden Ventures portfolio, region label \"Toronto & Waterloo\"",
+  "sources": [
+   "https://golden.ventures/portfolio"
+  ]
+ },
+ {
+  "id": "name:reeple",
+  "name": "Reeple.ai",
+  "website": null,
+  "domain": null,
+  "description": null,
+  "notes": "GTA unconfirmed: Techstars Toronto 2023 summer cohort. Described as Nigerian (not an HQ statement). Website not given, domain unknown.",
+  "sources": [
+   "https://techpoint.africa/2023/09/29/3-nigerian-startups-makes-up-techstars-toronto-cohort-as-it-makes-its-100th-investment-in-6-years/"
+  ]
+ },
+ {
+  "id": "name:refern",
+  "name": "reFern",
+  "website": null,
+  "domain": null,
+  "description": null,
+  "notes": "GTA unconfirmed: Next 36 2024. No website in directory, domain not guessed.",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/?program=next-36"
+  ]
+ },
+ {
+  "id": "name:renda",
+  "name": "Renda",
+  "website": null,
+  "domain": null,
+  "description": "Logistics infrastructure helping e-commerce businesses process large order volumes across Africa.",
+  "notes": "GTA unconfirmed: Techstars Toronto 2022 Winter cohort. HQ not stated in source. Website not given, domain unknown.",
+  "sources": [
+   "https://techpoint.africa/2022/12/15/techstars-toronto-winter-2022"
+  ]
+ },
+ {
+  "id": "name:rentsmallsmall",
+  "name": "Rent Small Small",
+  "website": null,
+  "domain": null,
+  "description": "Nigerian property technology startup.",
+  "notes": "GTA unconfirmed: Techstars Toronto 2021 cohort. Described as Nigerian (not an HQ statement). Website not given, domain unknown.",
+  "sources": [
+   "https://technext.ng/2021/10/21/meet-the-8-african-startups-selected-for-techstars-toronto-october-2021-batch/"
+  ]
+ },
+ {
+  "id": "resi.co.uk",
+  "name": "Resi",
+  "website": "https://resi.co.uk",
+  "domain": "resi.co.uk",
+  "description": null,
+  "notes": "GTA unconfirmed: OMERS portfolio. Search returned several unrelated Resi companies; resi.co.uk not matched.",
+  "sources": [
+   "https://omersventures.com/companies"
+  ]
+ },
+ {
+  "id": "name:resq",
+  "name": "ResQ",
+  "website": null,
+  "domain": null,
+  "description": "SaaS-enabled marketplace connecting restaurant operators with on-demand repair and maintenance providers.",
+  "notes": "GTA unconfirmed: Golden Ventures portfolio, region label \"Toronto & Waterloo\"",
+  "sources": [
+   "https://golden.ventures/portfolio"
+  ]
+ },
+ {
+  "id": "name:retispec",
+  "name": "RetiSpec",
+  "website": null,
+  "domain": null,
+  "description": null,
+  "notes": "GTA unconfirmed: featured on https://www.marsdd.com/research-and-insights/how-retispec-wrote-its-own-success-story/ . Domain unknown, not guessed.",
+  "sources": [
+   "https://www.marsdd.com/research-and-insights/how-retispec-wrote-its-own-success-story/"
+  ]
+ },
+ {
+  "id": "revela.io",
+  "name": "Revela Systems Inc.",
+  "website": "https://www.revela.io",
+  "domain": "revela.io",
+  "description": null,
+  "notes": "GTA unconfirmed: NextAI Toronto 2023",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/"
+  ]
+ }
+]

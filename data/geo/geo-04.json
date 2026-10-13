@@ -1,0 +1,533 @@
+[
+ {
+  "id": "inter-val.ai",
+  "name": "interVal",
+  "website": "https://www.inter-val.ai/",
+  "domain": "inter-val.ai",
+  "description": null,
+  "notes": "GTA unconfirmed: NextAI Toronto 2024",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/"
+  ]
+ },
+ {
+  "id": "intuitiveai.ca",
+  "name": "Intuitive",
+  "website": "https://intuitiveai.ca/",
+  "domain": "intuitiveai.ca",
+  "description": null,
+  "notes": "GTA unconfirmed: NextAI Toronto 2017",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/"
+  ]
+ },
+ {
+  "id": "name:jiffy",
+  "name": "Jiffy",
+  "website": null,
+  "domain": null,
+  "description": null,
+  "notes": "GTA unconfirmed: Golden Ventures portfolio, region label \"Toronto & Waterloo\"",
+  "sources": [
+   "https://golden.ventures/portfolio"
+  ]
+ },
+ {
+  "id": "joinjobby.com",
+  "name": "Jobby",
+  "website": "https://www.joinjobby.com",
+  "domain": "joinjobby.com",
+  "description": null,
+  "notes": "GTA unconfirmed: Next 36 2022",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/?program=next-36"
+  ]
+ },
+ {
+  "id": "name:joist",
+  "name": "Joist",
+  "website": null,
+  "domain": null,
+  "description": null,
+  "notes": "GTA unconfirmed: Golden Ventures portfolio, region label \"Toronto & Waterloo\"",
+  "sources": [
+   "https://golden.ventures/portfolio"
+  ]
+ },
+ {
+  "id": "kitchco.ca",
+  "name": "KitchCo",
+  "website": "https://kitchco.ca",
+  "domain": "kitchco.ca",
+  "description": null,
+  "notes": "GTA unconfirmed: Next 36 2020",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/?program=next-36"
+  ]
+ },
+ {
+  "id": "kitchenmate.com",
+  "name": "KitchenMate",
+  "website": "https://kitchenmate.com",
+  "domain": "kitchenmate.com",
+  "description": "Automates cooking meal kits for busy workplace professionals.",
+  "notes": "GTA unconfirmed: Techstars Toronto 2018 cohort. HQ not stated in source.",
+  "sources": [
+   "https://brainstation.io/magazine/techstars-toronto-first-cohort-spans-five-countries-and-six-industries",
+   "https://betakit.com/techstars-announces-first-cohort-for-toronto-accelerator/"
+  ]
+ },
+ {
+  "id": "koat.ai",
+  "name": "Koat.ai",
+  "website": "https://koat.ai/",
+  "domain": "koat.ai",
+  "description": null,
+  "notes": "GTA unconfirmed: NextAI Toronto 2024",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/"
+  ]
+ },
+ {
+  "id": "konaerosystems.com",
+  "name": "Kon Aerosystems",
+  "website": "https://www.konaerosystems.com/",
+  "domain": "konaerosystems.com",
+  "description": null,
+  "notes": "GTA unconfirmed: Next 36 2024",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/?program=next-36"
+  ]
+ },
+ {
+  "id": "name:koomi",
+  "name": "Koomi",
+  "website": null,
+  "domain": null,
+  "description": "Point-of-sale system for line-ups, takeaway and on-the-go orders.",
+  "notes": "GTA unconfirmed: Techstars Toronto 2019 cohort. HQ not stated in source. Website not given, domain unknown.",
+  "sources": [
+   "https://brainstation.io/magazine/a-deep-look-into-the-2019-techstars-toronto-class"
+  ]
+ },
+ {
+  "id": "name:kora",
+  "name": "Kora",
+  "website": null,
+  "domain": null,
+  "description": "Cross-border payments into, out of and within Africa.",
+  "notes": "GTA unconfirmed: Techstars Toronto 2019 cohort. HQ not stated in source. Website not given, domain unknown.",
+  "sources": [
+   "https://brainstation.io/magazine/a-deep-look-into-the-2019-techstars-toronto-class"
+  ]
+ },
+ {
+  "id": "name:laborhack",
+  "name": "LaborHack",
+  "website": null,
+  "domain": null,
+  "description": "Nigerian marketplace connecting artisans to certifications and jobs, with payments, savings, micro credit and micro health insurance.",
+  "notes": "GTA unconfirmed: Techstars Toronto 2022 Winter cohort. Described as Nigerian (not an HQ statement). Website not given, domain unknown.",
+  "sources": [
+   "https://techpoint.africa/2022/12/15/techstars-toronto-winter-2022"
+  ]
+ },
+ {
+  "id": "name:lenco",
+  "name": "Lenco",
+  "website": null,
+  "domain": null,
+  "description": null,
+  "notes": "GTA unconfirmed: Techstars Toronto 2021 cohort. Seedtable describes as Nigerian (not an HQ statement). Website not given, domain unknown.",
+  "sources": [
+   "https://seedtable.com/investors/techstars/batch/class-273-toronto-2021-t6"
+  ]
+ },
+ {
+  "id": "lick.com",
+  "name": "Lick",
+  "website": "https://www.lick.com/uk",
+  "domain": "lick.com",
+  "description": null,
+  "notes": "GTA unconfirmed: OMERS portfolio. Source link is the UK site. Search returned only an unrelated Ohio home care agency. Searches were rate-limited twice.",
+  "sources": [
+   "https://omersventures.com/companies"
+  ]
+ },
+ {
+  "id": "lifeluxe.ca",
+  "name": "LifeLuxe",
+  "website": "https://www.lifeluxe.ca",
+  "domain": "lifeluxe.ca",
+  "description": null,
+  "notes": "GTA unconfirmed: Next 36 2020",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/?program=next-36"
+  ]
+ },
+ {
+  "id": "lilasolution.com",
+  "name": "Lila Solution",
+  "website": "https://www.lilasolution.com/",
+  "domain": "lilasolution.com",
+  "description": null,
+  "notes": "GTA unconfirmed: NextAI Toronto 2023",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/"
+  ]
+ },
+ {
+  "id": "name:localengine",
+  "name": "LocalEngine",
+  "website": null,
+  "domain": null,
+  "description": null,
+  "notes": "GTA unconfirmed: Golden Ventures portfolio, region label \"Toronto & Waterloo\"",
+  "sources": [
+   "https://golden.ventures/portfolio"
+  ]
+ },
+ {
+  "id": "thelucidproject.ca",
+  "name": "LUCID",
+  "website": "https://www.thelucidproject.ca",
+  "domain": "thelucidproject.ca",
+  "description": null,
+  "notes": "GTA unconfirmed: NextAI Toronto 2020",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/"
+  ]
+ },
+ {
+  "id": "name:lumeto",
+  "name": "Lumeto",
+  "website": null,
+  "domain": null,
+  "description": null,
+  "notes": "GTA unconfirmed: Golden Ventures portfolio, region label \"Toronto & Waterloo\"",
+  "sources": [
+   "https://golden.ventures/portfolio"
+  ]
+ },
+ {
+  "id": "lumierevr.com",
+  "name": "LumiereVR",
+  "website": "https://lumierevr.com",
+  "domain": "lumierevr.com",
+  "description": "Virtual reality company focused on cinematic VR experiences.",
+  "notes": "GTA unconfirmed: Techstars Toronto 2018 cohort. HQ not stated in source.",
+  "sources": [
+   "https://brainstation.io/magazine/techstars-toronto-first-cohort-spans-five-countries-and-six-industries",
+   "https://betakit.com/techstars-announces-first-cohort-for-toronto-accelerator/"
+  ]
+ },
+ {
+  "id": "lunavoy.com",
+  "name": "Lunavoy Inc.",
+  "website": "https://lunavoy.com/travel-with-lunavoy/",
+  "domain": "lunavoy.com",
+  "description": null,
+  "notes": "GTA unconfirmed: Next 36 2020",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/?program=next-36"
+  ]
+ },
+ {
+  "id": "name:madlipz",
+  "name": "Madlipz",
+  "website": null,
+  "domain": null,
+  "description": "Dubbing and singing app with over 35 million lifetime users in more than 100 countries.",
+  "notes": "GTA unconfirmed: Techstars Toronto 2019 cohort. HQ not stated in source. Website not given, domain unknown.",
+  "sources": [
+   "https://brainstation.io/magazine/a-deep-look-into-the-2019-techstars-toronto-class"
+  ]
+ },
+ {
+  "id": "maneva.ai",
+  "name": "Maneva",
+  "website": "https://www.maneva.ai/",
+  "domain": "maneva.ai",
+  "description": null,
+  "notes": "GTA unconfirmed: NextAI Toronto 2024",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/"
+  ]
+ },
+ {
+  "id": "name:mangrove",
+  "name": "Mangrove",
+  "website": null,
+  "domain": null,
+  "description": null,
+  "notes": "GTA unconfirmed: Golden Ventures portfolio, region label \"Toronto & Waterloo\"",
+  "sources": [
+   "https://golden.ventures/portfolio"
+  ]
+ },
+ {
+  "id": "name:manifestclimate",
+  "name": "Manifest Climate",
+  "website": null,
+  "domain": null,
+  "description": null,
+  "notes": "GTA unconfirmed: Golden Ventures portfolio, region label \"Toronto & Waterloo\"",
+  "sources": [
+   "https://golden.ventures/portfolio"
+  ]
+ },
+ {
+  "id": "manifold.co",
+  "name": "Manifold",
+  "website": "https://manifold.co",
+  "domain": "manifold.co",
+  "description": null,
+  "notes": "GTA unconfirmed: OMERS portfolio. No company found at manifold.co; several unrelated Manifold companies returned.",
+  "sources": [
+   "https://omersventures.com/companies"
+  ]
+ },
+ {
+  "id": "withmantle.com",
+  "name": "Mantle",
+  "website": "https://withmantle.com/",
+  "domain": "withmantle.com",
+  "description": null,
+  "notes": "GTA unconfirmed: Relay portfolio. No result for withmantle; search returned unrelated Mantle companies.",
+  "sources": [
+   "https://relay.vc/portfolio"
+  ]
+ },
+ {
+  "id": "name:marble",
+  "name": "Marble",
+  "website": null,
+  "domain": null,
+  "description": null,
+  "notes": "GTA unconfirmed: Golden Ventures portfolio, region label \"Toronto & Waterloo\"",
+  "sources": [
+   "https://golden.ventures/portfolio"
+  ]
+ },
+ {
+  "id": "matic.health",
+  "name": "Matic Health",
+  "website": "https://matic.health/",
+  "domain": "matic.health",
+  "description": null,
+  "notes": "GTA unconfirmed: Next 36 2023",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/?program=next-36"
+  ]
+ },
+ {
+  "id": "name:matr",
+  "name": "MATR",
+  "website": null,
+  "domain": null,
+  "description": null,
+  "notes": "GTA unconfirmed: NextAI Toronto 2019. No website in directory, domain not guessed.",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/"
+  ]
+ },
+ {
+  "id": "name:micromart",
+  "name": "Micromart",
+  "website": null,
+  "domain": null,
+  "description": null,
+  "notes": "GTA unconfirmed: Golden Ventures portfolio, region label \"Toronto & Waterloo\"",
+  "sources": [
+   "https://golden.ventures/portfolio"
+  ]
+ },
+ {
+  "id": "minervaai.io",
+  "name": "MinervaAI",
+  "website": "https://www.minervaai.io",
+  "domain": "minervaai.io",
+  "description": null,
+  "notes": "GTA unconfirmed: NextAI Toronto 2020",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/",
+   "https://golden.ventures/portfolio"
+  ]
+ },
+ {
+  "id": "name:moment",
+  "name": "Moment",
+  "website": null,
+  "domain": null,
+  "description": null,
+  "notes": "GTA unconfirmed: Next 36 2020. No website in directory, domain not guessed.",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/?program=next-36"
+  ]
+ },
+ {
+  "id": "monolog.io",
+  "name": "Monolog",
+  "website": "https://monolog.io",
+  "domain": "monolog.io",
+  "description": null,
+  "notes": "GTA unconfirmed: Next 36 2020",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/?program=next-36"
+  ]
+ },
+ {
+  "id": "name:moregidge",
+  "name": "Moregidge",
+  "website": null,
+  "domain": null,
+  "description": "Tools for mortgage brokers, realtors, appraisers and solicitors.",
+  "notes": "GTA unconfirmed: Techstars Toronto 2019 cohort. HQ not stated in source. Website not given, domain unknown.",
+  "sources": [
+   "https://brainstation.io/magazine/a-deep-look-into-the-2019-techstars-toronto-class"
+  ]
+ },
+ {
+  "id": "morphace.com",
+  "name": "Morphace",
+  "website": "https://www.morphace.com",
+  "domain": "morphace.com",
+  "description": null,
+  "notes": "GTA unconfirmed: Next 36 2023",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/?program=next-36"
+  ]
+ },
+ {
+  "id": "moselle.io",
+  "name": "Moselle",
+  "website": "https://moselle.io/",
+  "domain": "moselle.io",
+  "description": null,
+  "notes": "GTA unconfirmed: featured on https://www.marsdd.com/connect/ (MaRS Connect logo strip).",
+  "sources": [
+   "https://www.marsdd.com/connect/"
+  ]
+ },
+ {
+  "id": "name:motion",
+  "name": "Motion",
+  "website": null,
+  "domain": null,
+  "description": null,
+  "notes": "GTA unconfirmed: listed on Seedtable best startups in Toronto (search snippet only, page returned 403).",
+  "sources": [
+   "https://www.seedtable.com/best-startups-in-toronto"
+  ]
+ },
+ {
+  "id": "movarts.com",
+  "name": "MoVA Realities",
+  "website": "https://www.movarts.com/",
+  "domain": "movarts.com",
+  "description": null,
+  "notes": "GTA unconfirmed: Next 36 2024",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/?program=next-36"
+  ]
+ },
+ {
+  "id": "multiversecomputing.com",
+  "name": "Multiverse",
+  "website": "https://multiversecomputing.com/",
+  "domain": "multiversecomputing.com",
+  "description": null,
+  "notes": "GTA unconfirmed: featured on https://www.marsdd.com/connect/ (MaRS Connect logo strip).",
+  "sources": [
+   "https://www.marsdd.com/connect/"
+  ]
+ },
+ {
+  "id": "mutuohealth.com",
+  "name": "Mutuo Health Solutions",
+  "website": "https://mutuohealth.com",
+  "domain": "mutuohealth.com",
+  "description": null,
+  "notes": "GTA unconfirmed: NextAI Toronto 2023",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/"
+  ]
+ },
+ {
+  "id": "mydormstore.ca",
+  "name": "My Dorm Store",
+  "website": "https://www.mydormstore.ca",
+  "domain": "mydormstore.ca",
+  "description": null,
+  "notes": "GTA unconfirmed: Next 36 2024",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/?program=next-36"
+  ]
+ },
+ {
+  "id": "naamastudios.com",
+  "name": "NAAMA Studios",
+  "website": "https://www.naamastudios.com/en-gb",
+  "domain": "naamastudios.com",
+  "description": null,
+  "notes": "GTA unconfirmed: OMERS portfolio. No search result.",
+  "sources": [
+   "https://omersventures.com/companies"
+  ]
+ },
+ {
+  "id": "nestbox.ai",
+  "name": "Nestbox.ai",
+  "website": "https://nestbox.ai",
+  "domain": "nestbox.ai",
+  "description": null,
+  "notes": "GTA unconfirmed: NextAI Toronto 2023",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/"
+  ]
+ },
+ {
+  "id": "neuralir.com",
+  "name": "neuralIR",
+  "website": "http://www.neuralir.com/",
+  "domain": "neuralir.com",
+  "description": null,
+  "notes": "GTA unconfirmed: NextAI Toronto 2017",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/"
+  ]
+ },
+ {
+  "id": "neuravue.com",
+  "name": "NeuraVue Ltd.",
+  "website": "https://www.neuravue.com/",
+  "domain": "neuravue.com",
+  "description": null,
+  "notes": "GTA unconfirmed: NextAI Toronto 2024",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/"
+  ]
+ },
+ {
+  "id": "newschoolfoods.co",
+  "name": "New School Foods",
+  "website": "https://www.newschoolfoods.co/",
+  "domain": "newschoolfoods.co",
+  "description": null,
+  "notes": "GTA unconfirmed: featured on https://www.marsdd.com/connect/ (MaRS Connect logo strip).",
+  "sources": [
+   "https://www.marsdd.com/connect/"
+  ]
+ },
+ {
+  "id": "name:nmbr",
+  "name": "NMBR",
+  "website": null,
+  "domain": null,
+  "description": null,
+  "notes": "GTA unconfirmed: Golden Ventures portfolio, region label \"Toronto & Waterloo\"",
+  "sources": [
+   "https://golden.ventures/portfolio"
+  ]
+ }
+]

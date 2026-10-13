@@ -1,0 +1,530 @@
+[
+ {
+  "id": "name:401",
+  "name": "401 Labs",
+  "website": null,
+  "domain": null,
+  "description": null,
+  "notes": "GTA unconfirmed: NextAI Toronto 2019. No website in directory, domain not guessed.",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/"
+  ]
+ },
+ {
+  "id": "4fivelabs.com",
+  "name": "4FiveLabs",
+  "website": "https://4fivelabs.com/",
+  "domain": "4fivelabs.com",
+  "description": null,
+  "notes": "GTA unconfirmed: NextAI Toronto 2019",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/"
+  ]
+ },
+ {
+  "id": "aceinterviewprep.ca",
+  "name": "Ace",
+  "website": "https://aceinterviewprep.ca",
+  "domain": "aceinterviewprep.ca",
+  "description": null,
+  "notes": "GTA unconfirmed: Next 36 2020",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/?program=next-36"
+  ]
+ },
+ {
+  "id": "acerta.ca",
+  "name": "Acerta",
+  "website": "https://acerta.ca",
+  "domain": "acerta.ca",
+  "description": null,
+  "notes": "GTA unconfirmed: OMERS portfolio. Search results were for several unrelated companies named Acerta.",
+  "sources": [
+   "https://omersventures.com/companies"
+  ]
+ },
+ {
+  "id": "name:adauris",
+  "name": "Ad Auris",
+  "website": null,
+  "domain": null,
+  "description": null,
+  "notes": "GTA unconfirmed: Next 36 2020. No website in directory, domain not guessed.",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/?program=next-36"
+  ]
+ },
+ {
+  "id": "name:adhoc",
+  "name": "Adhoc",
+  "website": null,
+  "domain": null,
+  "description": null,
+  "notes": "GTA unconfirmed: Golden Ventures portfolio, region label \"Toronto & Waterloo\"",
+  "sources": [
+   "https://golden.ventures/portfolio"
+  ]
+ },
+ {
+  "id": "admass.io",
+  "name": "AdMass (acquired by Sampler)",
+  "website": "https://admass.io/",
+  "domain": "admass.io",
+  "description": null,
+  "notes": "GTA unconfirmed: NextAI Toronto 2023. Directory says acquired by Sampler.",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/"
+  ]
+ },
+ {
+  "id": "aerialytic.com",
+  "name": "Aerialytic",
+  "website": "https://www.aerialytic.com/",
+  "domain": "aerialytic.com",
+  "description": null,
+  "notes": "GTA unconfirmed: NextAI Toronto 2018",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/"
+  ]
+ },
+ {
+  "id": "afaik.io",
+  "name": "AFAIK.io",
+  "website": "https://afaik.io/",
+  "domain": "afaik.io",
+  "description": null,
+  "notes": "GTA unconfirmed: NextAI Toronto 2024",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/"
+  ]
+ },
+ {
+  "id": "agrilogicai.com",
+  "name": "AgrilogicAI",
+  "website": "https://www.agrilogicai.com/",
+  "domain": "agrilogicai.com",
+  "description": null,
+  "notes": "GTA unconfirmed: NextAI Toronto 2018",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/"
+  ]
+ },
+ {
+  "id": "aivali.ca",
+  "name": "AI VALI",
+  "website": "https://www.aivali.ca/",
+  "domain": "aivali.ca",
+  "description": null,
+  "notes": "GTA unconfirmed: NextAI Toronto 2018",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/"
+  ]
+ },
+ {
+  "id": "aihello.com",
+  "name": "AiHello",
+  "website": "https://www.aihello.com",
+  "domain": "aihello.com",
+  "description": null,
+  "notes": "GTA unconfirmed: NextAI Toronto 2019",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/"
+  ]
+ },
+ {
+  "id": "allset.ca",
+  "name": "Allset",
+  "website": "https://www.allset.ca/",
+  "domain": "allset.ca",
+  "description": null,
+  "notes": "GTA unconfirmed: NextAI Toronto 2018",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/"
+  ]
+ },
+ {
+  "id": "altana.ai",
+  "name": "Altana",
+  "website": "https://altana.ai",
+  "domain": "altana.ai",
+  "description": null,
+  "notes": "GTA unconfirmed: OMERS portfolio. Search returned Altana AG (Wesel, Germany), a different company.",
+  "sources": [
+   "https://omersventures.com/companies"
+  ]
+ },
+ {
+  "id": "getamelia.co",
+  "name": "Amelia",
+  "website": "https://getamelia.co/",
+  "domain": "getamelia.co",
+  "description": null,
+  "notes": "GTA unconfirmed: Next 36 2022",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/?program=next-36"
+  ]
+ },
+ {
+  "id": "analyst3.ai",
+  "name": "Analyst3",
+  "website": "https://analyst3.ai/",
+  "domain": "analyst3.ai",
+  "description": null,
+  "notes": "GTA unconfirmed: Next 36 2024",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/?program=next-36"
+  ]
+ },
+ {
+  "id": "name:applyboard",
+  "name": "ApplyBoard",
+  "website": null,
+  "domain": null,
+  "description": null,
+  "notes": "GTA unconfirmed: Golden Ventures portfolio, region label \"Toronto & Waterloo\"",
+  "sources": [
+   "https://golden.ventures/portfolio"
+  ]
+ },
+ {
+  "id": "argenelec.com",
+  "name": "Argentum Electronics",
+  "website": "https://argenelec.com",
+  "domain": "argenelec.com",
+  "description": null,
+  "notes": "GTA unconfirmed: NextAI Toronto 2020",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/"
+  ]
+ },
+ {
+  "id": "arkangel.ai",
+  "name": "Arkangel Ai",
+  "website": "https://www.arkangel.ai",
+  "domain": "arkangel.ai",
+  "description": null,
+  "notes": "GTA unconfirmed: Next 36 2020",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/?program=next-36"
+  ]
+ },
+ {
+  "id": "name:arteria",
+  "name": "Arteria AI",
+  "website": null,
+  "domain": null,
+  "description": null,
+  "notes": "GTA unconfirmed: Golden Ventures portfolio, region label \"Toronto & Waterloo\"",
+  "sources": [
+   "https://golden.ventures/portfolio"
+  ]
+ },
+ {
+  "id": "asepha.ai",
+  "name": "Asepha",
+  "website": "https://www.asepha.ai/",
+  "domain": "asepha.ai",
+  "description": null,
+  "notes": "GTA unconfirmed: NextAI Toronto 2024",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/"
+  ]
+ },
+ {
+  "id": "assister.ai",
+  "name": "Assister.ai",
+  "website": "https://assister.ai/",
+  "domain": "assister.ai",
+  "description": null,
+  "notes": "GTA unconfirmed: NextAI Toronto 2019",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/"
+  ]
+ },
+ {
+  "id": "athenaisystems.com",
+  "name": "Athena",
+  "website": "https://www.athenaisystems.com/",
+  "domain": "athenaisystems.com",
+  "description": null,
+  "notes": "GTA unconfirmed: NextAI Toronto 2019",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/"
+  ]
+ },
+ {
+  "id": "attentivevision.com",
+  "name": "AttentiveVision",
+  "website": "https://www.attentivevision.com/",
+  "domain": "attentivevision.com",
+  "description": null,
+  "notes": "GTA unconfirmed: NextAI Toronto 2019",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/"
+  ]
+ },
+ {
+  "id": "augmentr.io",
+  "name": "Augmentr",
+  "website": "https://augmentr.io",
+  "domain": "augmentr.io",
+  "description": null,
+  "notes": "GTA unconfirmed: Next 36 2022",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/?program=next-36"
+  ]
+ },
+ {
+  "id": "name:autumn",
+  "name": "Autumn",
+  "website": null,
+  "domain": null,
+  "description": null,
+  "notes": "GTA unconfirmed: Golden Ventures portfolio, region label \"Toronto & Waterloo\"",
+  "sources": [
+   "https://golden.ventures/portfolio"
+  ]
+ },
+ {
+  "id": "name:avidbots",
+  "name": "Avidbots",
+  "website": null,
+  "domain": null,
+  "description": null,
+  "notes": "GTA unconfirmed: Golden Ventures portfolio, region label \"Toronto & Waterloo\"",
+  "sources": [
+   "https://golden.ventures/portfolio"
+  ]
+ },
+ {
+  "id": "aviewint.com",
+  "name": "Aview International",
+  "website": "https://www.aviewint.com/",
+  "domain": "aviewint.com",
+  "description": null,
+  "notes": "GTA unconfirmed: Next 36 2022",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/?program=next-36"
+  ]
+ },
+ {
+  "id": "awakeai.ca",
+  "name": "AwakeAI Inc.",
+  "website": "https://www.awakeai.ca",
+  "domain": "awakeai.ca",
+  "description": null,
+  "notes": "GTA unconfirmed: Next 36 2023",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/?program=next-36"
+  ]
+ },
+ {
+  "id": "name:ayrtonenergy",
+  "name": "Ayrton Energy",
+  "website": null,
+  "domain": null,
+  "description": null,
+  "notes": "GTA unconfirmed: featured on https://www.marsdd.com/research-and-insights/how-ayrton-energy-found-its-first-investor/ . Domain unknown, not guessed.",
+  "sources": [
+   "https://www.marsdd.com/research-and-insights/how-ayrton-energy-found-its-first-investor/"
+  ]
+ },
+ {
+  "id": "babbly.co",
+  "name": "Babbly",
+  "website": "https://www.babbly.co/",
+  "domain": "babbly.co",
+  "description": null,
+  "notes": "GTA unconfirmed: NextAI Toronto 2019",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/"
+  ]
+ },
+ {
+  "id": "name:balance",
+  "name": "Balance",
+  "website": null,
+  "domain": null,
+  "description": "Cryptocurrency investment platform and digital asset storage.",
+  "notes": "GTA unconfirmed: Techstars Toronto 2019 cohort. HQ not stated in source. Website not given in source, domain unknown.",
+  "sources": [
+   "https://brainstation.io/magazine/a-deep-look-into-the-2019-techstars-toronto-class"
+  ]
+ },
+ {
+  "id": "name:barley",
+  "name": "Barley",
+  "website": null,
+  "domain": null,
+  "description": null,
+  "notes": "GTA unconfirmed: Golden Ventures portfolio, region label \"Toronto & Waterloo\"",
+  "sources": [
+   "https://golden.ventures/portfolio"
+  ]
+ },
+ {
+  "id": "basetwo.ai",
+  "name": "Basetwo AI",
+  "website": "https://www.basetwo.ai/",
+  "domain": "basetwo.ai",
+  "description": null,
+  "notes": "GTA unconfirmed: featured on https://www.marsdd.com/connect/ (MaRS Connect logo strip).",
+  "sources": [
+   "https://www.marsdd.com/connect/"
+  ]
+ },
+ {
+  "id": "name:beaconsoftware",
+  "name": "Beacon Software",
+  "website": null,
+  "domain": null,
+  "description": null,
+  "notes": "GTA unconfirmed: Golden Ventures portfolio, region label \"Toronto & Waterloo\"",
+  "sources": [
+   "https://golden.ventures/portfolio"
+  ]
+ },
+ {
+  "id": "beblended.ca",
+  "name": "BeBlended",
+  "website": "https://www.beblended.ca",
+  "domain": "beblended.ca",
+  "description": null,
+  "notes": "GTA unconfirmed: Next 36 2020",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/?program=next-36"
+  ]
+ },
+ {
+  "id": "name:benchsci",
+  "name": "BenchSci",
+  "website": null,
+  "domain": null,
+  "description": "Machine learning platform for pharmaceutical R&D.",
+  "notes": "GTA unconfirmed: Golden Ventures portfolio, region label \"Toronto & Waterloo\"",
+  "sources": [
+   "https://golden.ventures/portfolio"
+  ]
+ },
+ {
+  "id": "benchwork.io",
+  "name": "Benchwork",
+  "website": "https://www.benchwork.io",
+  "domain": "benchwork.io",
+  "description": null,
+  "notes": "GTA unconfirmed: NextAI Toronto 2020",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/"
+  ]
+ },
+ {
+  "id": "name:bettermode",
+  "name": "Bettermode",
+  "website": null,
+  "domain": null,
+  "description": null,
+  "notes": "GTA unconfirmed: Golden Ventures portfolio, region label \"Toronto & Waterloo\"",
+  "sources": [
+   "https://golden.ventures/portfolio"
+  ]
+ },
+ {
+  "id": "name:biorenderio",
+  "name": "BioRender.io",
+  "website": null,
+  "domain": null,
+  "description": null,
+  "notes": "GTA unconfirmed: listed on Seedtable best startups in Toronto (search snippet only, page returned 403).",
+  "sources": [
+   "https://www.seedtable.com/best-startups-in-toronto"
+  ]
+ },
+ {
+  "id": "name:bluejlegal",
+  "name": "Blue J Legal",
+  "website": null,
+  "domain": null,
+  "description": null,
+  "notes": "GTA unconfirmed: listed on Seedtable best startups in Toronto (search snippet only, page returned 403).",
+  "sources": [
+   "https://www.seedtable.com/best-startups-in-toronto"
+  ]
+ },
+ {
+  "id": "bluelionlabs.weebly.com",
+  "name": "Blue Lion Labs",
+  "website": "https://bluelionlabs.weebly.com/",
+  "domain": "bluelionlabs.weebly.com",
+  "description": null,
+  "notes": "GTA unconfirmed: NextAI Toronto 2020",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/"
+  ]
+ },
+ {
+  "id": "name:bluedot",
+  "name": "BlueDot",
+  "website": null,
+  "domain": null,
+  "description": null,
+  "notes": "GTA unconfirmed: Golden Ventures portfolio, region label \"Toronto & Waterloo\"",
+  "sources": [
+   "https://golden.ventures/portfolio"
+  ]
+ },
+ {
+  "id": "bounceapp.ca",
+  "name": "Bounce",
+  "website": "https://www.bounceapp.ca/",
+  "domain": "bounceapp.ca",
+  "description": null,
+  "notes": "GTA unconfirmed: Next 36 2020",
+  "sources": [
+   "https://directory.nextcanada.com/directory/ventures/?program=next-36"
+  ]
+ },
+ {
+  "id": "name:brkaway",
+  "name": "Brkaway",
+  "website": null,
+  "domain": null,
+  "description": null,
+  "notes": "GTA unconfirmed: Golden Ventures portfolio, region label \"Toronto & Waterloo\"",
+  "sources": [
+   "https://golden.ventures/portfolio"
+  ]
+ },
+ {
+  "id": "name:broadbandnetworks",
+  "name": "Broadband Networks Inc.",
+  "website": null,
+  "domain": null,
+  "description": "Broadband wireless networks at 2-42 GHz",
+  "notes": "GTA unconfirmed: Whitecap portfolio. No website on portfolio page. HQ not found. Acquired by Northern Telecom in 1998; Nortel address sources conflict (Brampton, Ottawa, Toronto).",
+  "sources": [
+   "https://whitecapvp.com/portfolio"
+  ]
+ },
+ {
+  "id": "name:brodiesportsgroup",
+  "name": "Brodie Sports Group",
+  "website": null,
+  "domain": null,
+  "description": null,
+  "notes": "GTA unconfirmed: Golden Ventures portfolio, region label \"Toronto & Waterloo\"",
+  "sources": [
+   "https://golden.ventures/portfolio"
+  ]
+ },
+ {
+  "id": "name:bunch",
+  "name": "Bunch",
+  "website": null,
+  "domain": null,
+  "description": null,
+  "notes": "GTA unconfirmed: Golden Ventures portfolio, region label \"Toronto & Waterloo\"",
+  "sources": [
+   "https://golden.ventures/portfolio"
+  ]
+ }
+]
