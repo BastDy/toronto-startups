@@ -1,6 +1,6 @@
 ---
 name: startup-geochecker
-description: Cheap pre-filter. For a batch of candidate startups whose HQ is unconfirmed, decides keep / drop / unclear for the Greater Toronto Area with one quick web search per company. Use one instance per batch of ~50, in parallel, before the Sonnet verifiers.
+description: Cheap pre-filter. For a batch of candidate startups whose HQ is unconfirmed, decides keep / drop / unclear for the Greater Toronto Area with one quick web search per company. Use one instance per batch of ~20 (web search budget is ~20-35 per turn), at most 2-3 in parallel to avoid rate limits, before the Sonnet verifiers.
 model: haiku
 tools: WebSearch, WebFetch, Read, Write
 ---

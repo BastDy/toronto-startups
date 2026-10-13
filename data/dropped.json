@@ -1,0 +1,967 @@
+[
+  {
+    "name": "Ad Auris",
+    "website": null,
+    "domain": null,
+    "description": null,
+    "sector": null,
+    "city": null,
+    "founded": null,
+    "stage": null,
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://directory.nextcanada.com/directory/ventures/?program=next-36"
+    ],
+    "status": "unknown",
+    "verified": false,
+    "notes": "Dropped: ZoomInfo, Crunchbase, SeedTable: HQ Vancouver BC",
+    "id": "name:adauris",
+    "found_in": [
+      "next-canada"
+    ]
+  },
+  {
+    "name": "AFAIK.io",
+    "website": "https://afaik.io/",
+    "domain": "afaik.io",
+    "description": null,
+    "sector": "Edtech",
+    "city": null,
+    "founded": null,
+    "stage": null,
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://directory.nextcanada.com/directory/ventures/"
+    ],
+    "status": "unknown",
+    "verified": false,
+    "notes": "Dropped: Tracxn, Velocity Incubator: Kitchener ON, not GTA",
+    "id": "afaik.io",
+    "found_in": [
+      "next-canada"
+    ]
+  },
+  {
+    "name": "Altana",
+    "website": "https://altana.ai",
+    "domain": "altana.ai",
+    "description": null,
+    "sector": null,
+    "city": null,
+    "founded": null,
+    "stage": null,
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://omersventures.com/companies"
+    ],
+    "status": "unknown",
+    "verified": false,
+    "notes": "Dropped: Craft, company profiles: HQ Brooklyn NY (NYC)",
+    "id": "altana.ai",
+    "found_in": [
+      "vc-omers-georgian-other"
+    ]
+  },
+  {
+    "name": "Arkangel Ai",
+    "website": "https://www.arkangel.ai",
+    "domain": "arkangel.ai",
+    "description": null,
+    "sector": null,
+    "city": null,
+    "founded": null,
+    "stage": null,
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://directory.nextcanada.com/directory/ventures/?program=next-36"
+    ],
+    "status": "unknown",
+    "verified": false,
+    "notes": "Dropped: CB Insights, PitchBook: Bogota; Crunchbase: Montreal; not GTA",
+    "id": "arkangel.ai",
+    "found_in": [
+      "next-canada"
+    ]
+  },
+  {
+    "name": "Athena",
+    "website": "https://www.athenaisystems.com/",
+    "domain": "athenaisystems.com",
+    "description": null,
+    "sector": "Other",
+    "city": null,
+    "founded": null,
+    "stage": null,
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://directory.nextcanada.com/directory/ventures/"
+    ],
+    "status": "unknown",
+    "verified": false,
+    "notes": "Dropped: Crunchbase, LinkedIn: 1411 Broadway, New York NY",
+    "id": "athenaisystems.com",
+    "found_in": [
+      "next-canada"
+    ]
+  },
+  {
+    "name": "Avidbots",
+    "website": null,
+    "domain": null,
+    "description": null,
+    "sector": null,
+    "city": null,
+    "founded": null,
+    "stage": null,
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://golden.ventures/portfolio"
+    ],
+    "status": "unknown",
+    "verified": false,
+    "notes": "Dropped: Company HQ announcement: 45 Washburn Dr, Kitchener ON",
+    "id": "name:avidbots",
+    "found_in": [
+      "vc-golden-radical-inovia"
+    ]
+  },
+  {
+    "name": "AwakeAI Inc.",
+    "website": "https://www.awakeai.ca",
+    "domain": "awakeai.ca",
+    "description": null,
+    "sector": null,
+    "city": null,
+    "founded": null,
+    "stage": null,
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://directory.nextcanada.com/directory/ventures/?program=next-36"
+    ],
+    "status": "unknown",
+    "verified": false,
+    "notes": "Dropped: Company site, Crunchbase: Montreal QC",
+    "id": "awakeai.ca",
+    "found_in": [
+      "next-canada"
+    ]
+  },
+  {
+    "name": "Ayrton Energy",
+    "website": null,
+    "domain": null,
+    "description": null,
+    "sector": null,
+    "city": null,
+    "founded": null,
+    "stage": null,
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://www.marsdd.com/research-and-insights/how-ayrton-energy-found-its-first-investor/"
+    ],
+    "status": "unknown",
+    "verified": false,
+    "notes": "Dropped: Company site, CB Insights, PitchBook: Calgary AB",
+    "id": "name:ayrtonenergy",
+    "found_in": [
+      "mars"
+    ]
+  },
+  {
+    "name": "Balance",
+    "website": null,
+    "domain": null,
+    "description": "Cryptocurrency investment platform and digital asset storage.",
+    "sector": "Fintech",
+    "city": null,
+    "founded": null,
+    "stage": "Unknown",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://brainstation.io/magazine/a-deep-look-into-the-2019-techstars-toronto-class"
+    ],
+    "status": "unknown",
+    "verified": false,
+    "notes": "Dropped: Crunchbase, CB Insights: HQ Calgary AB; Toronto only as founding base",
+    "id": "name:balance",
+    "found_in": [
+      "techstars"
+    ]
+  },
+  {
+    "name": "CarbonCure",
+    "website": "https://www.carboncure.com/",
+    "domain": "carboncure.com",
+    "description": null,
+    "sector": null,
+    "city": null,
+    "founded": null,
+    "stage": null,
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://www.marsdd.com/connect/"
+    ],
+    "status": "unknown",
+    "verified": false,
+    "notes": "Dropped: Halifax/Dartmouth, Nova Scotia: Wikipedia, directories",
+    "id": "carboncure.com",
+    "found_in": [
+      "mars"
+    ]
+  },
+  {
+    "name": "Chimoney",
+    "website": null,
+    "domain": null,
+    "description": null,
+    "sector": "Fintech",
+    "city": null,
+    "founded": null,
+    "stage": "Unknown",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://techpoint.africa/2023/09/29/3-nigerian-startups-makes-up-techstars-toronto-cohort-as-it-makes-its-100th-investment-in-6-years/"
+    ],
+    "status": "unknown",
+    "verified": false,
+    "notes": "Dropped: Toronto HQ, but shut down May 2026 per Daba Finance",
+    "id": "name:chimoney",
+    "found_in": [
+      "techstars"
+    ]
+  },
+  {
+    "name": "Coastal Carbon",
+    "website": "https://getcoastalcarbon.com",
+    "domain": "getcoastalcarbon.com",
+    "description": null,
+    "sector": "Other",
+    "city": null,
+    "founded": null,
+    "stage": null,
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://directory.nextcanada.com/directory/ventures/?program=next-36"
+    ],
+    "status": "unknown",
+    "verified": false,
+    "notes": "Dropped: CB Insights: Kitchener, Ontario (not GTA)",
+    "id": "getcoastalcarbon.com",
+    "found_in": [
+      "next-canada"
+    ]
+  },
+  {
+    "name": "Destin AI",
+    "website": "https://destin.ai/",
+    "domain": "destin.ai",
+    "description": null,
+    "sector": null,
+    "city": null,
+    "founded": null,
+    "stage": null,
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://directory.nextcanada.com/directory/ventures/"
+    ],
+    "status": "unknown",
+    "verified": false,
+    "notes": "Dropped: Toronto HQ, but PitchBook: Out of Business (April 2024)",
+    "id": "destin.ai",
+    "found_in": [
+      "next-canada"
+    ]
+  },
+  {
+    "name": "EnPowered",
+    "website": null,
+    "domain": null,
+    "description": null,
+    "sector": null,
+    "city": null,
+    "founded": null,
+    "stage": null,
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://golden.ventures/portfolio"
+    ],
+    "status": "unknown",
+    "verified": false,
+    "notes": "Dropped: CB Insights/craft.co: Kitchener, ON (Waterloo Region, not GTA)",
+    "id": "name:enpowered",
+    "found_in": [
+      "vc-golden-radical-inovia"
+    ]
+  },
+  {
+    "name": "FentaGone",
+    "website": "https://fentagone.ca/",
+    "domain": "fentagone.ca",
+    "description": null,
+    "sector": "Healthtech",
+    "city": null,
+    "founded": null,
+    "stage": null,
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://directory.nextcanada.com/directory/ventures/?program=next-36"
+    ],
+    "status": "unknown",
+    "verified": false,
+    "notes": "Dropped: Taproot Edmonton news (2023): Edmonton, Alberta",
+    "id": "fentagone.ca",
+    "found_in": [
+      "next-canada"
+    ]
+  },
+  {
+    "name": "FluidAI",
+    "website": "https://fluidai.md/",
+    "domain": "fluidai.md",
+    "description": null,
+    "sector": null,
+    "city": null,
+    "founded": null,
+    "stage": null,
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://www.marsdd.com/connect/"
+    ],
+    "status": "unknown",
+    "verified": false,
+    "notes": "Dropped: Mergr/CB Insights/VCBacked: Kitchener, ON (Waterloo Region, not GTA)",
+    "id": "fluidai.md",
+    "found_in": [
+      "mars"
+    ]
+  },
+  {
+    "name": "interVal",
+    "website": "https://www.inter-val.ai/",
+    "domain": "inter-val.ai",
+    "description": null,
+    "sector": "Fintech",
+    "city": null,
+    "founded": null,
+    "stage": null,
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://directory.nextcanada.com/directory/ventures/"
+    ],
+    "status": "unknown",
+    "verified": false,
+    "notes": "Dropped: CB Insights: London, Ontario; not GTA",
+    "id": "inter-val.ai",
+    "found_in": [
+      "next-canada"
+    ]
+  },
+  {
+    "name": "Intuitive",
+    "website": "https://intuitiveai.ca/",
+    "domain": "intuitiveai.ca",
+    "description": null,
+    "sector": "Other",
+    "city": null,
+    "founded": null,
+    "stage": null,
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://directory.nextcanada.com/directory/ventures/"
+    ],
+    "status": "unknown",
+    "verified": false,
+    "notes": "Dropped: Directories: Vancouver, BC; not GTA",
+    "id": "intuitiveai.ca",
+    "found_in": [
+      "next-canada"
+    ]
+  },
+  {
+    "name": "Koat.ai",
+    "website": "https://koat.ai/",
+    "domain": "koat.ai",
+    "description": null,
+    "sector": "Media/Entertainment",
+    "city": null,
+    "founded": null,
+    "stage": null,
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://directory.nextcanada.com/directory/ventures/"
+    ],
+    "status": "unknown",
+    "verified": false,
+    "notes": "Dropped: VCBacked, CB Insights: Calgary, Canada",
+    "id": "koat.ai",
+    "found_in": [
+      "next-canada"
+    ]
+  },
+  {
+    "name": "Koomi",
+    "website": null,
+    "domain": null,
+    "description": "Point-of-sale system for line-ups, takeaway and on-the-go orders.",
+    "sector": "B2B SaaS",
+    "city": null,
+    "founded": null,
+    "stage": "Unknown",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://brainstation.io/magazine/a-deep-look-into-the-2019-techstars-toronto-class"
+    ],
+    "status": "unknown",
+    "verified": false,
+    "notes": "Dropped: Dealroom, G2, Ampliz: Montreal HQ",
+    "id": "name:koomi",
+    "found_in": [
+      "techstars"
+    ]
+  },
+  {
+    "name": "LaborHack",
+    "website": null,
+    "domain": null,
+    "description": "Nigerian marketplace connecting artisans to certifications and jobs, with payments, savings, micro credit and micro health insurance.",
+    "sector": "HR/Future of work",
+    "city": null,
+    "founded": 2020,
+    "stage": "Unknown",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://techpoint.africa/2022/12/15/techstars-toronto-winter-2022"
+    ],
+    "status": "unknown",
+    "verified": false,
+    "notes": "Dropped: PitchBook: Lagos Island, Nigeria",
+    "id": "name:laborhack",
+    "found_in": [
+      "techstars"
+    ]
+  },
+  {
+    "name": "Odyssey Interactive",
+    "website": null,
+    "domain": null,
+    "description": null,
+    "sector": null,
+    "city": null,
+    "founded": null,
+    "stage": null,
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://golden.ventures/portfolio"
+    ],
+    "status": "unknown",
+    "verified": false,
+    "notes": "Dropped: Osler, The Logic: Kitchener-Waterloo, not GTA",
+    "id": "name:odysseyinteractive",
+    "found_in": [
+      "vc-golden-radical-inovia"
+    ]
+  },
+  {
+    "name": "Operant.ai",
+    "website": "https://operantai.com/",
+    "domain": "operantai.com",
+    "description": null,
+    "sector": "Fintech",
+    "city": null,
+    "founded": null,
+    "stage": null,
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://directory.nextcanada.com/directory/ventures/"
+    ],
+    "status": "unknown",
+    "verified": false,
+    "notes": "Dropped: Built In, Inc42: San Francisco, CA",
+    "id": "operantai.com",
+    "found_in": [
+      "next-canada"
+    ]
+  },
+  {
+    "name": "OurPass",
+    "website": null,
+    "domain": null,
+    "description": null,
+    "sector": null,
+    "city": null,
+    "founded": 2020,
+    "stage": "Unknown",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://seedtable.com/investors/techstars/batch/class-273-toronto-2021-t6",
+      "https://technext.ng/2021/10/21/meet-the-8-african-startups-selected-for-techstars-toronto-october-2021-batch/"
+    ],
+    "status": "unknown",
+    "verified": false,
+    "notes": "Dropped: Seedtable: Abuja, Nigeria (third-party listing)",
+    "id": "name:ourpass",
+    "found_in": [
+      "techstars"
+    ]
+  },
+  {
+    "name": "Pibox",
+    "website": null,
+    "domain": null,
+    "description": "Creative-industry company founded by two brothers, Ivan and Pavlo Talaychuk.",
+    "sector": null,
+    "city": null,
+    "founded": null,
+    "stage": "Unknown",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://www.techstars.com/newsroom/midterm-report-techstars-torontos-second-2021-class",
+      "https://seedtable.com/investors/techstars/batch/class-273-toronto-2021-t6"
+    ],
+    "status": "unknown",
+    "verified": false,
+    "notes": "Dropped: Pibox site and Techstars: Ukraine-based",
+    "id": "name:pibox",
+    "found_in": [
+      "techstars"
+    ]
+  },
+  {
+    "name": "Roshi",
+    "website": "https://www.roshi.ai",
+    "domain": "roshi.ai",
+    "description": null,
+    "sector": "Edtech",
+    "city": null,
+    "founded": null,
+    "stage": null,
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://directory.nextcanada.com/directory/ventures/"
+    ],
+    "status": "unknown",
+    "verified": false,
+    "notes": "Dropped: roshi.ai/terms: registered office Vancouver, BC",
+    "id": "roshi.ai",
+    "found_in": [
+      "next-canada"
+    ]
+  },
+  {
+    "name": "Simpu",
+    "website": null,
+    "domain": null,
+    "description": null,
+    "sector": null,
+    "city": null,
+    "founded": null,
+    "stage": "Unknown",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://thecondia.com/nigerian-startups-techstars-toronto-2022/"
+    ],
+    "status": "unknown",
+    "verified": false,
+    "notes": "Dropped: CB Insights/PitchBook: 99 Hudson St, New York; Toronto only via investor",
+    "id": "name:simpu",
+    "found_in": [
+      "techstars"
+    ]
+  },
+  {
+    "name": "Sinitic",
+    "website": "https://www.sinitic.ai/",
+    "domain": "sinitic.ai",
+    "description": null,
+    "sector": "Other",
+    "city": null,
+    "founded": null,
+    "stage": null,
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://directory.nextcanada.com/directory/ventures/"
+    ],
+    "status": "unknown",
+    "verified": false,
+    "notes": "Dropped: Dealroom/Crunchbase: Vancouver, BC (now Proto)",
+    "id": "sinitic.ai",
+    "found_in": [
+      "next-canada"
+    ]
+  },
+  {
+    "name": "Skywatch",
+    "website": null,
+    "domain": null,
+    "description": null,
+    "sector": null,
+    "city": null,
+    "founded": null,
+    "stage": null,
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://golden.ventures/portfolio"
+    ],
+    "status": "unknown",
+    "verified": false,
+    "notes": "Dropped: Crunchbase/press release: Waterloo, ON (some list Kitchener)",
+    "id": "name:skywatch",
+    "found_in": [
+      "vc-golden-radical-inovia"
+    ]
+  },
+  {
+    "name": "Socialab",
+    "website": "https://www.socialabapp.com",
+    "domain": "socialabapp.com",
+    "description": null,
+    "sector": null,
+    "city": null,
+    "founded": null,
+    "stage": null,
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://directory.nextcanada.com/directory/ventures/?program=next-36"
+    ],
+    "status": "unknown",
+    "verified": false,
+    "notes": "Dropped: Crunchbase/CB Insights: Waterloo, Ontario",
+    "id": "socialabapp.com",
+    "found_in": [
+      "next-canada"
+    ]
+  },
+  {
+    "name": "StellarAlgo",
+    "website": null,
+    "domain": null,
+    "description": null,
+    "sector": null,
+    "city": null,
+    "founded": null,
+    "stage": null,
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://www.marsdd.com/research-and-insights/how-stellaralgo-refined-its-communications-game-plan/"
+    ],
+    "status": "unknown",
+    "verified": false,
+    "notes": "Dropped: Company contact page and LinkedIn: Calgary, AB",
+    "id": "name:stellaralgo",
+    "found_in": [
+      "mars"
+    ]
+  },
+  {
+    "name": "Summatti",
+    "website": "https://www.summatti.com/",
+    "domain": "summatti.com",
+    "description": null,
+    "sector": null,
+    "city": null,
+    "founded": null,
+    "stage": null,
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://directory.nextcanada.com/directory/ventures/"
+    ],
+    "status": "unknown",
+    "verified": false,
+    "notes": "Dropped: Business databases: Waterloo, Ontario (acquired by PartnerHero 2023)",
+    "id": "summatti.com",
+    "found_in": [
+      "next-canada"
+    ]
+  },
+  {
+    "name": "Synoro Med",
+    "website": "https://www.synoromed.com/",
+    "domain": "synoromed.com",
+    "description": null,
+    "sector": null,
+    "city": null,
+    "founded": null,
+    "stage": null,
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://directory.nextcanada.com/directory/ventures/?program=next-36"
+    ],
+    "status": "unknown",
+    "verified": false,
+    "notes": "Dropped: Company site and CB Insights: Vancouver, BC",
+    "id": "synoromed.com",
+    "found_in": [
+      "next-canada"
+    ]
+  },
+  {
+    "name": "Tenomix Inc.",
+    "website": "https://tenomix.com/",
+    "domain": "tenomix.com",
+    "description": null,
+    "sector": null,
+    "city": null,
+    "founded": null,
+    "stage": null,
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://directory.nextcanada.com/directory/ventures/"
+    ],
+    "status": "unknown",
+    "verified": false,
+    "notes": "Dropped: Crunchbase/LinkedIn: London, Ontario (Western Univ. building)",
+    "id": "tenomix.com",
+    "found_in": [
+      "next-canada"
+    ]
+  },
+  {
+    "name": "Tread.io",
+    "website": "https://tread.io",
+    "domain": "tread.io",
+    "description": "Software for securing, managing and financing construction equipment services.",
+    "sector": "B2B SaaS",
+    "city": null,
+    "founded": null,
+    "stage": "Unknown",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://brainstation.io/magazine/techstars-toronto-first-cohort-spans-five-countries-and-six-industries",
+      "https://betakit.com/techstars-announces-first-cohort-for-toronto-accelerator/"
+    ],
+    "status": "unknown",
+    "verified": false,
+    "notes": "Dropped: Current SF HQ (tread.ai, PitchBook); older listings say Toronto",
+    "id": "tread.io",
+    "found_in": [
+      "techstars"
+    ]
+  },
+  {
+    "name": "Triplet.ai",
+    "website": "https://www.triplet.ai/",
+    "domain": "triplet.ai",
+    "description": null,
+    "sector": "B2B SaaS",
+    "city": null,
+    "founded": null,
+    "stage": null,
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://directory.nextcanada.com/directory/ventures/"
+    ],
+    "status": "unknown",
+    "verified": false,
+    "notes": "Dropped: Crunchbase: Seocho, Seoul, South Korea",
+    "id": "triplet.ai",
+    "found_in": [
+      "next-canada"
+    ]
+  },
+  {
+    "name": "VanTech Med",
+    "website": "https://vantechmed.com",
+    "domain": "vantechmed.com",
+    "description": null,
+    "sector": null,
+    "city": null,
+    "founded": null,
+    "stage": null,
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": [
+      "https://directory.nextcanada.com/directory/ventures/?program=next-36"
+    ],
+    "status": "unknown",
+    "verified": false,
+    "notes": "Dropped: Company site and Tracxn: Vancouver, BC",
+    "id": "vantechmed.com",
+    "found_in": [
+      "next-canada"
+    ]
+  }
+]
