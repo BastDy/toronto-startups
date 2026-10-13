@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Xanadu Quantum Technologies",
+    "website": null,
+    "domain": null,
+    "description": "Photonic quantum computing company (CDL-Toronto venture).",
+    "sector": null,
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Unknown",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": ["https://creativedestructionlab.com/locations/toronto/", "https://www.sec.gov/Archives/edgar/data/0002097163/000121390026042080/ea0285152-20f_xanadu.htm"],
+    "status": "active",
+    "verified": false,
+    "notes": "HQ Toronto per 20-F (principal office 777 Bay Street, Suite 2400). Listed on CDL-Toronto page. Website and domain not found in sources."
+  },
+  {
+    "name": "Deep Genomics",
+    "website": "https://www.deepgenomics.com",
+    "domain": "deepgenomics.com",
+    "description": "AI-driven therapeutics discovery company (CDL-Toronto venture).",
+    "sector": "Biotech",
+    "city": "Toronto",
+    "founded": null,
+    "stage": "Unknown",
+    "employees": null,
+    "last_round": null,
+    "last_round_date": null,
+    "last_round_amount": null,
+    "linkedin": null,
+    "hiring": null,
+    "sources": ["https://creativedestructionlab.com/locations/toronto/", "https://builtintoronto.com/company/deep-genomics"],
+    "status": "active",
+    "verified": false,
+    "notes": "HQ Toronto (MaRS Discovery District area, University Ave) per CB Insights, Craft, company careers page. Suite number unconfirmed. Sector inferred from description, not stated on CDL page."
+  }
+]

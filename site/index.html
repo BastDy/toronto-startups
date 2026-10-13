@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Toronto Startups</title>
+  <meta name="description" content="Searchable directory of startups headquartered in the Greater Toronto Area.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="top">
+    <div class="wrap">
+      <h1>Toronto Startups</h1>
+      <p class="lede">Startups headquartered in the Greater Toronto Area, compiled from YC, VC portfolios, accelerators and funding news.</p>
+      <div class="stats" id="stats"></div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="controls" aria-label="Filters">
+      <input id="q" type="search" placeholder="Search name, description, notes..." aria-label="Search">
+      <select id="sector" aria-label="Sector"><option value="">All sectors</option></select>
+      <select id="stage" aria-label="Stage"><option value="">All stages</option></select>
+      <select id="city" aria-label="City"><option value="">All cities</option></select>
+      <label class="check"><input id="hiring" type="checkbox"> Hiring</label>
+      <label class="check"><input id="verified" type="checkbox"> Verified only</label>
+    </section>
+
+    <p class="count" id="count" aria-live="polite"></p>
+    <section class="grid" id="grid"></section>
+    <p class="empty" id="empty" hidden>No startup matches these filters.</p>
+  </main>
+
+  <footer class="wrap foot">
+    <p>Data compiled by AI agents and checked before publication. Fields left blank were not found in a reliable source. <a href="https://github.com/BastDy/toronto-startups">Source on GitHub</a>.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
