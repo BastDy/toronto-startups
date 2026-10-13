@@ -87,7 +87,9 @@ python scripts/build_site.py --candidates
 python -m http.server 8765 --directory site
 ```
 
-Puis ouvrir http://localhost:8765 (vue Carte ou Liste). Sans `--candidates`, le site lit la liste finale vérifiée `data/startups.json`.
+Puis ouvrir http://localhost:8765 (vue Carte ou Liste).
+
+Publier en ligne (GitHub Pages, branche `gh-pages`, sans workflow) : `python scripts/publish_pages.py`. Sans `--candidates`, le site lit la liste finale vérifiée `data/startups.json`.
 
 ## Structure
 
