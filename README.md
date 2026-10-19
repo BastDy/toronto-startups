@@ -91,6 +91,7 @@ Puis ouvrir http://localhost:8765 (vue Carte ou Liste).
 
 Exports :
 - `python scripts/export_csv.py` : `data/startups.csv` (liste finale) et `data/candidates.csv` (tous les candidats), lisibles dans Excel.
+- `data/youspot_companies.csv` (même script) : liste finale avec des en-têtes lisibles, à importer dans YouSpot (https://youspot.com) comme companies.
 - `python scripts/push_hubspot.py` : envoi vers HubSpot comme Companies (simulation par défaut, `--push` pour envoyer, `--all` pour tous les candidats). Token de private app dans `HUBSPOT_TOKEN` (`.env`). Mise à jour des companies existantes par domaine, sans doublons.
 
 Publier en ligne (GitHub Pages, branche `gh-pages`, sans workflow) : `python scripts/publish_pages.py`. Sans `--candidates`, le site lit la liste finale vérifiée `data/startups.json`.
